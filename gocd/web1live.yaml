@@ -3,7 +3,7 @@ pipelines:
     group: Static-Websites
     label_template: "${COUNT}"
     materials:
-      fuelling-the-debate-git:
+      visual-git:
         git: https://github.com/ukparliament/uk.parliament-visual.git
         branch: master
         auto_update: true

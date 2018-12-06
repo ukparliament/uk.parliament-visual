@@ -20,4 +20,4 @@ deploy_to_release:
 		--exclude "gocd/*" \
 		--exclude "Makefile" \
 		--exclude "README.md" \
-		--acl=public-read --delete . s3://$(AWS_ACCOUNT).visual.parliament.uk
+		--acl=public-read --delete . s3://visual.parliament.uk
