@@ -1,0 +1,25 @@
+pipelines:
+  visual:
+    group: common
+    label_template: "${COUNT}"
+    materials:
+      fuelling-the-debate-git:
+        git: https://github.com/ukparliament/uk.parliament-visual.git
+        branch: development
+        auto_update: true
+    stages:
+      - deploy:
+          jobs:
+            deploy:
+              tasks:
+                - exec:
+                    run_if: passed
+                    command: make
+                    arguments:
+                      - deploy_to_release
+
+
+environments:
+  Web.DEVCI:
+    pipelines:
+      - visual
