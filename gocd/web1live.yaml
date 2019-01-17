@@ -26,6 +26,6 @@ pipelines:
 
 
 environments:
-  Web.LIVE:
+  WebLIVE:
     pipelines:
       - visual
