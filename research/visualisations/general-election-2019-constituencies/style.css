@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    color: #404040;
+}
+
+#primary{
+    padding: 0;
+    text-align: center;
+}
+
+#secondary{
+    text-align: left;
+    margin: 0 auto;
+    max-width: 880px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0 20px 0;
+    font-size: 40px;
+    font-weight: normal;
+    color: #006548;
+    text-align: center;
+}
+
+#nav{
+	margin: 0 0 20px 0 ;
+	padding: 5px 10px 5px 10px;
+	border-bottom: 1px solid #d0d0d0;
+	text-align: left;
+}
+
+.tab {
+	margin: 0;
+	padding: 5px 10px 5px 10px;
+	font-weight: normal;
+	font-size: 12pt;
+	border: 1px solid #d0d0d0;
+	border-right: 0px none #d0d0d0;
+    color: #006548;
+	background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.tabend {
+	border-right: 1px solid #d0d0d0;
+}
+
+.tabactive {
+	border-bottom: 1px solid #ffffff;
+	background-color: #ffffff;
+}
+
+.tabhover {
+	color: #00bd86;
+}
+
+#vis {
+    text-align: center;
+    padding: 0 0 40px 0;
+}
+
+.grouplabel {
+    font-size: 10pt;
+    font-weight: bold;
+    fill: #484848;
+}
+
+a:link, a:visited {
+    color: #006548;
+}
+
+a:hover, a:active {
+    color: #00bd86
+}
+
+#infobox {
+	position: absolute;
+	text-align: center;
+	padding: 5px 10px 5px 10px;
+	font-size: 11pt;
+	background: #ffffff;
+	border: 1px solid #b8b8b8;
+	pointer-events: none;
+	opacity: 0;
+}
+
+#infobox p {
+	margin: 0;
+	padding: 0;
+	line-height: 1.4;
+	font-size: 11pt;
+}
+
+#infobox p.constituency {
+	font-weight: bold;
+}
+
+#infobox p.outcome {
+	font-weight: bold;
+}
+
+#footer {
+    margin: 0 0 40px 0;
+    padding: 0;
+}

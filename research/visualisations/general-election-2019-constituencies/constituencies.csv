@@ -1,0 +1,651 @@
+ons_id,constituency,county,region,xindex,yindex,result,gender,party,mp,experience,ons_id,gain_party,gain_result,loss_party,loss_result
+N06000008,Foyle,Northern Ireland,Northern Ireland,9,55,Undeclared,Undeclared,Undeclared,,Undeclared,N06000008,,Undeclared,,Undeclared
+N06000018,West Tyrone,Northern Ireland,Northern Ireland,8,54,SF hold,Male,SF,Barry McElduff,New MP,N06000018,,SF hold,,SF hold
+N06000007,Fermanagh and South Tyrone,Northern Ireland,Northern Ireland,8,53,SF gain from UUP,Female,SF,Michelle Gildernew,Returning MP,N06000007,SF,SF gain from UUP,UUP,UUP loss to SF
+N06000010,Mid Ulster,Northern Ireland,Northern Ireland,9,54,SF hold,Male,SF,Francie Molloy,Sitting MP,N06000010,,SF hold,,SF hold
+N06000006,East Londonderry,Northern Ireland,Northern Ireland,10,55,DUP hold,Male,DUP,Gregory Campbell,Sitting MP,N06000006,,DUP hold,,DUP hold
+N06000017,Upper Bann,Northern Ireland,Northern Ireland,9,53,DUP hold,Male,DUP,David Simpson,Sitting MP,N06000017,,DUP hold,,DUP hold
+N06000011,Newry and Armagh,Northern Ireland,Northern Ireland,9,52,SF hold,Male,SF,Mickey Brady,Sitting MP,N06000011,,SF hold,,SF hold
+N06000014,South Antrim,Northern Ireland,Northern Ireland,10,54,DUP gain from UUP,Male,DUP,Paul Girvan,New MP,N06000014,DUP,DUP gain from UUP,UUP,UUP loss to DUP
+N06000012,North Antrim,Northern Ireland,Northern Ireland,11,55,DUP hold,Male,DUP,Ian Paisley,Sitting MP,N06000012,,DUP hold,,DUP hold
+N06000015,South Down,Northern Ireland,Northern Ireland,10,52,SF gain from SDLP,Male,SF,Chris Hazzard,New MP,N06000015,SF,SF gain from SDLP,SDLP,SDLP loss to SF
+N06000009,Lagan Valley,Northern Ireland,Northern Ireland,10,53,DUP hold,Male,DUP,Jeffrey Donaldson,Sitting MP,N06000009,,DUP hold,,DUP hold
+N06000005,East Antrim,Northern Ireland,Northern Ireland,12,55,DUP hold,Male,DUP,Sammy Wilson,Sitting MP,N06000005,,DUP hold,,DUP hold
+N06000002,Belfast North,Northern Ireland,Northern Ireland,11,54,DUP hold,Male,DUP,Nigel Dodds,Sitting MP,N06000002,,DUP hold,,DUP hold
+N06000004,Belfast West,Northern Ireland,Northern Ireland,11,53,SF hold,Male,SF,Paul Maskey,Sitting MP,N06000004,,SF hold,,SF hold
+N06000016,Strangford,Northern Ireland,Northern Ireland,11,52,DUP hold,Male,DUP,Jim Shannon,Sitting MP,N06000016,,DUP hold,,DUP hold
+N06000003,Belfast South,Northern Ireland,Northern Ireland,12,53,DUP gain from SDLP,Female,DUP,Emma Little Pengelly,New MP,N06000003,DUP,DUP gain from SDLP,SDLP,SDLP loss to DUP
+N06000001,Belfast East,Northern Ireland,Northern Ireland,12,54,DUP hold,Male,DUP,Gavin Robinson,Sitting MP,N06000001,,DUP hold,,DUP hold
+N06000013,North Down,Northern Ireland,Northern Ireland,12,52,Ind hold,Female,Oth,Sylvia Hermon,Sitting MP,N06000013,,Ind hold,,Ind hold
+S14000038,Inverclyde,Glasgow & Clyde,Scotland,16,66,SNP hold,Male,SNP,Ronnie Cowan,Sitting MP,S14000038,,SNP hold,,SNP hold
+S14000048,North Ayrshire and Arran,South West Scotland,Scotland,18,62,SNP hold,Female,SNP,Patricia Gibson,Sitting MP,S14000048,,SNP hold,,SNP hold
+E14000964,St Ives,Cornwall,South West,12,4,Con hold,Male,Con,Derek Thomas,Sitting MP,E14000964,,Con hold,,Con hold
+S14000053,Paisley and Renfrewshire South,Glasgow & Clyde,Scotland,17,65,SNP hold,Female,SNP,Mhairi Black,Sitting MP,S14000053,,SNP hold,,SNP hold
+S14000052,Paisley and Renfrewshire North,Glasgow & Clyde,Scotland,17,66,SNP hold,Male,SNP,Gavin Newlands,Sitting MP,S14000052,,SNP hold,,SNP hold
+S14000059,West Dunbartonshire,Glasgow & Clyde,Scotland,18,68,SNP hold,Male,SNP,Martin Docherty-Hughes,Sitting MP,S14000059,,SNP hold,,SNP hold
+E14000616,Camborne and Redruth,Cornwall,South West,13,4,Con hold,Male,Con,George Eustice,Sitting MP,E14000616,,Con hold,,Con hold
+W07000046,Gower,South Wales,Wales,15,19,Lab gain from Con,Female,Lab,Tonia Antoniazzi,New MP,W07000046,Lab,Lab gain from Con,Con,Con loss to Lab
+W07000047,Swansea West,South Wales,Wales,16,19,Lab hold,Male,Lab,Geraint Davies,Sitting MP,W07000047,,Lab hold,,Lab hold
+S14000021,East Renfrewshire,Glasgow & Clyde,Scotland,18,65,Con gain from SNP,Male,Con,Paul Masterton,New MP,S14000021,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000018,East Dunbartonshire,Glasgow & Clyde,Scotland,19,68,LD gain from SNP,Female,LD,Jo Swinson,Returning MP,S14000018,LD,LD gain from SNP,SNP,SNP loss to LD
+E14001003,Truro and Falmouth,Cornwall,South West,14,4,Con hold,Female,Con,Sarah Newton,Sitting MP,E14001003,,Con hold,,Con hold
+W07000066,Carmarthen West and South Pembrokeshire,West Wales,Wales,11,22,Con hold,Male,Con,Simon Hart,Sitting MP,W07000066,,Con hold,,Con hold
+W07000048,Swansea East,South Wales,Wales,17,19,Lab hold,Female,Lab,Carolyn Harris,Sitting MP,W07000048,,Lab hold,,Lab hold
+W07000065,Preseli Pembrokeshire,West Wales,Wales,10,22,Con hold,Male,Con,Stephen Crabb,Sitting MP,W07000065,,Con hold,,Con hold
+S14000027,Na h-Eileanan an Iar,Highlands & Islands,Scotland,20,77,SNP hold,Male,SNP,Angus MacNeil,Sitting MP,S14000027,,SNP hold,,SNP hold
+E14000961,St Austell and Newquay,Cornwall,South West,15,4,Con hold,Male,Con,Steve Double,Sitting MP,E14000961,,Con hold,,Con hold
+W07000041,Ynys Mon,North Wales,Wales,15,35,Lab hold,Male,Lab,Albert Owen,Sitting MP,W07000041,,Lab hold,,Lab hold
+W07000045,Llanelli,West Wales,Wales,12,21,Lab hold,Female,Lab,Nia Griffith,Sitting MP,W07000045,,Lab hold,,Lab hold
+W07000061,Dwyfor Meirionnydd,North Wales,Wales,16,33,PC hold,Female,PC,Liz Saville Roberts,Sitting MP,W07000061,,PC hold,,PC hold
+W07000067,Carmarthen East and Dinefwr,West Wales,Wales,12,22,PC hold,Male,PC,Jonathan Edwards,Sitting MP,W07000067,,PC hold,,PC hold
+W07000074,Ogmore,South Wales,Wales,18,18,Lab hold,Male,Lab,Chris Elmore,Sitting MP,W07000074,,Lab hold,,Lab hold
+W07000073,Bridgend,South Wales,Wales,18,17,Lab hold,Female,Lab,Madeleine Moon,Sitting MP,W07000073,,Lab hold,,Lab hold
+W07000049,Aberavon,South Wales,Wales,17,18,Lab hold,Male,Lab,Stephen Kinnock,Sitting MP,W07000049,,Lab hold,,Lab hold
+W07000064,Ceredigion,Mid Wales,Wales,15,25,PC gain from LD,Male,PC,Ben Lake,New MP,W07000064,PC,PC gain from LD,LD,LD loss to PC
+W07000069,Neath,South Wales,Wales,18,19,Lab hold,Female,Lab,Christina Rees,Sitting MP,W07000069,,Lab hold,,Lab hold
+S14000005,Argyll and Bute,Highlands & Islands,Scotland,21,74,SNP hold,Male,SNP,Brendan O'Hara,Sitting MP,S14000005,,SNP hold,,SNP hold
+S14000055,"Ross, Skye and Lochaber",Highlands & Islands,Scotland,21,75,SNP hold,Male,SNP,Ian Blackford,Sitting MP,S14000055,,SNP hold,,SNP hold
+E14000938,South East Cornwall,Cornwall,South West,16,4,Con hold,Female,Con,Sheryll Murray,Sitting MP,E14000938,,Con hold,,Con hold
+E14000837,North Cornwall,Cornwall,South West,16,5,Con hold,Male,Con,Scott Mann,Sitting MP,E14000837,,Con hold,,Con hold
+W07000057,Arfon,North Wales,Wales,16,34,PC hold,Male,PC,Hywel Williams,Sitting MP,W07000057,,PC hold,,PC hold
+W07000063,Montgomeryshire,Mid Wales,Wales,16,26,Con hold,Male,Con,Glyn Davies,Sitting MP,W07000063,,Con hold,,Con hold
+W07000068,Brecon and Radnorshire,Mid Wales,Wales,16,25,Con hold,Male,Con,Chris Davies,Sitting MP,W07000068,,Con hold,,Con hold
+W07000078,Vale of Glamorgan,South Wales,Wales,19,16,Con hold,Male,Con,Alun Cairns,Sitting MP,W07000078,,Con hold,,Con hold
+W07000052,Rhondda,South Wales,Wales,19,18,Lab hold,Male,Lab,Chris Bryant,Sitting MP,W07000052,,Lab hold,,Lab hold
+W07000075,Pontypridd,South Wales,Wales,19,17,Lab hold,Male,Lab,Owen Smith,Sitting MP,W07000075,,Lab hold,,Lab hold
+W07000070,Cynon Valley,South Wales,Wales,19,19,Lab hold,Female,Lab,Ann Clwyd,Sitting MP,W07000070,,Lab hold,,Lab hold
+S14000033,Glasgow North West,Glasgow & Clyde,Scotland,18,67,SNP hold,Female,SNP,Carol Monaghan,Sitting MP,S14000033,,SNP hold,,SNP hold
+S14000035,Glasgow South West,Glasgow & Clyde,Scotland,18,66,SNP hold,Male,SNP,Chris Stephens,Sitting MP,S14000035,,SNP hold,,SNP hold
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",Highlands & Islands,Scotland,22,75,SNP hold,Male,SNP,Drew Hendry,Sitting MP,S14000039,,SNP hold,,SNP hold
+S14000009,"Caithness, Sutherland and Easter Ross",Highlands & Islands,Scotland,22,76,LD gain from SNP,Male,LD,Jamie Stone,New MP,S14000009,LD,LD gain from SNP,SNP,SNP loss to LD
+W07000058,Aberconwy,North Wales,Wales,17,34,Con hold,Male,Con,Guto Bebb,Sitting MP,W07000058,,Con hold,,Con hold
+W07000080,Cardiff South and Penarth,South Wales,Wales,20,16,Lab hold,Male,Lab,Stephen Doughty,Sitting MP,W07000080,,Lab hold,,Lab hold
+W07000071,Merthyr Tydfil and Rhymney,South Wales,Wales,20,19,Lab hold,Male,Lab,Gerald Jones,Sitting MP,W07000071,,Lab hold,,Lab hold
+W07000079,Cardiff West,South Wales,Wales,20,17,Lab hold,Male,Lab,Kevin Brennan,Sitting MP,W07000079,,Lab hold,,Lab hold
+S14000034,Glasgow South,Glasgow & Clyde,Scotland,19,65,SNP hold,Male,SNP,Stewart McDonald,Sitting MP,S14000034,,SNP hold,,SNP hold
+S14000031,Glasgow North,Glasgow & Clyde,Scotland,19,67,SNP hold,Male,SNP,Patrick Grady,Sitting MP,S14000031,,SNP hold,,SNP hold
+S14000029,Glasgow Central,Glasgow & Clyde,Scotland,19,66,SNP hold,Female,SNP,Alison Thewliss,Sitting MP,S14000029,,SNP hold,,SNP hold
+S14000054,Perth and North Perthshire,Fife & Mid Scotland,Scotland,23,70,SNP hold,Male,SNP,Pete Wishart,Sitting MP,S14000054,,SNP hold,,SNP hold
+S14000057,Stirling,Fife & Mid Scotland,Scotland,23,69,Con gain from SNP,Male,Con,Stephen Kerr,New MP,S14000057,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000017,Dunfermline and West Fife,Fife & Mid Scotland,Scotland,24,69,SNP hold,Male,SNP,Douglas Chapman,Sitting MP,S14000017,,SNP hold,,SNP hold
+S14000046,Moray,Highlands & Islands,Scotland,23,75,Con gain from SNP,Male,Con,Douglas Ross,New MP,S14000046,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000051,Orkney and Shetland,Highlands & Islands,Scotland,23,78,LD hold,Male,LD,Alistair Carmichael,Sitting MP,S14000051,,LD hold,,LD hold
+W07000076,Caerphilly,South Wales,Wales,20,18,Lab hold,Male,Lab,Wayne David,Sitting MP,W07000076,,Lab hold,,Lab hold
+E14000880,"Plymouth, Sutton and Devonport",Devon,South West,19,4,Lab gain from Con,Male,Lab,Luke Pollard,New MP,E14000880,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000879,"Plymouth, Moor View",Devon,South West,19,5,Con hold,Male,Con,Johnny Mercer,Sitting MP,E14000879,,Con hold,,Con hold
+E14001000,Torridge and West Devon,Devon,South West,19,6,Con hold,Male,Con,Geoffrey Cox,Sitting MP,E14001000,,Con hold,,Con hold
+W07000059,Clwyd West,North Wales,Wales,18,34,Con hold,Male,Con,David Jones,Sitting MP,W07000059,,Con hold,,Con hold
+W07000062,Clwyd South,North Wales,Wales,19,33,Lab hold,Female,Lab,Susan Elan Jones,Sitting MP,W07000062,,Lab hold,,Lab hold
+W07000060,Vale of Clwyd,North Wales,Wales,19,34,Lab gain from Con,Male,Lab,Chris Ruane,Returning MP,W07000060,Lab,Lab gain from Con,Con,Con loss to Lab
+W07000050,Cardiff Central,South Wales,Wales,21,16,Lab hold,Female,Lab,Jo Stevens,Sitting MP,W07000050,,Lab hold,,Lab hold
+W07000077,Islwyn,South Wales,Wales,21,18,Lab hold,Male,Lab,Chris Evans,Sitting MP,W07000077,,Lab hold,,Lab hold
+W07000072,Blaenau Gwent,South Wales,Wales,21,19,Lab hold,Male,Lab,Nick Smith,Sitting MP,W07000072,,Lab hold,,Lab hold
+W07000051,Cardiff North,South Wales,Wales,21,17,Lab gain from Con,Female,Lab,Anna McMorrin,New MP,W07000051,Lab,Lab gain from Con,Con,Con loss to Lab
+S14000032,Glasgow North East,Glasgow & Clyde,Scotland,20,67,Lab gain from SNP,Male,Lab,Paul Sweeney,New MP,S14000032,Lab,Lab gain from SNP,SNP,SNP loss to Lab
+S14000030,Glasgow East,Glasgow & Clyde,Scotland,20,66,SNP hold,Male,SNP,David Linden,New MP,S14000030,,SNP hold,,SNP hold
+S14000041,Kirkcaldy and Cowdenbeath,Fife & Mid Scotland,Scotland,25,69,Lab gain from SNP,Female,Lab,Lesley Laird,New MP,S14000041,Lab,Lab gain from SNP,SNP,SNP loss to Lab
+S14000050,Ochil and South Perthshire,Fife & Mid Scotland,Scotland,24,70,Con gain from SNP,Male,Con,Luke  Graham,New MP,S14000050,Con,Con gain from SNP,SNP,SNP loss to Con
+E14001044,Wirral West,Merseyside,North West,20,39,Lab hold,Female,Lab,Margaret Greenwood,Sitting MP,E14001044,,Lab hold,,Lab hold
+E14001043,Wirral South,Merseyside,North West,21,38,Lab hold,Female,Lab,Alison McGovern,Sitting MP,E14001043,,Lab hold,,Lab hold
+E14000926,Shrewsbury and Atcham,Shropshire,West Midlands,21,28,Con hold,Male,Con,Daniel Kawczynski,Sitting MP,E14000926,,Con hold,,Con hold
+E14000799,Ludlow,Shropshire,West Midlands,21,27,Con hold,Male,Con,Philip Dunne,Sitting MP,E14000799,,Con hold,,Con hold
+E14000849,North Shropshire,Shropshire,West Midlands,21,29,Con hold,Male,Con,Owen Paterson,Sitting MP,E14000849,,Con hold,,Con hold
+E14001001,Totnes,Devon,South West,20,5,Con hold,Female,Con,Sarah Wollaston,Sitting MP,E14001001,,Con hold,,Con hold
+E14000950,South West Devon,Devon,South West,20,4,Con hold,Male,Con,Gary Streeter,Sitting MP,E14000950,,Con hold,,Con hold
+E14000623,Central Devon,Devon,South West,20,6,Con hold,Male,Con,Mel Stride,Sitting MP,E14000623,,Con hold,,Con hold
+W07000043,Alyn and Deeside,North Wales,Wales,20,33,Lab hold,Male,Lab,Mark Tami,Sitting MP,W07000043,,Lab hold,,Lab hold
+W07000044,Wrexham,North Wales,Wales,20,32,Lab hold,Male,Lab,Ian Lucas,Sitting MP,W07000044,,Lab hold,,Lab hold
+W07000042,Delyn,North Wales,Wales,20,34,Lab hold,Male,Lab,David Hanson,Sitting MP,W07000042,,Lab hold,,Lab hold
+W07000056,Newport West,South Wales,Wales,22,17,Lab hold,Male,Lab,Paul Flynn,Sitting MP,W07000056,,Lab hold,,Lab hold
+W07000053,Torfaen,South Wales,Wales,22,18,Lab hold,Male,Lab,Nick Thomas-Symonds,Sitting MP,W07000053,,Lab hold,,Lab hold
+S14000049,North East Fife,Fife & Mid Scotland,Scotland,27,69,SNP hold,Male,SNP,Stephen Gethins,Sitting MP,S14000049,,SNP hold,,SNP hold
+S14000036,Glenrothes,Fife & Mid Scotland,Scotland,26,69,SNP hold,Male,SNP,Peter Grant,Sitting MP,S14000036,,SNP hold,,SNP hold
+E14000559,Birkenhead,Merseyside,North West,21,39,Lab hold,Male,Lab,Frank Field,Sitting MP,E14000559,,Lab hold,,Lab hold
+E14001010,Wallasey,Merseyside,North West,20,40,Lab hold,Female,Lab,Angela Eagle,Sitting MP,E14001010,,Lab hold,,Lab hold
+E14000916,Sefton Central,Merseyside,North West,22,43,Lab hold,Male,Lab,Bill Esterson,Sitting MP,E14000916,,Lab hold,,Lab hold
+E14000958,Southport,Merseyside,North West,22,44,Con gain from LD,Male,Con,Damien Moore,New MP,E14000958,Con,Con gain from LD,LD,LD loss to Con
+E14000581,Bootle,Merseyside,North West,21,42,Lab hold,Male,Lab,Peter Dowd,Sitting MP,E14000581,,Lab hold,,Lab hold
+E14000989,Telford,Shropshire,West Midlands,22,27,Con hold,Female,Con,Lucy Allan,Sitting MP,E14000989,,Con hold,,Con hold
+E14000992,The Wrekin,Shropshire,West Midlands,22,28,Con hold,Male,Con,Mark Pritchard,Sitting MP,E14000992,,Con hold,,Con hold
+E14000999,Torbay,Devon,South West,21,4,Con hold,Male,Con,Kevin Foster,Sitting MP,E14000999,,Con hold,,Con hold
+E14000698,Exeter,Devon,South West,21,6,Lab hold,Male,Lab,Ben Bradshaw,Sitting MP,E14000698,,Lab hold,,Lab hold
+E14000838,North Devon,Devon,South West,21,7,Con hold,Male,Con,Peter Heaton-Jones,Sitting MP,E14000838,,Con hold,,Con hold
+E14000835,Newton Abbot,Devon,South West,21,5,Con hold,Female,Con,Anne Marie Morris,Sitting MP,E14000835,,Con hold,,Con hold
+W07000055,Newport East,South Wales,Wales,23,17,Lab hold,Female,Lab,Jessica Morden,Sitting MP,W07000055,,Lab hold,,Lab hold
+W07000054,Monmouth,South Wales,Wales,23,18,Con hold,Male,Con,David Davies,Sitting MP,W07000054,,Con hold,,Con hold
+S14000013,Dumfries and Galloway,South West Scotland,Scotland,19,59,Con gain from SNP,Male,Con,Alister Jack,New MP,S14000013,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000006,"Ayr, Carrick and Cumnock",South West Scotland,Scotland,19,60,Con gain from SNP,Male,Con,Bill Grant,New MP,S14000006,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000010,Central Ayrshire,South West Scotland,Scotland,18,61,SNP hold,Female,SNP,Philippa Whitford,Sitting MP,S14000010,,SNP hold,,SNP hold
+S14000040,Kilmarnock and Loudoun,South West Scotland,Scotland,19,61,SNP hold,Male,SNP,Alan Brown,Sitting MP,S14000040,,SNP hold,,SNP hold
+S14000016,Dundee West,North East Scotland,Scotland,27,71,SNP hold,Male,SNP,Chris Law,Sitting MP,S14000016,,SNP hold,,SNP hold
+E14000793,"Liverpool, Riverside",Merseyside,North West,21,41,Lab hold,Female,Lab,Louise Ellman,Sitting MP,E14000793,,Lab hold,,Lab hold
+E14000794,"Liverpool, Walton",Merseyside,North West,22,42,Lab hold,Male,Lab,Dan Carden,New MP,E14000794,,Lab hold,,Lab hold
+E14001053,Workington,Cumbria,North West,24,54,Lab hold,Female,Lab,Sue Hayman,Sitting MP,E14001053,,Lab hold,,Lab hold
+E14000543,Barrow and Furness,Cumbria,North West,24,52,Lab hold,Male,Lab,John Woodcock,Sitting MP,E14000543,,Lab hold,,Lab hold
+E14000647,Copeland,Cumbria,North West,24,53,Con gain from Lab,Female,Con,Trudy Harrison,Sitting MP,E14000647,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000678,East Devon,Devon,South West,22,6,Con hold,Male,Con,Hugo Swire,Sitting MP,E14000678,,Con hold,,Con hold
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Lanarkshire & Falkirk,Scotland,20,59,Con hold,Male,Con,David Mundell,Sitting MP,S14000014,,Con hold,,Con hold
+S14000011,"Coatbridge, Chryston and Bellshill",Lanarkshire & Falkirk,Scotland,23,66,Lab gain from SNP,Male,Lab,Hugh Gaffney,New MP,S14000011,Lab,Lab gain from SNP,SNP,SNP loss to Lab
+S14000019,"East Kilbride, Strathaven and Lesmahagow",Lanarkshire & Falkirk,Scotland,23,64,SNP hold,Female,SNP,Lisa Cameron,Sitting MP,S14000019,,SNP hold,,SNP hold
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Lanarkshire & Falkirk,Scotland,23,67,SNP hold,Male,SNP,Stuart McDonald,Sitting MP,S14000012,,SNP hold,,SNP hold
+S14000056,Rutherglen and Hamilton West,Lanarkshire & Falkirk,Scotland,23,65,Lab gain from SNP,Male,Lab,Gerard Killen,New MP,S14000056,Lab,Lab gain from SNP,SNP,SNP loss to Lab
+S14000004,Angus,North East Scotland,Scotland,28,72,Con gain from SNP,Female,Con,Kirstene Hair,New MP,S14000004,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000015,Dundee East,North East Scotland,Scotland,28,71,SNP hold,Male,SNP,Stewart Hosie,Sitting MP,S14000015,,SNP hold,,SNP hold
+S14000058,West Aberdeenshire and Kincardine,North East Scotland,Scotland,28,73,Con gain from SNP,Male,Con,Andrew Bowie,New MP,S14000058,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000037,Gordon,North East Scotland,Scotland,28,74,Con gain from SNP,Male,Con,Colin Clark,New MP,S14000037,Con,Con gain from SNP,SNP,SNP loss to Con
+E14001017,Warrington North,Cheshire,North West,25,38,Lab hold,Female,Lab,Helen Jones,Sitting MP,E14001017,,Lab hold,,Lab hold
+E14000795,"Liverpool, Wavertree",Merseyside,North West,22,40,Lab hold,Female,Lab,Luciana Berger,Sitting MP,E14000795,,Lab hold,,Lab hold
+E14000796,"Liverpool, West Derby",Merseyside,North West,22,41,Lab hold,Male,Lab,Stephen Twigg,Sitting MP,E14000796,,Lab hold,,Lab hold
+E14000640,City of Chester,Cheshire,North West,24,36,Lab hold,Male,Lab,Christian Matheson,Sitting MP,E14000640,,Lab hold,,Lab hold
+E14000688,Ellesmere Port and Neston,Cheshire,North West,24,37,Lab hold,Male,Lab,Justin Madders,Sitting MP,E14000688,,Lab hold,,Lab hold
+E14001037,Westmorland and Lonsdale,Cumbria,North West,25,52,LD hold,Male,LD,Tim Farron,Sitting MP,E14001037,,LD hold,,LD hold
+E14000877,Penrith and The Border,Cumbria,North West,25,53,Con hold,Male,Con,Rory Stewart,Sitting MP,E14000877,,Con hold,,Con hold
+E14000620,Carlisle,Cumbria,North West,25,54,Con hold,Male,Con,John Stevenson,Sitting MP,E14000620,,Con hold,,Con hold
+E14000996,Tiverton and Honiton,Devon,South West,23,6,Con hold,Male,Con,Neil Parish,Sitting MP,E14000996,,Con hold,,Con hold
+E14000595,Bridgwater and West Somerset,Somerset,South West,23,10,Con hold,Male,Con,Ian Liddell-Grainger,Sitting MP,E14000595,,Con hold,,Con hold
+E14000988,Taunton Deane,Somerset,South West,23,9,Con hold,Female,Con,Rebecca Pow,Sitting MP,E14000988,,Con hold,,Con hold
+S14000008,"Berwickshire, Roxburgh and Selkirk",Lothian & Borders,Scotland,28,63,Con gain from SNP,Male,Con,John Lamont,New MP,S14000008,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000047,Motherwell and Wishaw,Lanarkshire & Falkirk,Scotland,24,65,SNP hold,Female,SNP,Marion Fellows,Sitting MP,S14000047,,SNP hold,,SNP hold
+S14000003,Airdrie and Shotts,Lanarkshire & Falkirk,Scotland,24,66,SNP hold,Male,SNP,Neil Gray,Sitting MP,S14000003,,SNP hold,,SNP hold
+S14000042,Lanark and Hamilton East,Lanarkshire & Falkirk,Scotland,24,64,SNP hold,Female,SNP,Angela Crawley,Sitting MP,S14000042,,SNP hold,,SNP hold
+S14000028,Falkirk,Lanarkshire & Falkirk,Scotland,24,67,SNP hold,Male,SNP,John Mc Nally,Sitting MP,S14000028,,SNP hold,,SNP hold
+S14000002,Aberdeen South,North East Scotland,Scotland,29,73,Con gain from SNP,Male,Con,Ross Thomson,New MP,S14000002,Con,Con gain from SNP,SNP,SNP loss to Con
+S14000001,Aberdeen North,North East Scotland,Scotland,29,74,SNP hold,Female,SNP,Kirsty Blackman,Sitting MP,S14000001,,SNP hold,,SNP hold
+S14000007,Banff and Buchan,North East Scotland,Scotland,29,75,Con gain from SNP,Male,Con,David Duguid,New MP,S14000007,Con,Con gain from SNP,SNP,SNP loss to Con
+E14000573,Blackpool South,Lancashire,North West,25,46,Lab hold,Male,Lab,Gordon Marsden,Sitting MP,E14000573,,Lab hold,,Lab hold
+E14000572,Blackpool North and Cleveleys,Lancashire,North West,25,47,Con hold,Male,Con,Paul Maynard,Sitting MP,E14000572,,Con hold,,Con hold
+E14001018,Warrington South,Cheshire,North West,26,38,Lab gain from Con,Male,Lab,Faisal  Rashid,New MP,E14001018,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000775,Knowsley,Merseyside,North West,23,41,Lab hold,Male,Lab,George Howarth,Sitting MP,E14000775,,Lab hold,,Lab hold
+E14000708,Garston and Halewood,Merseyside,North West,23,40,Lab hold,Female,Lab,Maria Eagle,Sitting MP,E14000708,,Lab hold,,Lab hold
+E14000672,Dudley South,West Midlands,West Midlands,24,26,Con hold,Male,Con,Mike Wood,Sitting MP,E14000672,,Con hold,,Con hold
+E14000671,Dudley North,West Midlands,West Midlands,24,27,Lab hold,Male,Lab,Ian Austin,Sitting MP,E14000671,,Lab hold,,Lab hold
+E14000850,North Somerset,Somerset,South West,24,11,Con hold,Male,Con,Liam Fox,Sitting MP,E14000850,,Con hold,,Con hold
+E14001038,Weston-Super-Mare,Somerset,South West,23,11,Con hold,Male,Con,John Penrose,Sitting MP,E14001038,,Con hold,,Con hold
+E14001051,Wolverhampton South West,West Midlands,West Midlands,24,28,Lab hold,Female,Lab,Eleanor Smith,New MP,E14001051,,Lab hold,,Lab hold
+E14000686,Eddisbury,Cheshire,North West,25,36,Con hold,Female,Con,Antoinette Sandbach,Sitting MP,E14000686,,Con hold,,Con hold
+E14001024,Weaver Vale,Cheshire,North West,25,37,Lab gain from Con,Male,Lab,Mike Amesbury,New MP,E14001024,Lab,Lab gain from Con,Con,Con loss to Lab
+E14001033,West Lancashire,Lancashire,North West,26,44,Lab hold,Female,Lab,Rosie Cooper,Sitting MP,E14001033,,Lab hold,,Lab hold
+E14000943,South Ribble,Lancashire,North West,26,45,Con hold,Female,Con,Seema Kennedy,Sitting MP,E14000943,,Con hold,,Con hold
+E14001060,Yeovil,Somerset,South West,24,9,Con hold,Male,Con,Marcus Fysh,Sitting MP,E14001060,,Con hold,,Con hold
+E14001026,Wells,Somerset,South West,24,10,Con hold,Male,Con,James Heappey,Sitting MP,E14001026,,Con hold,,Con hold
+E14000725,Halton,Cheshire,North West,24,38,Lab hold,Male,Lab,Derek Twigg,Sitting MP,E14000725,,Lab hold,,Lab hold
+E14000962,St Helens North,Merseyside,North West,24,41,Lab hold,Male,Lab,Conor McGinn,Sitting MP,E14000962,,Lab hold,,Lab hold
+E14000963,St Helens South and Whiston,Merseyside,North West,24,40,Lab hold,Female,Lab,Marie Rimmer,Sitting MP,E14000963,,Lab hold,,Lab hold
+E14000722,Halesowen and Rowley Regis,West Midlands,West Midlands,25,26,Con hold,Male,Con,James Morris,Sitting MP,E14000722,,Con hold,,Con hold
+E14001030,West Bromwich West,West Midlands,West Midlands,25,27,Lab hold,Male,Lab,Adrian Bailey,Sitting MP,E14001030,,Lab hold,,Lab hold
+E14000976,Stourbridge,West Midlands,West Midlands,25,25,Con hold,Female,Con,Margot James,Sitting MP,E14000976,,Con hold,,Con hold
+E14000846,North East Somerset,Somerset,South West,25,11,Con hold,Male,Con,Jacob Rees-Mogg,Sitting MP,E14000846,,Con hold,,Con hold
+E14000547,Bath,Somerset,South West,26,11,LD gain from Con,Female,LD,Wera Hobhouse,New MP,E14000547,LD,LD gain from Con,Con,Con loss to LD
+E14001049,Wolverhampton North East,West Midlands,West Midlands,24,29,Lab hold,Female,Lab,Emma Reynolds,Sitting MP,E14001049,,Lab hold,,Lab hold
+E14001050,Wolverhampton South East,West Midlands,West Midlands,25,28,Lab hold,Male,Lab,Pat McFadden,Sitting MP,E14001050,,Lab hold,,Lab hold
+E14000646,Congleton,Cheshire,North West,27,36,Con hold,Female,Con,Fiona Bruce,Sitting MP,E14000646,,Con hold,,Con hold
+E14000653,Crewe and Nantwich,Cheshire,North West,26,36,Lab gain from Con,Female,Lab,Laura Smith,New MP,E14000653,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000637,Chorley,Lancashire,North West,27,45,Lab hold,Male,Lab,Lindsay Hoyle,Sitting MP,E14000637,,Lab hold,,Lab hold
+E14000885,Preston,Lancashire,North West,27,46,Lab hold,Male,Lab,Mark Hendrick,Sitting MP,E14000885,,Lab hold,,Lab hold
+E14000706,Fylde,Lancashire,North West,26,46,Con hold,Male,Con,Mark Menzies,Sitting MP,E14000706,,Con hold,,Con hold
+E14000932,Somerton and Frome,Somerset,South West,25,10,Con hold,Male,Con,David Warburton,Sitting MP,E14000932,,Con hold,,Con hold
+S14000043,Linlithgow and East Falkirk,Lothian & Borders,Scotland,26,66,SNP hold,Male,SNP,Martyn Day,Sitting MP,S14000043,,SNP hold,,SNP hold
+S14000044,Livingston,Lothian & Borders,Scotland,26,65,SNP hold,Female,SNP,Hannah Bardell,Sitting MP,S14000044,,SNP hold,,SNP hold
+E14000565,"Birmingham, Northfield",West Midlands,West Midlands,26,25,Lab hold,Male,Lab,Richard Burden,Sitting MP,E14000565,,Lab hold,,Lab hold
+E14000560,"Birmingham, Edgbaston",West Midlands,West Midlands,26,26,Lab hold,Female,Lab,Preet Gill,New MP,E14000560,,Lab hold,,Lab hold
+E14001029,West Bromwich East,West Midlands,West Midlands,26,28,Lab hold,Male,Lab,Tom Watson,Sitting MP,E14001029,,Lab hold,,Lab hold
+E14001016,Warley,West Midlands,West Midlands,26,27,Lab hold,Male,Lab,John Spellar,Sitting MP,E14001016,,Lab hold,,Lab hold
+E14000743,Hereford and South Herefordshire,Herefordshire,West Midlands,23,22,Con hold,Male,Con,Jesse Norman,Sitting MP,E14000743,,Con hold,,Con hold
+E14000847,North Herefordshire,Herefordshire,West Midlands,23,23,Con hold,Male,Con,Bill Wiggin,Sitting MP,E14000847,,Con hold,,Con hold
+E14000600,Bristol North West,Bristol and South Gloucestershire,South West,25,14,Lab gain from Con,Male,Lab,Darren Jones,New MP,E14000600,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000601,Bristol South,Bristol and South Gloucestershire,South West,25,13,Lab hold,Female,Lab,Karin Smyth,Sitting MP,E14000601,,Lab hold,,Lab hold
+E14000602,Bristol West,Bristol and South Gloucestershire,South West,26,14,Lab hold,Female,Lab,Thangam Debbonaire,Sitting MP,E14000602,,Lab hold,,Lab hold
+E14001011,Walsall North,West Midlands,West Midlands,25,29,Con gain from Lab,Male,Con,Eddie Hughes,New MP,E14001011,Con,Con gain from Lab,Lab,Lab loss to Con
+E14001012,Walsall South,West Midlands,West Midlands,26,29,Lab hold,Female,Lab,Valerie Vaz,Sitting MP,E14001012,,Lab hold,,Lab hold
+E14000802,Macclesfield,Cheshire,North West,27,37,Con hold,Male,Con,David Rutley,Sitting MP,E14000802,,Con hold,,Con hold
+E14000987,Tatton,Cheshire,North West,26,37,Con hold,Female,Con,Esther McVey,Returning MP,E14000987,,Con hold,,Con hold
+E14001031,West Dorset,Dorset,South West,26,6,Con hold,Male,Con,Oliver Letwin,Sitting MP,E14001031,,Con hold,,Con hold
+E14000705,Forest of Dean,Gloucestershire,South West,26,18,Con hold,Male,Con,Mark Harper,Sitting MP,E14000705,,Con hold,,Con hold
+E14000894,Ribble Valley,Lancashire,North West,28,46,Con hold,Male,Con,Nigel Evans,Sitting MP,E14000894,,Con hold,,Con hold
+E14000570,Blackburn,Lancashire,North West,28,45,Lab hold,Female,Lab,Kate Hollern,Sitting MP,E14000570,,Lab hold,,Lab hold
+E14000825,Morecambe and Lunesdale,Lancashire,North West,26,49,Con hold,Male,Con,David Morris,Sitting MP,E14000825,,Con hold,,Con hold
+E14001057,Wyre and Preston North,Lancashire,North West,26,47,Con hold,Male,Con,Ben Wallace,Sitting MP,E14001057,,Con hold,,Con hold
+E14000776,Lancaster and Fleetwood,Lancashire,North West,26,48,Lab hold,Female,Lab,Cat Smith,Sitting MP,E14000776,,Lab hold,,Lab hold
+S14000025,Edinburgh South West,Lothian & Borders,Scotland,27,65,SNP hold,Female,SNP,Joanna Cherry,Sitting MP,S14000025,,SNP hold,,SNP hold
+S14000026,Edinburgh West,Lothian & Borders,Scotland,27,66,LD gain from SNP,Female,LD,Christine Jardine,New MP,S14000026,LD,LD gain from SNP,SNP,SNP loss to LD
+E14001039,Wigan,Greater Manchester,North West,27,41,Lab hold,Female,Lab,Lisa Nandy,Sitting MP,E14001039,,Lab hold,,Lab hold
+E14000805,Makerfield,Greater Manchester,North West,27,40,Lab hold,Female,Lab,Yvonne Fovargue,Sitting MP,E14000805,,Lab hold,,Lab hold
+E14000566,"Birmingham, Perry Barr",West Midlands,West Midlands,27,28,Lab hold,Male,Lab,Khalid Mahmood,Sitting MP,E14000566,,Lab hold,,Lab hold
+E14000562,"Birmingham, Hall Green",West Midlands,West Midlands,27,26,Lab hold,Male,Lab,Roger Godsiff,Sitting MP,E14000562,,Lab hold,,Lab hold
+E14000567,"Birmingham, Selly Oak",West Midlands,West Midlands,27,25,Lab hold,Male,Lab,Steve McCabe,Sitting MP,E14000567,,Lab hold,,Lab hold
+E14000564,"Birmingham, Ladywood",West Midlands,West Midlands,27,27,Lab hold,Female,Lab,Shabana Mahmood,Sitting MP,E14000564,,Lab hold,,Lab hold
+E14000599,Bristol East,Bristol and South Gloucestershire,South West,26,13,Lab hold,Female,Lab,Kerry McCarthy,Sitting MP,E14000599,,Lab hold,,Lab hold
+E14000702,Filton and Bradley Stoke,Bristol and South Gloucestershire,South West,26,15,Con hold,Male,Con,Jack Lopresti,Sitting MP,E14000702,,Con hold,,Con hold
+E14000994,Thornbury and Yate,Bristol and South Gloucestershire,South West,27,15,Con hold,Male,Con,Luke Hall,Sitting MP,E14000994,,Con hold,,Con hold
+E14000774,Kingswood,Bristol and South Gloucestershire,South West,27,14,Con hold,Male,Con,Chris Skidmore,Sitting MP,E14000774,,Con hold,,Con hold
+E14000531,Aldridge-Brownhills,West Midlands,West Midlands,27,29,Con hold,Female,Con,Wendy Morton,Sitting MP,E14000531,,Con hold,,Con hold
+E14000936,South Dorset,Dorset,South West,27,5,Con hold,Male,Con,Richard Drax,Sitting MP,E14000936,,Con hold,,Con hold
+E14000839,North Dorset,Dorset,South West,27,7,Con hold,Male,Con,Simon Hoare,Sitting MP,E14000839,,Con hold,,Con hold
+E14000815,Mid Dorset and North Poole,Dorset,South West,27,6,Con hold,Male,Con,Michael Tomlinson,Sitting MP,E14000815,,Con hold,,Con hold
+E14000980,Stroud,Gloucestershire,South West,27,18,Lab gain from Con,Male,Lab,David Drew,Returning MP,E14000980,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000712,Gloucester,Gloucestershire,South West,27,19,Con hold,Male,Con,Richard Graham,Sitting MP,E14000712,,Con hold,,Con hold
+E14000902,Rossendale and Darwen,Lancashire,North West,29,45,Con hold,Male,Con,Jake Berry,Sitting MP,E14000902,,Con hold,,Con hold
+E14000758,Hyndburn,Lancashire,North West,29,46,Lab hold,Male,Lab,Graham Jones,Sitting MP,E14000758,,Lab hold,,Lab hold
+E14001058,Wyre Forest,Worcestershire,West Midlands,27,23,Con hold,Male,Con,Mark Garnier,Sitting MP,E14001058,,Con hold,,Con hold
+E14001052,Worcester,Worcestershire,West Midlands,27,22,Con hold,Male,Con,Robin Walker,Sitting MP,E14001052,,Con hold,,Con hold
+E14001035,West Worcestershire,Worcestershire,West Midlands,27,21,Con hold,Female,Con,Harriett Baldwin,Sitting MP,E14001035,,Con hold,,Con hold
+S14000023,Edinburgh North and Leith,Lothian & Borders,Scotland,28,66,SNP hold,Female,SNP,Deidre Brock,Sitting MP,S14000023,,SNP hold,,SNP hold
+S14000024,Edinburgh South,Lothian & Borders,Scotland,28,65,Lab hold,Male,Lab,Ian Murray,Sitting MP,S14000024,,Lab hold,,Lab hold
+E14000785,Leigh,Greater Manchester,North West,28,40,Lab hold,Female,Lab,Joanne Platt,New MP,E14000785,,Lab hold,,Lab hold
+E14000881,Poole,Dorset,South West,28,6,Con hold,Male,Con,Robert Syms,Sitting MP,E14000881,,Con hold,,Con hold
+E14000580,Bolton West,Greater Manchester,North West,28,41,Con hold,Male,Con,Chris Green,Sitting MP,E14000580,,Con hold,,Con hold
+E14000568,"Birmingham, Yardley",West Midlands,West Midlands,28,26,Lab hold,Female,Lab,Jess Phillips,Sitting MP,E14000568,,Lab hold,,Lab hold
+E14000563,"Birmingham, Hodge Hill",West Midlands,West Midlands,28,27,Lab hold,Male,Lab,Liam Byrne,Sitting MP,E14000563,,Lab hold,,Lab hold
+E14000561,"Birmingham, Erdington",West Midlands,West Midlands,28,28,Lab hold,Male,Lab,Jack Dromey,Sitting MP,E14000561,,Lab hold,,Lab hold
+E14000931,Solihull,West Midlands,West Midlands,28,25,Con hold,Male,Con,Julian Knight,Sitting MP,E14000931,,Con hold,,Con hold
+E14000834,Newcastle-under-Lyme,Staffordshire,West Midlands,28,34,Lab hold,Male,Lab,Paul Farrelly,Sitting MP,E14000834,,Lab hold,,Lab hold
+E14000990,Tewkesbury,Gloucestershire,South West,28,19,Con hold,Male,Con,Laurence Robertson,Sitting MP,E14000990,,Con hold,,Con hold
+E14000630,Cheltenham,Gloucestershire,South West,28,18,Con hold,Male,Con,Alex Chalk,Sitting MP,E14000630,,Con hold,,Con hold
+E14000875,Pendle,Lancashire,North West,30,46,Con hold,Male,Con,Andrew Stephenson,Sitting MP,E14000875,,Con hold,,Con hold
+E14000609,Burnley,Lancashire,North West,30,45,Lab hold,Female,Lab,Julie Cooper,Sitting MP,E14000609,,Lab hold,,Lab hold
+E14000945,South Staffordshire,Staffordshire,West Midlands,27,32,Con hold,Male,Con,Gavin Williamson,Sitting MP,E14000945,,Con hold,,Con hold
+E14000975,Stone,Staffordshire,West Midlands,28,33,Con hold,Male,Con,Bill Cash,Sitting MP,E14000975,,Con hold,,Con hold
+E14000965,Stafford,Staffordshire,West Midlands,28,32,Con hold,Male,Con,Jeremy Lefroy,Sitting MP,E14000965,,Con hold,,Con hold
+E14000605,Bromsgrove,Worcestershire,West Midlands,28,23,Con hold,Male,Con,Sajid Javid,Sitting MP,E14000605,,Con hold,,Con hold
+E14000818,Mid Worcestershire,Worcestershire,West Midlands,28,21,Con hold,Male,Con,Nigel Huddleston,Sitting MP,E14000818,,Con hold,,Con hold
+E14000892,Redditch,Worcestershire,West Midlands,28,22,Con hold,Female,Con,Rachel Maclean,New MP,E14000892,,Con hold,,Con hold
+S14000022,Edinburgh East,Lothian & Borders,Scotland,29,66,SNP hold,Male,SNP,Tommy Sheppard,Sitting MP,S14000022,,SNP hold,,SNP hold
+S14000045,Midlothian,Lothian & Borders,Scotland,28,64,Lab gain from SNP,Female,Lab,Danielle Rowley,New MP,S14000045,Lab,Lab gain from SNP,SNP,SNP loss to Lab
+E14000979,Stretford and Urmston,Greater Manchester,North West,29,39,Lab hold,Female,Lab,Kate Green,Sitting MP,E14000979,,Lab hold,,Lab hold
+E14001054,Worsley and Eccles South,Greater Manchester,North West,29,40,Lab hold,Female,Lab,Barbara Keeley,Sitting MP,E14001054,,Lab hold,,Lab hold
+E14000578,Bolton North East,Greater Manchester,North West,29,42,Lab hold,Male,Lab,David Crausby,Sitting MP,E14000578,,Lab hold,,Lab hold
+E14000532,Altrincham and Sale West,Greater Manchester,North West,29,38,Con hold,Male,Con,Graham Brady,Sitting MP,E14000532,,Con hold,,Con hold
+E14000579,Bolton South East,Greater Manchester,North West,29,41,Lab hold,Female,Lab,Yasmin Qureshi,Sitting MP,E14000579,,Lab hold,,Lab hold
+E14000985,Sutton Coldfield,West Midlands,West Midlands,28,29,Con hold,Male,Con,Andrew Mitchell,Sitting MP,E14000985,,Con hold,,Con hold
+E14000650,Coventry North West,West Midlands,West Midlands,29,26,Lab hold,Male,Lab,Geoffrey Robinson,Sitting MP,E14000650,,Lab hold,,Lab hold
+E14000973,Stoke-on-Trent North,Staffordshire,West Midlands,29,34,Lab hold,Female,Lab,Ruth Smeeth,Sitting MP,E14000973,,Lab hold,,Lab hold
+E14000972,Stoke-on-Trent Central,Staffordshire,West Midlands,29,33,Lab hold,Male,Lab,Gareth Snell,Sitting MP,E14000972,,Lab hold,,Lab hold
+E14000585,Bournemouth West,Dorset,South West,29,6,Con hold,Male,Con,Conor Burns,Sitting MP,E14000585,,Con hold,,Con hold
+E14000812,Meriden,West Midlands,West Midlands,29,25,Con hold,Female,Con,Caroline Spelman,Sitting MP,E14000812,,Con hold,,Con hold
+E14000991,The Cotswolds,Gloucestershire,South West,29,19,Con hold,Male,Con,Geoffrey Clifton-Brown,Sitting MP,E14000991,,Con hold,,Con hold
+E14000791,Lichfield,Staffordshire,West Midlands,30,31,Con hold,Male,Con,Michael Fabricant,Sitting MP,E14000791,,Con hold,,Con hold
+E14000974,Stoke-on-Trent South,Staffordshire,West Midlands,29,32,Con gain from Lab,Male,Con,Jack Brereton,New MP,E14000974,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000618,Cannock Chase,Staffordshire,West Midlands,29,31,Con hold,Female,Con,Amanda Milling,Sitting MP,E14000618,,Con hold,,Con hold
+S14000020,East Lothian,Lothian & Borders,Scotland,29,65,Lab gain from SNP,Male,Lab,Martin Whitfield,New MP,S14000020,Lab,Lab gain from SNP,SNP,SNP loss to Lab
+E14000554,Berwick-upon-Tweed,Northumberland,North East,30,62,Con hold,Female,Con,Anne-Marie Trevelyan,Sitting MP,E14000554,,Con hold,,Con hold
+E14000746,Hexham,Northumberland,North East,30,61,Con hold,Male,Con,Guy Opperman,Sitting MP,E14000746,,Con hold,,Con hold
+E14000611,Bury North,Greater Manchester,North West,30,42,Lab gain from Con,Male,Lab,James Frith,New MP,E14000611,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000911,Salford and Eccles,Greater Manchester,North West,30,40,Lab hold,Female,Lab,Rebecca Long Bailey,Sitting MP,E14000911,,Lab hold,,Lab hold
+E14000809,"Manchester, Withington",Greater Manchester,North West,30,39,Lab hold,Male,Lab,Jeff Smith,Sitting MP,E14000809,,Lab hold,,Lab hold
+E14001059,Wythenshawe and Sale East,Greater Manchester,North West,30,38,Lab hold,Male,Lab,Mike Kane,Sitting MP,E14001059,,Lab hold,,Lab hold
+E14000612,Bury South,Greater Manchester,North West,30,41,Lab hold,Male,Lab,Ivan Lewis,Sitting MP,E14000612,,Lab hold,,Lab hold
+E14000833,Newcastle upon Tyne North,Tyne and Wear,North East,30,58,Lab hold,Female,Lab,Catherine McKinnell,Sitting MP,E14000833,,Lab hold,,Lab hold
+E14000831,Newcastle upon Tyne Central,Tyne and Wear,North East,30,57,Lab hold,Female,Lab,Chi Onwurah,Sitting MP,E14000831,,Lab hold,,Lab hold
+E14000574,Blaydon,Tyne and Wear,North East,30,56,Lab hold,Female,Lab,Liz Twist,New MP,E14000574,,Lab hold,,Lab hold
+E14000649,Coventry North East,West Midlands,West Midlands,30,26,Lab hold,Female,Lab,Colleen Fletcher,Sitting MP,E14000649,,Lab hold,,Lab hold
+E14000651,Coventry South,West Midlands,West Midlands,30,25,Lab hold,Male,Lab,Jim Cunningham,Sitting MP,E14000651,,Lab hold,,Lab hold
+E14000610,Burton,Staffordshire,West Midlands,30,32,Con hold,Male,Con,Andrew Griffiths,Sitting MP,E14000610,,Con hold,,Con hold
+E14000584,Bournemouth East,Dorset,South West,30,6,Con hold,Male,Con,Tobias Ellwood,Sitting MP,E14000584,,Con hold,,Con hold
+E14000954,South West Wiltshire,Wiltshire,South West,30,11,Con hold,Male,Con,Andrew Murrison,Sitting MP,E14000954,,Con hold,,Con hold
+E14000860,North Wiltshire,Wiltshire,South West,30,13,Con hold,Male,Con,James Gray,Sitting MP,E14000860,,Con hold,,Con hold
+E14000635,Chippenham,Wiltshire,South West,30,12,Con hold,Female,Con,Michelle Donelan,Sitting MP,E14000635,,Con hold,,Con hold
+E14000986,Tamworth,Staffordshire,West Midlands,31,31,Con hold,Male,Con,Christopher Pincher,Sitting MP,E14000986,,Con hold,,Con hold
+E14000638,Christchurch,Dorset,South West,30,7,Con hold,Male,Con,Christopher Chope,Sitting MP,E14000638,,Con hold,,Con hold
+E14000966,Staffordshire Moorlands,Staffordshire,West Midlands,30,33,Con hold,Female,Con,Karen Bradley,Sitting MP,E14000966,,Con hold,,Con hold
+E14000947,South Swindon,Wiltshire,South West,31,13,Con hold,Male,Con,Robert Buckland,Sitting MP,E14000947,,Con hold,,Con hold
+E14000851,North Swindon,Wiltshire,South West,31,14,Con hold,Male,Con,Justin Tomlinson,Sitting MP,E14000851,,Con hold,,Con hold
+E14000575,Blyth Valley,Northumberland,North East,31,60,Lab hold,Male,Lab,Ronnie Campbell,Sitting MP,E14000575,,Lab hold,,Lab hold
+E14001014,Wansbeck,Northumberland,North East,31,61,Lab hold,Male,Lab,Ian Lavery,Sitting MP,E14001014,,Lab hold,,Lab hold
+E14000747,Heywood and Middleton,Greater Manchester,North West,31,42,Lab hold,Female,Lab,Liz McInnes,Sitting MP,E14000747,,Lab hold,,Lab hold
+E14000571,Blackley and Broughton,Greater Manchester,North West,31,41,Lab hold,Male,Lab,Graham Stringer,Sitting MP,E14000571,,Lab hold,,Lab hold
+E14000807,Manchester Central,Greater Manchester,North West,31,40,Lab hold,Female,Lab,Lucy Powell,Sitting MP,E14000807,,Lab hold,,Lab hold
+E14000808,"Manchester, Gorton",Greater Manchester,North West,31,39,Lab hold,Male,Lab,Afzal Khan,New MP,E14000808,,Lab hold,,Lab hold
+E14000627,Cheadle,Greater Manchester,North West,31,38,Con hold,Female,Con,Mary Robinson,Sitting MP,E14000627,,Con hold,,Con hold
+E14000709,Gateshead,Tyne and Wear,North East,31,56,Lab hold,Male,Lab,Ian Mearns,Sitting MP,E14000709,,Lab hold,,Lab hold
+E14000589,Bradford West,West Yorkshire,Yorkshire and The Humber,35,44,Lab hold,Female,Lab,Naz Shah,Sitting MP,E14000589,,Lab hold,,Lab hold
+E14000766,Keighley,West Yorkshire,Yorkshire and The Humber,34,44,Lab gain from Con,Male,Lab,John Grogan,Returning MP,E14000766,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000614,Calder Valley,West Yorkshire,Yorkshire and The Humber,34,43,Con hold,Male,Con,Craig Whittaker,Sitting MP,E14000614,,Con hold,,Con hold
+E14000832,Newcastle upon Tyne East,Tyne and Wear,North East,31,57,Lab hold,Male,Lab,Nicholas Brown,Sitting MP,E14000832,,Lab hold,,Lab hold
+E14000665,Devizes,Wiltshire,South West,31,12,Con hold,Female,Con,Claire Perry,Sitting MP,E14000665,,Con hold,,Con hold
+E14000912,Salisbury,Wiltshire,South West,31,11,Con hold,Male,Con,John Glen,Sitting MP,E14000912,,Con hold,,Con hold
+E14001046,Witney,Oxfordshire,South East,32,19,Con hold,Male,Con,Robert Courts,Sitting MP,E14001046,,Con hold,,Con hold
+E14000871,Oldham West and Royton,Greater Manchester,North West,32,41,Lab hold,Male,Lab,Jim McMahon,Sitting MP,E14000871,,Lab hold,,Lab hold
+E14000897,Rochdale,Greater Manchester,North West,32,42,Lab hold,Male,Lab,Tony Lloyd,Returning MP,E14000897,,Lab hold,,Lab hold
+E14000969,Stockport,Greater Manchester,North West,32,38,Lab hold,Female,Lab,Ann Coffey,Sitting MP,E14000969,,Lab hold,,Lab hold
+E14000537,Ashton-under-Lyne,Greater Manchester,North West,32,40,Lab hold,Female,Lab,Angela Rayner,Sitting MP,E14000537,,Lab hold,,Lab hold
+E14000661,Denton and Reddish,Greater Manchester,North West,32,39,Lab hold,Male,Lab,Andrew Gwynne,Sitting MP,E14000661,,Lab hold,,Lab hold
+E14000765,Jarrow,Tyne and Wear,North East,32,57,Lab hold,Male,Lab,Stephen Hepburn,Sitting MP,E14000765,,Lab hold,,Lab hold
+E14000853,North Tyneside,Tyne and Wear,North East,31,58,Lab hold,Female,Lab,Mary Glindon,Sitting MP,E14000853,,Lab hold,,Lab hold
+E14001020,Washington and Sunderland West,Tyne and Wear,North East,32,56,Lab hold,Female,Lab,Sharon Hodgson,Sitting MP,E14001020,,Lab hold,,Lab hold
+E14000754,Houghton and Sunderland South,Tyne and Wear,North East,33,55,Lab hold,Female,Lab,Bridget Phillipson,Sitting MP,E14000754,,Lab hold,,Lab hold
+E14000587,Bradford East,West Yorkshire,Yorkshire and The Humber,36,44,Lab hold,Male,Lab,Imran Hussain,Sitting MP,E14000587,,Lab hold,,Lab hold
+E14000925,Shipley,West Yorkshire,Yorkshire and The Humber,35,45,Con hold,Male,Con,Philip Davies,Sitting MP,E14000925,,Con hold,,Con hold
+E14000588,Bradford South,West Yorkshire,Yorkshire and The Humber,36,43,Lab hold,Female,Lab,Judith Cummins,Sitting MP,E14000588,,Lab hold,,Lab hold
+E14000723,Halifax,West Yorkshire,Yorkshire and The Humber,35,43,Lab hold,Female,Lab,Holly Lynch,Sitting MP,E14000723,,Lab hold,,Lab hold
+E14000748,High Peak,Derbyshire,East Midlands,34,36,Lab gain from Con,Female,Lab,Ruth  George,New MP,E14000748,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000828,New Forest West,Hampshire,South East,32,6,Con hold,Male,Con,Desmond Swayne,Sitting MP,E14000828,,Con hold,,Con hold
+E14001015,Wantage,Oxfordshire,South East,32,17,Con hold,Male,Con,Edward Vaizey,Sitting MP,E14001015,,Con hold,,Con hold
+E14000874,Oxford West and Abingdon,Oxfordshire,South East,32,18,LD gain from Con,Female,LD,Layla Moran,New MP,E14000874,LD,LD gain from Con,Con,Con loss to LD
+E14000854,North Warwickshire,Warwickshire,West Midlands,33,27,Con hold,Male,Con,Craig Tracey,Sitting MP,E14000854,,Con hold,,Con hold
+E14000977,Stratford-on-Avon,Warwickshire,West Midlands,32,23,Con hold,Male,Con,Nadhim Zahawi,Sitting MP,E14000977,,Con hold,,Con hold
+E14000843,North East Derbyshire,Derbyshire,East Midlands,35,35,Con gain from Lab,Male,Con,Lee Rowley,New MP,E14000843,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000738,Hazel Grove,Greater Manchester,North West,33,39,Con hold,Male,Con,William Wragg,Sitting MP,E14000738,,Con hold,,Con hold
+E14000870,Oldham East and Saddleworth,Greater Manchester,North West,33,41,Lab hold,Female,Lab,Debbie Abrahams,Sitting MP,E14000870,,Lab hold,,Lab hold
+E14000967,Stalybridge and Hyde,Greater Manchester,North West,33,40,Lab hold,Male,Lab,Jonathan Reynolds,Sitting MP,E14000967,,Lab hold,,Lab hold
+E14001006,Tynemouth,Tyne and Wear,North East,32,58,Lab hold,Male,Lab,Alan Campbell,Sitting MP,E14001006,,Lab hold,,Lab hold
+E14000944,South Shields,Tyne and Wear,North East,33,57,Lab hold,Female,Lab,Emma Lewell-Buck,Sitting MP,E14000944,,Lab hold,,Lab hold
+E14000663,Derby South,Derbyshire,East Midlands,35,33,Lab hold,Female,Lab,Margaret Beckett,Sitting MP,E14000663,,Lab hold,,Lab hold
+E14000830,Newbury,Berkshire,South East,34,13,Con hold,Male,Con,Richard Benyon,Sitting MP,E14000830,,Con hold,,Con hold
+E14000956,"Southampton, Test",Hampshire,South East,34,6,Lab hold,Male,Lab,Alan Whitehead,Sitting MP,E14000956,,Lab hold,,Lab hold
+E14000645,Colne Valley,West Yorkshire,Yorkshire and The Humber,35,42,Lab gain from Con,Female,Lab,Thelma Walker,New MP,E14000645,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000886,Pudsey,West Yorkshire,Yorkshire and The Humber,36,45,Con hold,Male,Con,Stuart Andrew,Sitting MP,E14000886,,Con hold,,Con hold
+E14000780,Leeds North West,West Yorkshire,Yorkshire and The Humber,37,45,Lab gain from LD,Male,Lab,Alex Sobel,New MP,E14000780,Lab,Lab gain from LD,LD,LD loss to Lab
+E14000756,Huddersfield,West Yorkshire,Yorkshire and The Humber,36,42,Lab hold,Male,Lab,Barry Sheerman,Sitting MP,E14000756,,Lab hold,,Lab hold
+E14000982,Sunderland Central,Tyne and Wear,North East,33,56,Lab hold,Female,Lab,Julie Elliott,Sitting MP,E14000982,,Lab hold,,Lab hold
+E14000856,North West Durham,County Durham,North East,32,53,Lab hold,Female,Lab,Laura  Pidcock,New MP,E14000856,,Lab hold,,Lab hold
+E14000569,Bishop Auckland,County Durham,North East,32,52,Lab hold,Female,Lab,Helen Goodman,Sitting MP,E14000569,,Lab hold,,Lab hold
+E14000664,Derbyshire Dales,Derbyshire,East Midlands,34,35,Con hold,Male,Con,Patrick McLoughlin,Sitting MP,E14000664,,Con hold,,Con hold
+E14000632,Chesterfield,Derbyshire,East Midlands,35,36,Lab hold,Male,Lab,Toby Perkins,Sitting MP,E14000632,,Lab hold,,Lab hold
+E14000662,Derby North,Derbyshire,East Midlands,35,34,Lab gain from Con,Male,Lab,Chris Williamson,Returning MP,E14000662,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000935,South Derbyshire,Derbyshire,East Midlands,35,32,Con hold,Female,Con,Heather Wheeler,Sitting MP,E14000935,,Con hold,,Con hold
+E14000827,New Forest East,Hampshire,South East,33,6,Con hold,Male,Con,Julian Lewis,Sitting MP,E14000827,,Con hold,,Con hold
+E14000539,Banbury,Oxfordshire,South East,33,19,Con hold,Female,Con,Victoria Prentis,Sitting MP,E14000539,,Con hold,,Con hold
+E14000742,Henley,Oxfordshire,South East,33,17,Con hold,Male,Con,John Howell,Sitting MP,E14000742,,Con hold,,Con hold
+E14000873,Oxford East,Oxfordshire,South East,33,18,Lab hold,Female,Lab,Anneliese Dodds,New MP,E14000873,,Lab hold,,Lab hold
+E14001019,Warwick and Leamington,Warwickshire,West Midlands,33,23,Lab gain from Con,Male,Lab,Matt Western,New MP,E14001019,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000868,Nuneaton,Warwickshire,West Midlands,33,26,Con hold,Male,Con,Marcus Jones,Sitting MP,E14000868,,Con hold,,Con hold
+E14000814,Mid Derbyshire,Derbyshire,East Midlands,36,33,Con hold,Female,Con,Pauline Latham,Sitting MP,E14000814,,Con hold,,Con hold
+E14000890,Reading West,Berkshire,South East,34,14,Con hold,Male,Con,Alok Sharma,Sitting MP,E14000890,,Con hold,,Con hold
+E14000955,"Southampton, Itchen",Hampshire,South East,34,7,Con hold,Male,Con,Royston Smith,Sitting MP,E14000955,,Con hold,,Con hold
+E14000666,Dewsbury,West Yorkshire,Yorkshire and The Humber,37,42,Lab hold,Female,Lab,Paula Sherriff,Sitting MP,E14000666,,Lab hold,,Lab hold
+E14001009,Wakefield,West Yorkshire,Yorkshire and The Humber,38,42,Lab hold,Female,Lab,Mary Creagh,Sitting MP,E14001009,,Lab hold,,Lab hold
+E14000826,Morley and Outwood,West Yorkshire,Yorkshire and The Humber,38,43,Con hold,Female,Con,Andrea Jenkyns,Sitting MP,E14000826,,Con hold,,Con hold
+E14000781,Leeds West,West Yorkshire,Yorkshire and The Humber,37,44,Lab hold,Female,Lab,Rachel Reeves,Sitting MP,E14000781,,Lab hold,,Lab hold
+E14000840,North Durham,County Durham,North East,33,53,Lab hold,Male,Lab,Kevan Jones,Sitting MP,E14000840,,Lab hold,,Lab hold
+E14000641,City of Durham,County Durham,North East,33,52,Lab hold,Female,Lab,Roberta Blackman-Woods,Sitting MP,E14000641,,Lab hold,,Lab hold
+E14000915,Sedgefield,County Durham,North East,34,52,Lab hold,Male,Lab,Phil Wilson,Sitting MP,E14000915,,Lab hold,,Lab hold
+E14000533,Amber Valley,Derbyshire,East Midlands,36,34,Con hold,Male,Con,Nigel Mills,Sitting MP,E14000533,,Con hold,,Con hold
+E14000695,Erewash,Derbyshire,East Midlands,36,32,Con hold,Female,Con,Maggie Throup,Sitting MP,E14000695,,Con hold,,Con hold
+E14000577,Bolsover,Derbyshire,East Midlands,36,35,Lab hold,Male,Lab,Dennis Skinner,Sitting MP,E14000577,,Lab hold,,Lab hold
+E14000901,Romsey and Southampton North,Hampshire,South East,34,8,Con hold,Female,Con,Caroline Nokes,Sitting MP,E14000901,,Con hold,,Con hold
+E14000583,Bosworth,Leicestershire,East Midlands,35,28,Con hold,Male,Con,David Tredinnick,Sitting MP,E14000583,,Con hold,,Con hold
+E14000858,North West Leicestershire,Leicestershire,East Midlands,35,29,Con hold,Male,Con,Andrew Bridgen,Sitting MP,E14000858,,Con hold,,Con hold
+E14000767,Kenilworth and Southam,Warwickshire,West Midlands,33,24,Con hold,Male,Con,Jeremy Wright,Sitting MP,E14000767,,Con hold,,Con hold
+E14000905,Rugby,Warwickshire,West Midlands,33,25,Con hold,Male,Con,Mark Pawsey,Sitting MP,E14000905,,Con hold,,Con hold
+E14000658,Darlington,County Durham,North East,34,51,Lab hold,Female,Lab,Jenny Chapman,Sitting MP,E14000658,,Lab hold,,Lab hold
+E14000876,Penistone and Stocksbridge,South Yorkshire,Yorkshire and The Humber,35,40,Lab hold,Female,Lab,Angela Smith,Sitting MP,E14000876,,Lab hold,,Lab hold
+E14000922,"Sheffield, Hallam",South Yorkshire,Yorkshire and The Humber,35,39,Lab gain from LD,Male,Lab,Jared O'Mara,New MP,E14000922,Lab,Lab gain from LD,LD,LD loss to Lab
+E14000923,"Sheffield, Heeley",South Yorkshire,Yorkshire and The Humber,36,38,Lab hold,Female,Lab,Louise Haigh,Sitting MP,E14000923,,Lab hold,,Lab hold
+E14000784,Leicester West,Leicestershire,East Midlands,36,29,Lab hold,Female,Lab,Liz Kendall,Sitting MP,E14000784,,Lab hold,,Lab hold
+E14000889,Reading East,Berkshire,South East,35,14,Lab gain from Con,Male,Lab,Matt Rodda,New MP,E14000889,Lab,Lab gain from Con,Con,Con loss to Lab
+E14001048,Wokingham,Berkshire,South East,35,13,Con hold,Male,Con,John Redwood,Sitting MP,E14001048,,Con hold,,Con hold
+E14000779,Leeds North East,West Yorkshire,Yorkshire and The Humber,38,45,Lab hold,Male,Lab,Fabian Hamilton,Sitting MP,E14000779,,Lab hold,,Lab hold
+E14000777,Leeds Central,West Yorkshire,Yorkshire and The Humber,38,44,Lab hold,Male,Lab,Hilary Benn,Sitting MP,E14000777,,Lab hold,,Lab hold
+E14000548,Batley and Spen,West Yorkshire,Yorkshire and The Humber,37,43,Lab hold,Female,Lab,Tracy Brabin,Sitting MP,E14000548,,Lab hold,,Lab hold
+E14000740,Hemsworth,West Yorkshire,Yorkshire and The Humber,39,42,Lab hold,Male,Lab,Jon Trickett,Sitting MP,E14000740,,Lab hold,,Lab hold
+E14000762,Isle of Wight,Isle of Wight,South East,35,4,Con hold,Male,Con,Bob Seely,New MP,E14000762,,Con hold,,Con hold
+E14000677,Easington,County Durham,North East,34,53,Lab hold,Male,Lab,Grahame Morris,Sitting MP,E14000677,,Lab hold,,Lab hold
+E14001056,Wycombe,Buckinghamshire,South East,35,18,Con hold,Male,Con,Steve Baker,Sitting MP,E14001056,,Con hold,,Con hold
+E14000538,Aylesbury,Buckinghamshire,South East,35,19,Con hold,Male,Con,David Lidington,Sitting MP,E14000538,,Con hold,,Con hold
+E14000713,Gosport,Hampshire,South East,35,6,Con hold,Female,Con,Caroline Dinenage,Sitting MP,E14000713,,Con hold,,Con hold
+E14000857,North West Hampshire,Hampshire,South East,35,9,Con hold,Male,Con,Kit Malthouse,Sitting MP,E14000857,,Con hold,,Con hold
+E14000699,Fareham,Hampshire,South East,35,7,Con hold,Female,Con,Suella Fernandes,Sitting MP,E14000699,,Con hold,,Con hold
+E14000685,Eastleigh,Hampshire,South East,35,8,Con hold,Female,Con,Mims Davies,Sitting MP,E14000685,,Con hold,,Con hold
+E14000783,Leicester South,Leicestershire,East Midlands,36,28,Lab hold,Male,Lab,Jonathan Ashworth,Sitting MP,E14000783,,Lab hold,,Lab hold
+E14000797,Loughborough,Leicestershire,East Midlands,36,30,Con hold,Female,Con,Nicky Morgan,Sitting MP,E14000797,,Con hold,,Con hold
+E14000940,South Leicestershire,Leicestershire,East Midlands,36,27,Con hold,Male,Con,Alberto Costa,Sitting MP,E14000940,,Con hold,,Con hold
+E14000970,Stockton North,Teesside,North East,36,51,Lab hold,Male,Lab,Alex Cunningham,Sitting MP,E14000970,,Lab hold,,Lab hold
+E14000971,Stockton South,Teesside,North East,36,50,Lab gain from Con,Male,Lab,Paul Williams,New MP,E14000971,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000541,Barnsley Central,South Yorkshire,Yorkshire and The Humber,36,40,Lab hold,Male,Lab,Dan Jarvis,Sitting MP,E14000541,,Lab hold,,Lab hold
+E14000921,"Sheffield, Brightside and Hillsborough",South Yorkshire,Yorkshire and The Humber,37,39,Lab hold,Female,Lab,Gill Furniss,Sitting MP,E14000921,,Lab hold,,Lab hold
+E14000919,Sheffield Central,South Yorkshire,Yorkshire and The Humber,36,39,Lab hold,Male,Lab,Paul Blomfield,Sitting MP,E14000919,,Lab hold,,Lab hold
+E14000782,Leicester East,Leicestershire,East Midlands,37,28,Lab hold,Male,Lab,Keith Vaz,Sitting MP,E14000782,,Lab hold,,Lab hold
+E14000625,Charnwood,Leicestershire,East Midlands,37,29,Con hold,Male,Con,Edward Argar,Sitting MP,E14000625,,Con hold,,Con hold
+E14000803,Maidenhead,Berkshire,South East,36,14,Con hold,Female,Con,Theresa May,Sitting MP,E14000803,,Con hold,,Con hold
+E14000586,Bracknell,Berkshire,South East,36,13,Con hold,Male,Con,Phillip Lee,Sitting MP,E14000586,,Con hold,,Con hold
+E14000822,Milton Keynes South,Buckinghamshire,South East,36,21,Con hold,Male,Con,Iain Stewart,Sitting MP,E14000822,,Con hold,,Con hold
+E14000821,Milton Keynes North,Buckinghamshire,South East,36,22,Con hold,Male,Con,Mark Lancaster,Sitting MP,E14000821,,Con hold,,Con hold
+E14000778,Leeds East,West Yorkshire,Yorkshire and The Humber,39,44,Lab hold,Male,Lab,Richard Burgon,Sitting MP,E14000778,,Lab hold,,Lab hold
+E14000689,Elmet and Rothwell,West Yorkshire,Yorkshire and The Humber,39,45,Con hold,Male,Con,Alec Shelbrooke,Sitting MP,E14000689,,Con hold,,Con hold
+E14000836,"Normanton, Pontefract and Castleford",West Yorkshire,Yorkshire and The Humber,39,43,Lab hold,Female,Lab,Yvette Cooper,Sitting MP,E14000836,,Lab hold,,Lab hold
+E14000883,Portsmouth North,Hampshire,South East,36,7,Con hold,Female,Con,Penny Mordaunt,Sitting MP,E14000883,,Con hold,,Con hold
+E14000631,Chesham and Amersham,Buckinghamshire,South East,36,19,Con hold,Female,Con,Cheryl Gillan,Sitting MP,E14000631,,Con hold,,Con hold
+E14000608,Buckingham,Buckinghamshire,South East,36,20,Spk hold,Male,Oth,John Bercow,Sitting MP,E14000608,,Spk hold,,Spk hold
+E14000550,Beaconsfield,Buckinghamshire,South East,36,18,Con hold,Male,Con,Dominic Grieve,Sitting MP,E14000550,,Con hold,,Con hold
+E14000545,Basingstoke,Hampshire,South East,36,9,Con hold,Female,Con,Maria Miller,Sitting MP,E14000545,,Con hold,,Con hold
+E14000884,Portsmouth South,Hampshire,South East,36,6,Lab gain from Con,Male,Lab,Stephen Morgan,New MP,E14000884,Lab,Lab gain from Con,Con,Con loss to Lab
+E14001041,Winchester,Hampshire,South East,36,8,Con hold,Male,Con,Steve Brine,Sitting MP,E14001041,,Con hold,,Con hold
+E14000728,Harborough,Leicestershire,East Midlands,37,27,Con hold,Male,Con,Neil  O'Brien,New MP,E14000728,,Con hold,,Con hold
+E14000607,Broxtowe,Nottinghamshire,East Midlands,39,32,Con hold,Female,Con,Anna Soubry,Sitting MP,E14000607,,Con hold,,Con hold
+E14000733,Hartlepool,Teesside,North East,37,51,Lab hold,Male,Lab,Mike Hill,New MP,E14000733,,Lab hold,,Lab hold
+E14000819,Middlesbrough,Teesside,North East,37,50,Lab hold,Male,Lab,Andy McDonald,Sitting MP,E14000819,,Lab hold,,Lab hold
+E14000542,Barnsley East,South Yorkshire,Yorkshire and The Humber,37,40,Lab hold,Female,Lab,Stephanie Peacock,New MP,E14000542,,Lab hold,,Lab hold
+E14000920,Sheffield South East,South Yorkshire,Yorkshire and The Humber,37,38,Lab hold,Male,Lab,Clive Betts,Sitting MP,E14000920,,Lab hold,,Lab hold
+E14000904,Rotherham,South Yorkshire,Yorkshire and The Humber,38,39,Lab hold,Female,Lab,Sarah Champion,Sitting MP,E14000904,,Lab hold,,Lab hold
+E14000909,Rutland and Melton,Leicestershire,East Midlands,38,28,Con hold,Male,Con,Alan Duncan,Sitting MP,E14000909,,Con hold,,Con hold
+E14000866,Nottingham North,Nottinghamshire,East Midlands,40,33,Lab hold,Male,Lab,Alex Norris,New MP,E14000866,,Lab hold,,Lab hold
+E14000867,Nottingham South,Nottinghamshire,East Midlands,40,32,Lab hold,Female,Lab,Lilian Greenwood,Sitting MP,E14000867,,Lab hold,,Lab hold
+E14001042,Windsor,Berkshire,South East,37,13,Con hold,Male,Con,Adam Afriyie,Sitting MP,E14001042,,Con hold,,Con hold
+E14000930,Slough,Berkshire,South East,37,14,Lab hold,Male,Lab,Tan Dhesi,New MP,E14000930,,Lab hold,,Lab hold
+E14000680,East Hampshire,Hampshire,South East,37,8,Con hold,Male,Con,Damian Hinds,Sitting MP,E14000680,,Con hold,,Con hold
+E14000844,North East Hampshire,Hampshire,South East,37,9,Con hold,Male,Con,Ranil Jayawardena,Sitting MP,E14000844,,Con hold,,Con hold
+E14000811,Meon Valley,Hampshire,South East,37,7,Con hold,Male,Con,George Hollingbery,Sitting MP,E14000811,,Con hold,,Con hold
+E14000736,Havant,Hampshire,South East,37,6,Con hold,Male,Con,Alan Mak,Sitting MP,E14000736,,Con hold,,Con hold
+E14000942,South Northamptonshire,Northamptonshire,East Midlands,38,25,Con hold,Female,Con,Andrea Leadsom,Sitting MP,E14000942,,Con hold,,Con hold
+E14000660,Daventry,Northamptonshire,East Midlands,39,25,Con hold,Male,Con,Chris Heaton-Harris,Sitting MP,E14000660,,Con hold,,Con hold
+E14000535,Ashfield,Nottinghamshire,East Midlands,40,34,Lab hold,Female,Lab,Gloria De Piero,Sitting MP,E14000535,,Lab hold,,Lab hold
+E14000810,Mansfield,Nottinghamshire,East Midlands,40,35,Con gain from Lab,Male,Con,Ben Bradley,New MP,E14000810,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000908,Rushcliffe,Nottinghamshire,East Midlands,40,31,Con hold,Male,Con,Kenneth Clarke,Sitting MP,E14000908,,Con hold,,Con hold
+E14000891,Redcar,Teesside,North East,38,50,Lab hold,Female,Lab,Anna Turley,Sitting MP,E14000891,,Lab hold,,Lab hold
+E14000669,Doncaster North,South Yorkshire,Yorkshire and The Humber,39,40,Lab hold,Male,Lab,Edward Miliband,Sitting MP,E14000669,,Lab hold,,Lab hold
+E14001028,Wentworth and Dearne,South Yorkshire,Yorkshire and The Humber,38,40,Lab hold,Male,Lab,John Healey,Sitting MP,E14001028,,Lab hold,,Lab hold
+E14000903,Rother Valley,South Yorkshire,Yorkshire and The Humber,38,38,Lab hold,Male,Lab,Kevin Barron,Sitting MP,E14000903,,Lab hold,,Lab hold
+E14000710,Gedling,Nottinghamshire,East Midlands,41,33,Lab hold,Male,Lab,Vernon Coaker,Sitting MP,E14000710,,Lab hold,,Lab hold
+E14000906,"Ruislip, Northwood and Pinner",London,London,39,18,Con hold,Male,Con,Nick Hurd,Sitting MP,E14000906,,Con hold,,Con hold
+E14001007,Uxbridge and South Ruislip,London,London,39,17,Con hold,Male,Con,Boris Johnson,Sitting MP,E14001007,,Con hold,,Con hold
+E14000737,Hayes and Harlington,London,London,39,16,Lab hold,Male,Lab,John McDonnell,Sitting MP,E14000737,,Lab hold,,Lab hold
+E14000530,Aldershot,Hampshire,South East,38,9,Con hold,Male,Con,Leo Docherty,New MP,E14000530,,Con hold,,Con hold
+E14000861,Northampton North,Northamptonshire,East Midlands,40,26,Con hold,Male,Con,Michael Ellis,Sitting MP,E14000861,,Con hold,,Con hold
+E14000862,Northampton South,Northamptonshire,East Midlands,39,26,Con hold,Male,Con,Andrew Lewer,New MP,E14000862,,Con hold,,Con hold
+E14000928,Skipton and Ripon,North Yorkshire,Yorkshire and The Humber,38,48,Con hold,Male,Con,Julian Smith,Sitting MP,E14000928,,Con hold,,Con hold
+E14000546,Bassetlaw,Nottinghamshire,East Midlands,41,35,Lab hold,Male,Lab,John Mann,Sitting MP,E14000546,,Lab hold,,Lab hold
+E14000865,Nottingham East,Nottinghamshire,East Midlands,41,32,Lab hold,Male,Lab,Chris Leslie,Sitting MP,E14000865,,Lab hold,,Lab hold
+E14000924,Sherwood,Nottinghamshire,East Midlands,41,34,Con hold,Male,Con,Mark Spencer,Sitting MP,E14000924,,Con hold,,Con hold
+E14000820,Middlesbrough South and East Cleveland,Teesside,North East,39,50,Con gain from Lab,Male,Con,Simon Clarke,New MP,E14000820,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000667,Don Valley,South Yorkshire,Yorkshire and The Humber,39,38,Lab hold,Female,Lab,Caroline Flint,Sitting MP,E14000667,,Lab hold,,Lab hold
+E14000668,Doncaster Central,South Yorkshire,Yorkshire and The Humber,39,39,Lab hold,Female,Lab,Rosie Winterton,Sitting MP,E14000668,,Lab hold,,Lab hold
+E14000676,"Ealing, Southall",London,London,40,16,Lab hold,Male,Lab,Virendra Sharma,Sitting MP,E14000676,,Lab hold,,Lab hold
+E14000732,Harrow West,London,London,40,18,Lab hold,Male,Lab,Gareth Thomas,Sitting MP,E14000732,,Lab hold,,Lab hold
+E14000675,Ealing North,London,London,40,17,Lab hold,Male,Lab,Stephen Pound,Sitting MP,E14000675,,Lab hold,,Lab hold
+E14001005,Twickenham,London,London,40,14,LD gain from Con,Male,LD,Vince Cable,Returning MP,E14001005,LD,LD gain from Con,Con,Con loss to LD
+E14000701,Feltham and Heston,London,London,40,15,Lab hold,Female,Lab,Seema Malhotra,Sitting MP,E14000701,,Lab hold,,Lab hold
+E14001025,Wellingborough,Northamptonshire,East Midlands,40,27,Con hold,Male,Con,Peter Bone,Sitting MP,E14001025,,Con hold,,Con hold
+E14000769,Kettering,Northamptonshire,East Midlands,40,28,Con hold,Male,Con,Philip Hollobone,Sitting MP,E14000769,,Con hold,,Con hold
+E14000730,Harrogate and Knaresborough,North Yorkshire,Yorkshire and The Humber,40,48,Con hold,Male,Con,Andrew Jones,Sitting MP,E14000730,,Con hold,,Con hold
+E14000895,Richmond (Yorks),North Yorkshire,Yorkshire and The Humber,39,48,Con hold,Male,Con,Rishi Sunak,Sitting MP,E14000895,,Con hold,,Con hold
+E14000829,Newark,Nottinghamshire,East Midlands,42,34,Con hold,Male,Con,Robert Jenrick,Sitting MP,E14000829,,Con hold,,Con hold
+E14001061,York Central,North Yorkshire,Yorkshire and The Humber,41,46,Lab hold,Female,Lab,Rachael Maskell,Sitting MP,E14001061,,Lab hold,,Lab hold
+E14001062,York Outer,North Yorkshire,Yorkshire and The Humber,41,47,Con hold,Male,Con,Julian Sturdy,Sitting MP,E14001062,,Con hold,,Con hold
+E14000949,South West Bedfordshire,Bedfordshire,East,42,24,Con hold,Male,Con,Andrew Selous,Sitting MP,E14000949,,Con hold,,Con hold
+E14000813,Mid Bedfordshire,Bedfordshire,East,42,25,Con hold,Female,Con,Nadine Dorries,Sitting MP,E14000813,,Con hold,,Con hold
+E14000741,Hendon,London,London,41,19,Con hold,Male,Con,Matthew Offord,Sitting MP,E14000741,,Con hold,,Con hold
+E14000770,Kingston and Surbiton,London,London,41,13,LD gain from Con,Male,LD,Edward Davey,Returning MP,E14000770,LD,LD gain from Con,Con,Con loss to LD
+E14000593,Brentford and Isleworth,London,London,41,15,Lab hold,Female,Lab,Ruth Cadbury,Sitting MP,E14000593,,Lab hold,,Lab hold
+E14000896,Richmond Park,London,London,41,14,Con hold,Male,Con,Zac Goldsmith,Returning MP,E14000896,,Con hold,,Con hold
+E14000726,Hammersmith,London,London,41,16,Lab hold,Male,Lab,Andy Slaughter,Sitting MP,E14000726,,Lab hold,,Lab hold
+E14000674,Ealing Central and Acton,London,London,41,17,Lab hold,Female,Lab,Rupa Huq,Sitting MP,E14000674,,Lab hold,,Lab hold
+E14000731,Harrow East,London,London,41,18,Con hold,Male,Con,Bob Blackman,Sitting MP,E14000731,,Con hold,,Con hold
+E14000648,Corby,Northamptonshire,East Midlands,41,28,Con hold,Male,Con,Tom Pursglove,Sitting MP,E14000648,,Con hold,,Con hold
+E14000917,Selby and Ainsty,North Yorkshire,Yorkshire and The Humber,41,45,Con hold,Male,Con,Nigel Adams,Sitting MP,E14000917,,Con hold,,Con hold
+E14000993,Thirsk and Malton,North Yorkshire,Yorkshire and The Humber,41,48,Con hold,Male,Con,Kevin Hollinrake,Sitting MP,E14000993,,Con hold,,Con hold
+E14000983,Surrey Heath,Surrey,South East,40,9,Con hold,Male,Con,Michael Gove,Sitting MP,E14000983,,Con hold,,Con hold
+E14000953,South West Surrey,Surrey,South East,40,8,Con hold,Male,Con,Jeremy Hunt,Sitting MP,E14000953,,Con hold,,Con hold
+E14000907,Runnymede and Weybridge,Surrey,South East,40,10,Con hold,Male,Con,Philip Hammond,Sitting MP,E14000907,,Con hold,,Con hold
+E14000633,Chichester,West Sussex,South East,41,5,Con hold,Female,Con,Gillian Keegan,New MP,E14000633,,Con hold,,Con hold
+E14000724,Haltemprice and Howden,East Yorkshire & Humber,Yorkshire and The Humber,43,42,Con hold,Male,Con,David Davis,Sitting MP,E14000724,,Con hold,,Con hold
+E14000801,Luton South,Bedfordshire,East,43,24,Lab hold,Male,Lab,Gavin Shuker,Sitting MP,E14000801,,Lab hold,,Lab hold
+E14000552,Bedford,Bedfordshire,East,43,26,Lab gain from Con,Male,Lab,Mohammad  Yasin,New MP,E14000552,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000800,Luton North,Bedfordshire,East,43,25,Lab hold,Male,Lab,Kelvin Hopkins,Sitting MP,E14000800,,Lab hold,,Lab hold
+E14000984,Sutton and Cheam,London,London,42,12,Con hold,Male,Con,Paul Scully,Sitting MP,E14000984,,Con hold,,Con hold
+E14001040,Wimbledon,London,London,42,13,Con hold,Male,Con,Stephen Hammond,Sitting MP,E14001040,,Con hold,,Con hold
+E14000629,Chelsea and Fulham,London,London,42,15,Con hold,Male,Con,Greg Hands,Sitting MP,E14000629,,Con hold,,Con hold
+E14000636,Chipping Barnet,London,London,42,19,Con hold,Female,Con,Theresa Villiers,Sitting MP,E14000636,,Con hold,,Con hold
+E14000592,Brent North,London,London,42,18,Lab hold,Male,Lab,Barry Gardiner,Sitting MP,E14000592,,Lab hold,,Lab hold
+E14000887,Putney,London,London,42,14,Con hold,Female,Con,Justine Greening,Sitting MP,E14000887,,Con hold,,Con hold
+E14000768,Kensington,London,London,42,16,Lab gain from Con,Female,Lab,Emma Dent Coad,New MP,E14000768,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000591,Brent Central,London,London,42,17,Lab hold,Female,Lab,Dawn Butler,Sitting MP,E14000591,,Lab hold,,Lab hold
+E14000913,Scarborough and Whitby,North Yorkshire,Yorkshire and The Humber,42,48,Con hold,Male,Con,Robert Goodwill,Sitting MP,E14000913,,Con hold,,Con hold
+E14001047,Woking,Surrey,South East,41,9,Con hold,Male,Con,Jonathan Lord,Sitting MP,E14001047,,Con hold,,Con hold
+E14000959,Spelthorne,Surrey,South East,41,10,Con hold,Male,Con,Kwasi Kwarteng,Sitting MP,E14000959,,Con hold,,Con hold
+E14000719,Guildford,Surrey,South East,41,8,Con hold,Female,Con,Anne Milton,Sitting MP,E14000719,,Con hold,,Con hold
+E14000534,Arundel and South Downs,West Sussex,South East,43,6,Con hold,Male,Con,Nick Herbert,Sitting MP,E14000534,,Con hold,,Con hold
+E14000576,Bognor Regis and Littlehampton,West Sussex,South East,42,5,Con hold,Male,Con,Nick Gibb,Sitting MP,E14000576,,Con hold,,Con hold
+E14000772,Kingston upon Hull North,East Yorkshire & Humber,Yorkshire and The Humber,44,43,Lab hold,Female,Lab,Diana Johnson,Sitting MP,E14000772,,Lab hold,,Lab hold
+E14000773,Kingston upon Hull West and Hessle,East Yorkshire & Humber,Yorkshire and The Humber,44,42,Lab hold,Female,Lab,Emma Hardy,New MP,E14000773,,Lab hold,,Lab hold
+E14000683,East Yorkshire,East Yorkshire & Humber,Yorkshire and The Humber,44,44,Con hold,Male,Con,Greg Knight,Sitting MP,E14000683,,Con hold,,Con hold
+E14000841,North East Bedfordshire,Bedfordshire,East,44,26,Con hold,Male,Con,Alistair Burt,Sitting MP,E14000841,,Con hold,,Con hold
+E14000549,Battersea,London,London,43,15,Lab gain from Con,Female,Lab,Marsha De Cordova,New MP,E14000549,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000727,Hampstead and Kilburn,London,London,43,17,Lab hold,Female,Lab,Tulip Siddiq,Sitting MP,E14000727,,Lab hold,,Lab hold
+E14000692,"Enfield, Southgate",London,London,43,19,Lab gain from Con,Male,Lab,Bambos Charalambous,New MP,E14000692,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000703,Finchley and Golders Green,London,London,43,18,Con hold,Male,Con,Mike Freer,Sitting MP,E14000703,,Con hold,,Con hold
+E14000823,Mitcham and Morden,London,London,43,13,Lab hold,Female,Lab,Siobhain McDonagh,Sitting MP,E14000823,,Lab hold,,Lab hold
+E14000998,Tooting,London,London,43,14,Lab hold,Female,Lab,Rosena Allin-Khan,Sitting MP,E14000998,,Lab hold,,Lab hold
+E14001036,Westminster North,London,London,43,16,Lab hold,Female,Lab,Karen Buck,Sitting MP,E14001036,,Lab hold,,Lab hold
+E14000929,Sleaford and North Hykeham,Lincolnshire,East Midlands,46,35,Con hold,Female,Con,Caroline Johnson,Sitting MP,E14000929,,Con hold,,Con hold
+E14000707,Gainsborough,Lincolnshire,East Midlands,46,37,Con hold,Male,Con,Edward Leigh,Sitting MP,E14000707,,Con hold,,Con hold
+E14000792,Lincoln,Lincolnshire,East Midlands,46,36,Lab gain from Con,Female,Lab,Karen  Lee,New MP,E14000792,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000714,Grantham and Stamford,Lincolnshire,East Midlands,46,34,Con hold,Male,Con,Nick Boles,Sitting MP,E14000714,,Con hold,,Con hold
+E14000824,Mole Valley,Surrey,South East,42,9,Con hold,Male,Con,Paul Beresford,Sitting MP,E14000824,,Con hold,,Con hold
+E14000697,Esher and Walton,Surrey,South East,42,10,Con hold,Male,Con,Dominic Raab,Sitting MP,E14000697,,Con hold,,Con hold
+E14001055,Worthing West,West Sussex,South East,43,5,Con hold,Male,Con,Peter Bottomley,Sitting MP,E14001055,,Con hold,,Con hold
+E14000753,Horsham,West Sussex,South East,43,7,Con hold,Male,Con,Jeremy Quin,Sitting MP,E14000753,,Con hold,,Con hold
+E14000771,Kingston upon Hull East,East Yorkshire & Humber,Yorkshire and The Humber,45,42,Lab hold,Male,Lab,Karl Turner,Sitting MP,E14000771,,Lab hold,,Lab hold
+E14000556,Beverley and Holderness,East Yorkshire & Humber,Yorkshire and The Humber,45,43,Con hold,Male,Con,Graham Stuart,Sitting MP,E14000556,,Con hold,,Con hold
+E14000596,Brigg and Goole,East Yorkshire & Humber,Yorkshire and The Humber,43,41,Con hold,Male,Con,Andrew Percy,Sitting MP,E14000596,,Con hold,,Con hold
+E14000673,Dulwich and West Norwood,London,London,44,13,Lab hold,Female,Lab,Helen Hayes,Sitting MP,E14000673,,Lab hold,,Lab hold
+E14000978,Streatham,London,London,44,14,Lab hold,Male,Lab,Chuka Umunna,Sitting MP,E14000978,,Lab hold,,Lab hold
+E14000621,Carshalton and Wallington,London,London,43,12,LD hold,Male,LD,Tom Brake,Sitting MP,E14000621,,LD hold,,LD hold
+E14000752,Hornsey and Wood Green,London,London,44,18,Lab hold,Female,Lab,Catherine West,Sitting MP,E14000752,,Lab hold,,Lab hold
+E14000691,Enfield North,London,London,44,19,Lab hold,Female,Lab,Joan Ryan,Sitting MP,E14000691,,Lab hold,,Lab hold
+E14001008,Vauxhall,London,London,44,15,Lab hold,Female,Lab,Kate Hoey,Sitting MP,E14001008,,Lab hold,,Lab hold
+E14000639,Cities of London and Westminster,London,London,44,16,Con hold,Male,Con,Mark Field,Sitting MP,E14000639,,Con hold,,Con hold
+E14000750,Holborn and St Pancras,London,London,44,17,Lab hold,Male,Lab,Keir Starmer,Sitting MP,E14000750,,Lab hold,,Lab hold
+E14000951,South West Hertfordshire,Hertfordshire,East,40,21,Con hold,Male,Con,David Gauke,Sitting MP,E14000951,,Con hold,,Con hold
+E14000739,Hemel Hempstead,Hertfordshire,East,41,22,Con hold,Male,Con,Mike Penning,Sitting MP,E14000739,,Con hold,,Con hold
+E14000939,South Holland and The Deepings,Lincolnshire,East Midlands,47,34,Con hold,Male,Con,John Hayes,Sitting MP,E14000939,,Con hold,,Con hold
+E14000582,Boston and Skegness,Lincolnshire,East Midlands,47,35,Con hold,Male,Con,Matt Warman,Sitting MP,E14000582,,Con hold,,Con hold
+E14000798,Louth and Horncastle,Lincolnshire,East Midlands,47,36,Con hold,Female,Con,Victoria Atkins,Sitting MP,E14000798,,Con hold,,Con hold
+E14000694,Epsom and Ewell,Surrey,South East,43,9,Con hold,Male,Con,Chris Grayling,Sitting MP,E14000694,,Con hold,,Con hold
+E14000817,Mid Sussex,West Sussex,South East,44,6,Con hold,Male,Con,Nicholas Soames,Sitting MP,E14000817,,Con hold,,Con hold
+E14000682,East Worthing and Shoreham,West Sussex,South East,44,5,Con hold,Male,Con,Tim Loughton,Sitting MP,E14000682,,Con hold,,Con hold
+E14000652,Crawley,West Sussex,South East,44,7,Con hold,Male,Con,Henry Smith,Sitting MP,E14000652,,Con hold,,Con hold
+E14000914,Scunthorpe,East Yorkshire & Humber,Yorkshire and The Humber,44,40,Lab hold,Male,Lab,Nic Dakin,Sitting MP,E14000914,,Lab hold,,Lab hold
+E14000615,Camberwell and Peckham,London,London,45,14,Lab hold,Female,Lab,Harriet Harman,Sitting MP,E14000615,,Lab hold,,Lab hold
+E14000655,Croydon North,London,London,45,13,Lab hold,Male,Lab,Steve Reed,Sitting MP,E14000655,,Lab hold,,Lab hold
+E14000687,Edmonton,London,London,45,19,Lab hold,Female,Lab,Kate Osamor,Sitting MP,E14000687,,Lab hold,,Lab hold
+E14000764,Islington South and Finsbury,London,London,45,16,Lab hold,Female,Lab,Emily Thornberry,Sitting MP,E14000764,,Lab hold,,Lab hold
+E14000763,Islington North,London,London,45,17,Lab hold,Male,Lab,Jeremy Corbyn,Sitting MP,E14000763,,Lab hold,,Lab hold
+E14000654,Croydon Central,London,London,45,12,Lab gain from Con,Female,Lab,Sarah Jones,New MP,E14000654,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000553,Bermondsey and Old Southwark,London,London,45,15,Lab hold,Male,Lab,Neil Coyle,Sitting MP,E14000553,,Lab hold,,Lab hold
+E14001002,Tottenham,London,London,45,18,Lab hold,Male,Lab,David Lammy,Sitting MP,E14001002,,Lab hold,,Lab hold
+E14001021,Watford,Hertfordshire,East,41,21,Con hold,Male,Con,Richard Harrington,Sitting MP,E14001021,,Con hold,,Con hold
+E14000960,St Albans,Hertfordshire,East,42,22,Con hold,Female,Con,Anne Main,Sitting MP,E14000960,,Con hold,,Con hold
+E14000893,Reigate,Surrey,South East,44,9,Con hold,Male,Con,Crispin Blunt,Sitting MP,E14000893,,Con hold,,Con hold
+E14000643,Cleethorpes,East Yorkshire & Humber,Yorkshire and The Humber,46,40,Con hold,Male,Con,Martin Vickers,Sitting MP,E14000643,,Con hold,,Con hold
+E14000716,Great Grimsby,East Yorkshire & Humber,Yorkshire and The Humber,45,40,Lab hold,Female,Lab,Melanie Onn,Sitting MP,E14000716,,Lab hold,,Lab hold
+E14000755,Hove,East Sussex,South East,46,6,Lab hold,Male,Lab,Peter Kyle,Sitting MP,E14000755,,Lab hold,,Lab hold
+E14000788,Lewisham West and Penge,London,London,46,13,Lab hold,Female,Lab,Ellie Reeves,New MP,E14000788,,Lab hold,,Lab hold
+E14001013,Walthamstow,London,London,46,18,Lab hold,Female,Lab,Stella Creasy,Sitting MP,E14001013,,Lab hold,,Lab hold
+E14000720,Hackney North and Stoke Newington,London,London,46,17,Lab hold,Female,Lab,Diane Abbott,Sitting MP,E14000720,,Lab hold,,Lab hold
+E14000634,Chingford and Woodford Green,London,London,46,19,Con hold,Male,Con,Iain Duncan Smith,Sitting MP,E14000634,,Con hold,,Con hold
+E14000789,"Lewisham, Deptford",London,London,46,15,Lab hold,Female,Lab,Vicky Foxcroft,Sitting MP,E14000789,,Lab hold,,Lab hold
+E14000721,Hackney South and Shoreditch,London,London,46,16,Lab hold,Female,Lab,Meg Hillier,Sitting MP,E14000721,,Lab hold,,Lab hold
+E14000787,Lewisham East,London,London,46,14,Lab hold,Female,Lab,Heidi Alexander,Sitting MP,E14000787,,Lab hold,,Lab hold
+E14000757,Huntingdon,Cambridgeshire,East,46,27,Con hold,Male,Con,Jonathan Djanogly,Sitting MP,E14000757,,Con hold,,Con hold
+E14000855,North West Cambridgeshire,Cambridgeshire,East,46,28,Con hold,Male,Con,Shailesh Vara,Sitting MP,E14000855,,Con hold,,Con hold
+E14000878,Peterborough,Cambridgeshire,East,47,28,Lab gain from Con,Female,Lab,Fiona Onasanya,New MP,E14000878,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000749,Hitchin and Harpenden,Hertfordshire,East,43,22,Con hold,Male,Con,Bim Afolami,New MP,E14000749,,Con hold,,Con hold
+E14001027,Welwyn Hatfield,Hertfordshire,East,43,21,Con hold,Male,Con,Grant Shapps,Sitting MP,E14001027,,Con hold,,Con hold
+E14000745,Hertsmere,Hertfordshire,East,42,21,Con hold,Male,Con,Oliver Dowden,Sitting MP,E14000745,,Con hold,,Con hold
+E14000681,East Surrey,Surrey,South East,45,9,Con hold,Male,Con,Sam Gyimah,Sitting MP,E14000681,,Con hold,,Con hold
+E14000656,Croydon South,London,London,44,12,Con hold,Male,Con,Chris Philp,Sitting MP,E14000656,,Con hold,,Con hold
+E14000617,Cambridge,Cambridgeshire,East,47,26,Lab hold,Male,Lab,Daniel Zeichner,Sitting MP,E14000617,,Lab hold,,Lab hold
+E14000598,"Brighton, Pavilion",East Sussex,South East,47,7,Green hold,Female,Green,Caroline Lucas,Sitting MP,E14000598,,Green hold,,Green hold
+E14000759,Ilford North,London,London,48,18,Lab hold,Male,Lab,Wes Streeting,Sitting MP,E14000759,,Lab hold,,Lab hold
+E14000790,Leyton and Wanstead,London,London,47,18,Lab hold,Male,Lab,John Cryer,Sitting MP,E14000790,,Lab hold,,Lab hold
+E14000551,Beckenham,London,London,46,12,Con hold,Male,Con,Bob Stewart,Sitting MP,E14000551,,Con hold,,Con hold
+E14000690,Eltham,London,London,47,14,Lab hold,Male,Lab,Clive Efford,Sitting MP,E14000690,,Lab hold,,Lab hold
+E14000882,Poplar and Limehouse,London,London,47,16,Lab hold,Male,Lab,Jim Fitzpatrick,Sitting MP,E14000882,,Lab hold,,Lab hold
+E14000555,Bethnal Green and Bow,London,London,47,17,Lab hold,Female,Lab,Rushanara Ali,Sitting MP,E14000555,,Lab hold,,Lab hold
+E14000718,Greenwich and Woolwich,London,London,47,15,Lab hold,Male,Lab,Matthew Pennycook,Sitting MP,E14000718,,Lab hold,,Lab hold
+E14000934,South Cambridgeshire,Cambridgeshire,East,46,26,Con hold,Female,Con,Heidi Allen,Sitting MP,E14000934,,Con hold,,Con hold
+E14000968,Stevenage,Hertfordshire,East,44,22,Con hold,Male,Con,Stephen McPartland,Sitting MP,E14000968,,Con hold,,Con hold
+E14000744,Hertford and Stortford,Hertfordshire,East,45,21,Con hold,Male,Con,Mark Prisk,Sitting MP,E14000744,,Con hold,,Con hold
+E14000606,Broxbourne,Hertfordshire,East,44,21,Con hold,Male,Con,Charles Walker,Sitting MP,E14000606,,Con hold,,Con hold
+E14000597,"Brighton, Kemptown",East Sussex,South East,47,6,Lab gain from Con,Male,Lab,Lloyd Russell-Moyle,New MP,E14000597,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000900,Romford,London,London,49,18,Con hold,Male,Con,Andrew Rosindell,Sitting MP,E14000900,,Con hold,,Con hold
+E14001032,West Ham,London,London,48,16,Lab hold,Female,Lab,Lyn Brown,Sitting MP,E14001032,,Lab hold,,Lab hold
+E14000869,Old Bexley and Sidcup,London,London,48,14,Con hold,Male,Con,James Brokenshire,Sitting MP,E14000869,,Con hold,,Con hold
+E14000760,Ilford South,London,London,48,17,Lab hold,Male,Lab,Mike Gapes,Sitting MP,E14000760,,Lab hold,,Lab hold
+E14000696,Erith and Thamesmead,London,London,48,15,Lab hold,Female,Lab,Teresa Pearce,Sitting MP,E14000696,,Lab hold,,Lab hold
+E14000604,Bromley and Chislehurst,London,London,47,13,Con hold,Male,Con,Robert Neill,Sitting MP,E14000604,,Con hold,,Con hold
+E14000842,North East Cambridgeshire,Cambridgeshire,East,47,27,Con hold,Male,Con,Stephen Barclay,Sitting MP,E14000842,,Con hold,,Con hold
+E14000937,South East Cambridgeshire,Cambridgeshire,East,48,26,Con hold,Female,Con,Lucy Frazer,Sitting MP,E14000937,,Con hold,,Con hold
+E14000786,Lewes,East Sussex,South East,48,7,Con hold,Female,Con,Maria Caulfield,Sitting MP,E14000786,,Con hold,,Con hold
+E14000845,North East Hertfordshire,Hertfordshire,East,45,22,Con hold,Male,Con,Oliver Heald,Sitting MP,E14000845,,Con hold,,Con hold
+E14000751,Hornchurch and Upminster,London,London,50,18,Con hold,Female,Con,Julia Dockerill,New MP,E14000751,,Con hold,,Con hold
+E14000558,Bexleyheath and Crayford,London,London,49,15,Con hold,Male,Con,David Evennett,Sitting MP,E14000558,,Con hold,,Con hold
+E14000540,Barking,London,London,49,17,Lab hold,Female,Lab,Margaret Hodge,Sitting MP,E14000540,,Lab hold,,Lab hold
+E14000679,East Ham,London,London,49,16,Lab hold,Male,Lab,Stephen Timms,Sitting MP,E14000679,,Lab hold,,Lab hold
+E14000872,Orpington,London,London,48,13,Con hold,Male,Con,Joseph Johnson,Sitting MP,E14000872,,Con hold,,Con hold
+E14001023,Wealden,East Sussex,South East,48,8,Con hold,Female,Con,Nusrat Ghani,Sitting MP,E14001023,,Con hold,,Con hold
+E14000684,Eastbourne,East Sussex,South East,48,6,LD gain from Con,Male,LD,Stephen Lloyd,Returning MP,E14000684,LD,LD gain from Con,Con,Con loss to LD
+E14000659,Dartford,Kent,South East,50,11,Con hold,Male,Con,Gareth Johnson,Sitting MP,E14000659,,Con hold,,Con hold
+E14000918,Sevenoaks,Kent,South East,50,10,Con hold,Male,Con,Michael Fallon,Sitting MP,E14000918,,Con hold,,Con hold
+E14000859,North West Norfolk,Norfolk,East,49,31,Con hold,Male,Con,Henry Bellingham,Sitting MP,E14000859,,Con hold,,Con hold
+E14000657,Dagenham and Rainham,London,London,50,17,Lab hold,Male,Lab,Jon Cruddas,Sitting MP,E14000657,,Lab hold,,Lab hold
+E14000557,Bexhill and Battle,East Sussex,South East,49,7,Con hold,Male,Con,Huw Merriman,Sitting MP,E14000557,,Con hold,,Con hold
+E14000715,Gravesham,Kent,South East,51,11,Con hold,Male,Con,Adam Holloway,Sitting MP,E14000715,,Con hold,,Con hold
+E14000997,Tonbridge and Malling,Kent,South East,51,10,Con hold,Male,Con,Tom Tugendhat,Sitting MP,E14000997,,Con hold,,Con hold
+E14000816,Mid Norfolk,Norfolk,East,50,31,Con hold,Male,Con,George Freeman,Sitting MP,E14000816,,Con hold,,Con hold
+E14000952,South West Norfolk,Norfolk,East,50,30,Con hold,Female,Con,Elizabeth Truss,Sitting MP,E14000952,,Con hold,,Con hold
+E14000898,Rochester and Strood,Kent,South East,52,11,Con hold,Female,Con,Kelly Tolhurst,Sitting MP,E14000898,,Con hold,,Con hold
+E14000735,Hastings and Rye,East Sussex,South East,50,7,Con hold,Female,Con,Amber Rudd,Sitting MP,E14000735,,Con hold,,Con hold
+E14000910,Saffron Walden,Essex,East,49,22,Con hold,Female,Con,Kemi Badenoch,New MP,E14000910,,Con hold,,Con hold
+E14000729,Harlow,Essex,East,48,22,Con hold,Male,Con,Robert Halfon,Sitting MP,E14000729,,Con hold,,Con hold
+E14000693,Epping Forest,Essex,East,48,21,Con hold,Female,Con,Eleanor Laing,Sitting MP,E14000693,,Con hold,,Con hold
+E14001004,Tunbridge Wells,Kent,South East,51,9,Con hold,Male,Con,Greg Clark,Sitting MP,E14001004,,Con hold,,Con hold
+E14000804,Maidstone and The Weald,Kent,South East,52,9,Con hold,Female,Con,Helen Grant,Sitting MP,E14000804,,Con hold,,Con hold
+E14000626,Chatham and Aylesford,Kent,South East,52,10,Con hold,Female,Con,Tracey Crouch,Sitting MP,E14000626,,Con hold,,Con hold
+E14000848,North Norfolk,Norfolk,East,51,32,LD hold,Male,LD,Norman Lamb,Sitting MP,E14000848,,LD hold,,LD hold
+E14000603,Broadland,Norfolk,East,51,31,Con hold,Male,Con,Keith Simpson,Sitting MP,E14000603,,Con hold,,Con hold
+E14000941,South Norfolk,Norfolk,East,51,30,Con hold,Male,Con,Richard Bacon,Sitting MP,E14000941,,Con hold,,Con hold
+E14001034,West Suffolk,Suffolk,East,51,27,Con hold,Male,Con,Matt Hancock,Sitting MP,E14001034,,Con hold,,Con hold
+E14000995,Thurrock,Essex,East,50,20,Con hold,Female,Con,Jackie Doyle-Price,Sitting MP,E14000995,,Con hold,,Con hold
+E14000933,South Basildon and East Thurrock,Essex,East,51,21,Con hold,Male,Con,Stephen Metcalfe,Sitting MP,E14000933,,Con hold,,Con hold
+E14000711,Gillingham and Rainham,Kent,South East,53,11,Con hold,Male,Con,Rehman Chishti,Sitting MP,E14000711,,Con hold,,Con hold
+E14000590,Braintree,Essex,East,50,23,Con hold,Male,Con,James Cleverly,Sitting MP,E14000590,,Con hold,,Con hold
+E14000594,Brentwood and Ongar,Essex,East,49,21,Con hold,Male,Con,Alex Burghart,New MP,E14000594,,Con hold,,Con hold
+E14000628,Chelmsford,Essex,East,50,22,Con hold,Female,Con,Vicky Ford,New MP,E14000628,,Con hold,,Con hold
+E14000536,Ashford,Kent,South East,53,9,Con hold,Male,Con,Damian Green,Sitting MP,E14000536,,Con hold,,Con hold
+E14000704,Folkestone and Hythe,Kent,South East,54,9,Con hold,Male,Con,Damian Collins,Sitting MP,E14000704,,Con hold,,Con hold
+E14000863,Norwich North,Norfolk,East,52,31,Con hold,Female,Con,Chloe Smith,Sitting MP,E14000863,,Con hold,,Con hold
+E14000864,Norwich South,Norfolk,East,52,30,Lab hold,Male,Lab,Clive Lewis,Sitting MP,E14000864,,Lab hold,,Lab hold
+E14000946,South Suffolk,Suffolk,East,52,26,Con hold,Male,Con,James Cartlidge,Sitting MP,E14000946,,Con hold,,Con hold
+E14000613,Bury St Edmunds,Suffolk,East,52,27,Con hold,Female,Con,Jo Churchill,Sitting MP,E14000613,,Con hold,,Con hold
+E14000806,Maldon,Essex,East,51,22,Con hold,Male,Con,John Whittingdale,Sitting MP,E14000806,,Con hold,,Con hold
+E14001045,Witham,Essex,East,51,23,Con hold,Female,Con,Priti Patel,Sitting MP,E14001045,,Con hold,,Con hold
+E14000622,Castle Point,Essex,East,51,20,Con hold,Female,Con,Rebecca Harris,Sitting MP,E14000622,,Con hold,,Con hold
+E14000544,Basildon and Billericay,Essex,East,50,21,Con hold,Male,Con,John Baron,Sitting MP,E14000544,,Con hold,,Con hold
+E14000670,Dover,Kent,South East,55,9,Con hold,Male,Con,Charlie Elphicke,Sitting MP,E14000670,,Con hold,,Con hold
+E14000619,Canterbury,Kent,South East,54,10,Lab gain from Con,Female,Lab,Rosie Duffield,New MP,E14000619,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000927,Sittingbourne and Sheppey,Kent,South East,54,11,Con hold,Male,Con,Gordon Henderson,Sitting MP,E14000927,,Con hold,,Con hold
+E14000700,Faversham and Mid Kent,Kent,South East,53,10,Con hold,Female,Con,Helen Whately,Sitting MP,E14000700,,Con hold,,Con hold
+E14000717,Great Yarmouth,Norfolk,East,53,30,Con hold,Male,Con,Brandon Lewis,Sitting MP,E14000717,,Con hold,,Con hold
+E14000624,Central Suffolk and North Ipswich,Suffolk,East,53,27,Con hold,Male,Con,Dan Poulter,Sitting MP,E14000624,,Con hold,,Con hold
+E14000761,Ipswich,Suffolk,East,53,26,Lab gain from Con,Male,Lab,Sandy Martin,New MP,E14000761,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000957,Southend West,Essex,East,52,20,Con hold,Male,Con,David Amess,Sitting MP,E14000957,,Con hold,,Con hold
+E14000642,Clacton,Essex,East,54,23,Con gain from UKIP,Male,Con,Giles Watling,New MP,E14000642,Con,Con gain from UKIP,Oth,UKIP loss to Con
+E14000888,Rayleigh and Wickford,Essex,East,52,21,Con hold,Male,Con,Mark Francois,Sitting MP,E14000888,,Con hold,,Con hold
+E14000644,Colchester,Essex,East,52,23,Con hold,Male,Con,Will Quince,Sitting MP,E14000644,,Con hold,,Con hold
+E14000948,South Thanet,Kent,South East,55,10,Con hold,Male,Con,Craig Mackinlay,Sitting MP,E14000948,,Con hold,,Con hold
+E14000852,North Thanet,Kent,South East,55,11,Con hold,Male,Con,Roger Gale,Sitting MP,E14000852,,Con hold,,Con hold
+E14001022,Waveney,Suffolk,East,54,27,Con hold,Male,Con,Peter Aldous,Sitting MP,E14001022,,Con hold,,Con hold
+E14000981,Suffolk Coastal,Suffolk,East,54,26,Con hold,Female,Con,Therese Coffey,Sitting MP,E14000981,,Con hold,,Con hold
+E14000899,Rochford and Southend East,Essex,East,53,21,Con hold,Male,Con,James Duddridge,Sitting MP,E14000899,,Con hold,,Con hold
+E14000734,Harwich and North Essex,Essex,East,53,23,Con hold,Male,Con,Bernard Jenkin,Sitting MP,E14000734,,Con hold,,Con hold
