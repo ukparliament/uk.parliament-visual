@@ -1,651 +1,651 @@
 ons_id,constituency,county,region,xindex,yindex,result,gender,party,mp,experience,ons_id,gain_party,gain_result,loss_party,loss_result
-N06000008,Foyle,Northern Ireland,Northern Ireland,9,55,Undeclared,Undeclared,Undeclared,,Undeclared,N06000008,,Undeclared,,Undeclared
-N06000018,West Tyrone,Northern Ireland,Northern Ireland,8,54,Undeclared,Undeclared,Undeclared,,Undeclared,N06000018,,Undeclared,,Undeclared
+N06000008,Foyle,Northern Ireland,Northern Ireland,9,55,SDLP gain from SF,Male,SDLP,Colum Eastwood,New MP,N06000008,SDLP,SDLP gain from SF,SF,SF loss to SDLP
+N06000018,West Tyrone,Northern Ireland,Northern Ireland,8,54,SF hold,Female,SF,Órfhlaith Begley,Sitting MP,N06000018,,SF hold,,SF hold
 N06000007,Fermanagh and South Tyrone,Northern Ireland,Northern Ireland,8,53,Undeclared,Undeclared,Undeclared,,Undeclared,N06000007,,Undeclared,,Undeclared
-N06000010,Mid Ulster,Northern Ireland,Northern Ireland,9,54,Undeclared,Undeclared,Undeclared,,Undeclared,N06000010,,Undeclared,,Undeclared
-N06000006,East Londonderry,Northern Ireland,Northern Ireland,10,55,Undeclared,Undeclared,Undeclared,,Undeclared,N06000006,,Undeclared,,Undeclared
-N06000017,Upper Bann,Northern Ireland,Northern Ireland,9,53,Undeclared,Undeclared,Undeclared,,Undeclared,N06000017,,Undeclared,,Undeclared
-N06000011,Newry and Armagh,Northern Ireland,Northern Ireland,9,52,Undeclared,Undeclared,Undeclared,,Undeclared,N06000011,,Undeclared,,Undeclared
-N06000014,South Antrim,Northern Ireland,Northern Ireland,10,54,Undeclared,Undeclared,Undeclared,,Undeclared,N06000014,,Undeclared,,Undeclared
-N06000012,North Antrim,Northern Ireland,Northern Ireland,11,55,Undeclared,Undeclared,Undeclared,,Undeclared,N06000012,,Undeclared,,Undeclared
-N06000015,South Down,Northern Ireland,Northern Ireland,10,52,Undeclared,Undeclared,Undeclared,,Undeclared,N06000015,,Undeclared,,Undeclared
-N06000009,Lagan Valley,Northern Ireland,Northern Ireland,10,53,Undeclared,Undeclared,Undeclared,,Undeclared,N06000009,,Undeclared,,Undeclared
-N06000005,East Antrim,Northern Ireland,Northern Ireland,12,55,Undeclared,Undeclared,Undeclared,,Undeclared,N06000005,,Undeclared,,Undeclared
-N06000002,Belfast North,Northern Ireland,Northern Ireland,11,54,Undeclared,Undeclared,Undeclared,,Undeclared,N06000002,,Undeclared,,Undeclared
-N06000004,Belfast West,Northern Ireland,Northern Ireland,11,53,Undeclared,Undeclared,Undeclared,,Undeclared,N06000004,,Undeclared,,Undeclared
-N06000016,Strangford,Northern Ireland,Northern Ireland,11,52,Undeclared,Undeclared,Undeclared,,Undeclared,N06000016,,Undeclared,,Undeclared
-N06000003,Belfast South,Northern Ireland,Northern Ireland,12,53,Undeclared,Undeclared,Undeclared,,Undeclared,N06000003,,Undeclared,,Undeclared
-N06000001,Belfast East,Northern Ireland,Northern Ireland,12,54,Undeclared,Undeclared,Undeclared,,Undeclared,N06000001,,Undeclared,,Undeclared
-N06000013,North Down,Northern Ireland,Northern Ireland,12,52,Undeclared,Undeclared,Undeclared,,Undeclared,N06000013,,Undeclared,,Undeclared
-S14000038,Inverclyde,Glasgow & Clyde,Scotland,16,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000038,,Undeclared,,Undeclared
-S14000048,North Ayrshire and Arran,South West Scotland,Scotland,18,62,Undeclared,Undeclared,Undeclared,,Undeclared,S14000048,,Undeclared,,Undeclared
+N06000010,Mid Ulster,Northern Ireland,Northern Ireland,9,54,SF hold,Male,SF,Francie Molloy,Sitting MP,N06000010,,SF hold,,SF hold
+N06000006,East Londonderry,Northern Ireland,Northern Ireland,10,55,DUP hold,Male,DUP,Gregory Campbell,Sitting MP,N06000006,,DUP hold,,DUP hold
+N06000017,Upper Bann,Northern Ireland,Northern Ireland,9,53,DUP hold,Female,DUP,Carla Lockhart,New MP,N06000017,,DUP hold,,DUP hold
+N06000011,Newry and Armagh,Northern Ireland,Northern Ireland,9,52,SF hold,Male,SF,Mickey Brady,Sitting MP,N06000011,,SF hold,,SF hold
+N06000014,South Antrim,Northern Ireland,Northern Ireland,10,54,DUP hold,Male,DUP,Paul Girvan,Sitting MP,N06000014,,DUP hold,,DUP hold
+N06000012,North Antrim,Northern Ireland,Northern Ireland,11,55,DUP hold,Male,DUP,Ian Paisley,Sitting MP,N06000012,,DUP hold,,DUP hold
+N06000015,South Down,Northern Ireland,Northern Ireland,10,52,SF hold,Male,SF,Chris Hazzard,Sitting MP,N06000015,,SF hold,,SF hold
+N06000009,Lagan Valley,Northern Ireland,Northern Ireland,10,53,DUP hold,Male,DUP,Jeffrey Donaldson,Sitting MP,N06000009,,DUP hold,,DUP hold
+N06000005,East Antrim,Northern Ireland,Northern Ireland,12,55,DUP hold,Male,DUP,Sammy Wilson,Sitting MP,N06000005,,DUP hold,,DUP hold
+N06000002,Belfast North,Northern Ireland,Northern Ireland,11,54,SF gain from DUP,Male,SF,John Finucane,New MP,N06000002,SF,SF gain from DUP,DUP,DUP loss to SF
+N06000004,Belfast West,Northern Ireland,Northern Ireland,11,53,SF hold,Male,SF,Paul Maskey,Sitting MP,N06000004,,SF hold,,SF hold
+N06000016,Strangford,Northern Ireland,Northern Ireland,11,52,DUP hold,Male,DUP,Jim Shannon,Sitting MP,N06000016,,DUP hold,,DUP hold
+N06000003,Belfast South,Northern Ireland,Northern Ireland,12,53,SDLP gain from DUP,Female,SDLP,Claire Hanna,New MP,N06000003,SDLP,SDLP gain from DUP,DUP,DUP loss to SDLP
+N06000001,Belfast East,Northern Ireland,Northern Ireland,12,54,DUP hold,Male,DUP,Gavin Robinson,Sitting MP,N06000001,,DUP hold,,DUP hold
+N06000013,North Down,Northern Ireland,Northern Ireland,12,52,Alliance gain from Ind,Male,Alliance,Stephen  Farry,New MP,N06000013,Alliance,Alliance gain from Ind,Oth,Ind loss to Alliance
+S14000038,Inverclyde,Glasgow & Clyde,Scotland,16,66,SNP hold,Male,SNP,Ronnie Cowan,Sitting MP,S14000038,,SNP hold,,SNP hold
+S14000048,North Ayrshire and Arran,South West Scotland,Scotland,18,62,SNP hold,Female,SNP,Patricia Gibson,Sitting MP,S14000048,,SNP hold,,SNP hold
 E14000964,St Ives,Cornwall,South West,12,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000964,,Undeclared,,Undeclared
-S14000053,Paisley and Renfrewshire South,Glasgow & Clyde,Scotland,17,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000053,,Undeclared,,Undeclared
-S14000052,Paisley and Renfrewshire North,Glasgow & Clyde,Scotland,17,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000052,,Undeclared,,Undeclared
-S14000059,West Dunbartonshire,Glasgow & Clyde,Scotland,18,68,Undeclared,Undeclared,Undeclared,,Undeclared,S14000059,,Undeclared,,Undeclared
-E14000616,Camborne and Redruth,Cornwall,South West,13,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000616,,Undeclared,,Undeclared
-W07000046,Gower,South Wales,Wales,15,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000046,,Undeclared,,Undeclared
-W07000047,Swansea West,South Wales,Wales,16,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000047,,Undeclared,,Undeclared
-S14000021,East Renfrewshire,Glasgow & Clyde,Scotland,18,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000021,,Undeclared,,Undeclared
-S14000018,East Dunbartonshire,Glasgow & Clyde,Scotland,19,68,Undeclared,Undeclared,Undeclared,,Undeclared,S14000018,,Undeclared,,Undeclared
-E14001003,Truro and Falmouth,Cornwall,South West,14,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14001003,,Undeclared,,Undeclared
-W07000066,Carmarthen West and South Pembrokeshire,West Wales,Wales,11,22,Undeclared,Undeclared,Undeclared,,Undeclared,W07000066,,Undeclared,,Undeclared
-W07000048,Swansea East,South Wales,Wales,17,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000048,,Undeclared,,Undeclared
-W07000065,Preseli Pembrokeshire,West Wales,Wales,10,22,Undeclared,Undeclared,Undeclared,,Undeclared,W07000065,,Undeclared,,Undeclared
-S14000027,Na h-Eileanan an Iar,Highlands & Islands,Scotland,20,77,Undeclared,Undeclared,Undeclared,,Undeclared,S14000027,,Undeclared,,Undeclared
-E14000961,St Austell and Newquay,Cornwall,South West,15,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000961,,Undeclared,,Undeclared
-W07000041,Ynys Mon,North Wales,Wales,15,35,Undeclared,Undeclared,Undeclared,,Undeclared,W07000041,,Undeclared,,Undeclared
-W07000045,Llanelli,West Wales,Wales,12,21,Undeclared,Undeclared,Undeclared,,Undeclared,W07000045,,Undeclared,,Undeclared
-W07000061,Dwyfor Meirionnydd,North Wales,Wales,16,33,Undeclared,Undeclared,Undeclared,,Undeclared,W07000061,,Undeclared,,Undeclared
-W07000067,Carmarthen East and Dinefwr,West Wales,Wales,12,22,Undeclared,Undeclared,Undeclared,,Undeclared,W07000067,,Undeclared,,Undeclared
-W07000074,Ogmore,South Wales,Wales,18,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000074,,Undeclared,,Undeclared
-W07000073,Bridgend,South Wales,Wales,18,17,Undeclared,Undeclared,Undeclared,,Undeclared,W07000073,,Undeclared,,Undeclared
-W07000049,Aberavon,South Wales,Wales,17,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000049,,Undeclared,,Undeclared
-W07000064,Ceredigion,Mid Wales,Wales,15,25,Undeclared,Undeclared,Undeclared,,Undeclared,W07000064,,Undeclared,,Undeclared
-W07000069,Neath,South Wales,Wales,18,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000069,,Undeclared,,Undeclared
-S14000005,Argyll and Bute,Highlands & Islands,Scotland,21,74,Undeclared,Undeclared,Undeclared,,Undeclared,S14000005,,Undeclared,,Undeclared
-S14000055,"Ross, Skye and Lochaber",Highlands & Islands,Scotland,21,75,Undeclared,Undeclared,Undeclared,,Undeclared,S14000055,,Undeclared,,Undeclared
-E14000938,South East Cornwall,Cornwall,South West,16,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000938,,Undeclared,,Undeclared
-E14000837,North Cornwall,Cornwall,South West,16,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000837,,Undeclared,,Undeclared
-W07000057,Arfon,North Wales,Wales,16,34,Undeclared,Undeclared,Undeclared,,Undeclared,W07000057,,Undeclared,,Undeclared
-W07000063,Montgomeryshire,Mid Wales,Wales,16,26,Undeclared,Undeclared,Undeclared,,Undeclared,W07000063,,Undeclared,,Undeclared
-W07000068,Brecon and Radnorshire,Mid Wales,Wales,16,25,Undeclared,Undeclared,Undeclared,,Undeclared,W07000068,,Undeclared,,Undeclared
-W07000078,Vale of Glamorgan,South Wales,Wales,19,16,Undeclared,Undeclared,Undeclared,,Undeclared,W07000078,,Undeclared,,Undeclared
-W07000052,Rhondda,South Wales,Wales,19,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000052,,Undeclared,,Undeclared
-W07000075,Pontypridd,South Wales,Wales,19,17,Undeclared,Undeclared,Undeclared,,Undeclared,W07000075,,Undeclared,,Undeclared
-W07000070,Cynon Valley,South Wales,Wales,19,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000070,,Undeclared,,Undeclared
-S14000033,Glasgow North West,Glasgow & Clyde,Scotland,18,67,Undeclared,Undeclared,Undeclared,,Undeclared,S14000033,,Undeclared,,Undeclared
-S14000035,Glasgow South West,Glasgow & Clyde,Scotland,18,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000035,,Undeclared,,Undeclared
-S14000039,"Inverness, Nairn, Badenoch and Strathspey",Highlands & Islands,Scotland,22,75,Undeclared,Undeclared,Undeclared,,Undeclared,S14000039,,Undeclared,,Undeclared
-S14000009,"Caithness, Sutherland and Easter Ross",Highlands & Islands,Scotland,22,76,Undeclared,Undeclared,Undeclared,,Undeclared,S14000009,,Undeclared,,Undeclared
-W07000058,Aberconwy,North Wales,Wales,17,34,Undeclared,Undeclared,Undeclared,,Undeclared,W07000058,,Undeclared,,Undeclared
-W07000080,Cardiff South and Penarth,South Wales,Wales,20,16,Undeclared,Undeclared,Undeclared,,Undeclared,W07000080,,Undeclared,,Undeclared
-W07000071,Merthyr Tydfil and Rhymney,South Wales,Wales,20,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000071,,Undeclared,,Undeclared
-W07000079,Cardiff West,South Wales,Wales,20,17,Undeclared,Undeclared,Undeclared,,Undeclared,W07000079,,Undeclared,,Undeclared
-S14000034,Glasgow South,Glasgow & Clyde,Scotland,19,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000034,,Undeclared,,Undeclared
-S14000031,Glasgow North,Glasgow & Clyde,Scotland,19,67,Undeclared,Undeclared,Undeclared,,Undeclared,S14000031,,Undeclared,,Undeclared
-S14000029,Glasgow Central,Glasgow & Clyde,Scotland,19,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000029,,Undeclared,,Undeclared
-S14000054,Perth and North Perthshire,Fife & Mid Scotland,Scotland,23,70,Undeclared,Undeclared,Undeclared,,Undeclared,S14000054,,Undeclared,,Undeclared
-S14000057,Stirling,Fife & Mid Scotland,Scotland,23,69,Undeclared,Undeclared,Undeclared,,Undeclared,S14000057,,Undeclared,,Undeclared
-S14000017,Dunfermline and West Fife,Fife & Mid Scotland,Scotland,24,69,Undeclared,Undeclared,Undeclared,,Undeclared,S14000017,,Undeclared,,Undeclared
-S14000046,Moray,Highlands & Islands,Scotland,23,75,Undeclared,Undeclared,Undeclared,,Undeclared,S14000046,,Undeclared,,Undeclared
-S14000051,Orkney and Shetland,Highlands & Islands,Scotland,23,78,Undeclared,Undeclared,Undeclared,,Undeclared,S14000051,,Undeclared,,Undeclared
-W07000076,Caerphilly,South Wales,Wales,20,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000076,,Undeclared,,Undeclared
-E14000880,"Plymouth, Sutton and Devonport",Devon,South West,19,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000880,,Undeclared,,Undeclared
-E14000879,"Plymouth, Moor View",Devon,South West,19,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000879,,Undeclared,,Undeclared
+S14000053,Paisley and Renfrewshire South,Glasgow & Clyde,Scotland,17,65,SNP hold,Female,SNP,Mhairi Black,Sitting MP,S14000053,,SNP hold,,SNP hold
+S14000052,Paisley and Renfrewshire North,Glasgow & Clyde,Scotland,17,66,SNP hold,Male,SNP,Gavin Newlands,Sitting MP,S14000052,,SNP hold,,SNP hold
+S14000059,West Dunbartonshire,Glasgow & Clyde,Scotland,18,68,SNP hold,Male,SNP,Martin Docherty-Hughes,Sitting MP,S14000059,,SNP hold,,SNP hold
+E14000616,Camborne and Redruth,Cornwall,South West,13,4,Con hold,Male,Con,George Eustice,Sitting MP,E14000616,,Con hold,,Con hold
+W07000046,Gower,South Wales,Wales,15,19,Lab hold,Female,Lab,Tonia Antoniazzi,Sitting MP,W07000046,,Lab hold,,Lab hold
+W07000047,Swansea West,South Wales,Wales,16,19,Lab hold,Male,Lab,Geraint Davies,Sitting MP,W07000047,,Lab hold,,Lab hold
+S14000021,East Renfrewshire,Glasgow & Clyde,Scotland,18,65,SNP gain from Con,Female,SNP,Kirsten Oswald,Returning MP,S14000021,SNP,SNP gain from Con,Con,Con loss to SNP
+S14000018,East Dunbartonshire,Glasgow & Clyde,Scotland,19,68,SNP gain from LD,Female,SNP,Amy Callaghan,New MP,S14000018,SNP,SNP gain from LD,LD,LD loss to SNP
+E14001003,Truro and Falmouth,Cornwall,South West,14,4,Con hold,Female,Con,Cherilyn Mackrory,New MP,E14001003,,Con hold,,Con hold
+W07000066,Carmarthen West and South Pembrokeshire,West Wales,Wales,11,22,Con hold,Male,Con,Simon Hart,Sitting MP,W07000066,,Con hold,,Con hold
+W07000048,Swansea East,South Wales,Wales,17,19,Lab hold,Female,Lab,Carolyn Harris,Sitting MP,W07000048,,Lab hold,,Lab hold
+W07000065,Preseli Pembrokeshire,West Wales,Wales,10,22,Con hold,Male,Con,Stephen Crabb,Sitting MP,W07000065,,Con hold,,Con hold
+S14000027,Na h-Eileanan an Iar,Highlands & Islands,Scotland,20,77,SNP hold,Male,SNP,Angus MacNeil,Sitting MP,S14000027,,SNP hold,,SNP hold
+E14000961,St Austell and Newquay,Cornwall,South West,15,4,Con hold,Male,Con,Steve Double,Sitting MP,E14000961,,Con hold,,Con hold
+W07000041,Ynys Mon,North Wales,Wales,15,35,Con gain from Lab,Female,Con,Virginia Crosbie,New MP,W07000041,Con,Con gain from Lab,Lab,Lab loss to Con
+W07000045,Llanelli,West Wales,Wales,12,21,Lab hold,Female,Lab,Nia Griffith,Sitting MP,W07000045,,Lab hold,,Lab hold
+W07000061,Dwyfor Meirionnydd,North Wales,Wales,16,33,PC hold,Female,PC,Liz Saville Roberts,Sitting MP,W07000061,,PC hold,,PC hold
+W07000067,Carmarthen East and Dinefwr,West Wales,Wales,12,22,PC hold,Male,PC,Jonathan Edwards,Sitting MP,W07000067,,PC hold,,PC hold
+W07000074,Ogmore,South Wales,Wales,18,18,Lab hold,Male,Lab,Chris Elmore,Sitting MP,W07000074,,Lab hold,,Lab hold
+W07000073,Bridgend,South Wales,Wales,18,17,Con gain from Lab,Male,Con,Jamie Wallis,New MP,W07000073,Con,Con gain from Lab,Lab,Lab loss to Con
+W07000049,Aberavon,South Wales,Wales,17,18,Lab hold,Male,Lab,Stephen Kinnock,Sitting MP,W07000049,,Lab hold,,Lab hold
+W07000064,Ceredigion,Mid Wales,Wales,15,25,PC hold,Male,PC,Ben Lake,Sitting MP,W07000064,,PC hold,,PC hold
+W07000069,Neath,South Wales,Wales,18,19,Lab hold,Female,Lab,Christina Rees,Sitting MP,W07000069,,Lab hold,,Lab hold
+S14000005,Argyll and Bute,Highlands & Islands,Scotland,21,74,SNP hold,Male,SNP,Brendan O'Hara,Sitting MP,S14000005,,SNP hold,,SNP hold
+S14000055,"Ross, Skye and Lochaber",Highlands & Islands,Scotland,21,75,SNP hold,Male,SNP,Ian Blackford,Sitting MP,S14000055,,SNP hold,,SNP hold
+E14000938,South East Cornwall,Cornwall,South West,16,4,Con hold,Female,Con,Sheryll Murray,Sitting MP,E14000938,,Con hold,,Con hold
+E14000837,North Cornwall,Cornwall,South West,16,5,Con hold,Male,Con,Scott Mann,Sitting MP,E14000837,,Con hold,,Con hold
+W07000057,Arfon,North Wales,Wales,16,34,PC hold,Male,PC,Hywel Williams,Sitting MP,W07000057,,PC hold,,PC hold
+W07000063,Montgomeryshire,Mid Wales,Wales,16,26,Con hold,Male,Con,Craig Williams,Returning MP,W07000063,,Con hold,,Con hold
+W07000068,Brecon and Radnorshire,Mid Wales,Wales,16,25,Con hold,Female,Con,Fay Jones,New MP,W07000068,,Con hold,,Con hold
+W07000078,Vale of Glamorgan,South Wales,Wales,19,16,Con hold,Male,Con,Alun Cairns,Sitting MP,W07000078,,Con hold,,Con hold
+W07000052,Rhondda,South Wales,Wales,19,18,Lab hold,Male,Lab,Christopher Bryant,Sitting MP,W07000052,,Lab hold,,Lab hold
+W07000075,Pontypridd,South Wales,Wales,19,17,Lab hold,Female,Lab,Alex Davies-Jones,New MP,W07000075,,Lab hold,,Lab hold
+W07000070,Cynon Valley,South Wales,Wales,19,19,Lab hold,Female,Lab,Beth Winter,New MP,W07000070,,Lab hold,,Lab hold
+S14000033,Glasgow North West,Glasgow & Clyde,Scotland,18,67,SNP hold,Female,SNP,Carol Monaghan,Sitting MP,S14000033,,SNP hold,,SNP hold
+S14000035,Glasgow South West,Glasgow & Clyde,Scotland,18,66,SNP hold,Male,SNP,Chris Stephens,Sitting MP,S14000035,,SNP hold,,SNP hold
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",Highlands & Islands,Scotland,22,75,SNP hold,Male,SNP,Drew Hendry,Sitting MP,S14000039,,SNP hold,,SNP hold
+S14000009,"Caithness, Sutherland and Easter Ross",Highlands & Islands,Scotland,22,76,LD hold,Male,LD,Jamie Stone,Sitting MP,S14000009,,LD hold,,LD hold
+W07000058,Aberconwy,North Wales,Wales,17,34,Con hold,Male,Con,Robin Millar,New MP,W07000058,,Con hold,,Con hold
+W07000080,Cardiff South and Penarth,South Wales,Wales,20,16,Lab hold,Male,Lab,Stephen Doughty,Sitting MP,W07000080,,Lab hold,,Lab hold
+W07000071,Merthyr Tydfil and Rhymney,South Wales,Wales,20,19,Lab hold,Male,Lab,Gerald Jones,Sitting MP,W07000071,,Lab hold,,Lab hold
+W07000079,Cardiff West,South Wales,Wales,20,17,Lab hold,Male,Lab,Kevin Brennan,Sitting MP,W07000079,,Lab hold,,Lab hold
+S14000034,Glasgow South,Glasgow & Clyde,Scotland,19,65,SNP hold,Male,SNP,Stewart McDonald,Sitting MP,S14000034,,SNP hold,,SNP hold
+S14000031,Glasgow North,Glasgow & Clyde,Scotland,19,67,SNP hold,Male,SNP,Patrick Grady,Sitting MP,S14000031,,SNP hold,,SNP hold
+S14000029,Glasgow Central,Glasgow & Clyde,Scotland,19,66,SNP hold,Female,SNP,Alison Thewliss,Sitting MP,S14000029,,SNP hold,,SNP hold
+S14000054,Perth and North Perthshire,Fife & Mid Scotland,Scotland,23,70,SNP hold,Male,SNP,Pete Wishart,Sitting MP,S14000054,,SNP hold,,SNP hold
+S14000057,Stirling,Fife & Mid Scotland,Scotland,23,69,SNP gain from Con,Male,SNP,Alyn Smith,New MP,S14000057,SNP,SNP gain from Con,Con,Con loss to SNP
+S14000017,Dunfermline and West Fife,Fife & Mid Scotland,Scotland,24,69,SNP hold,Male,SNP,Douglas Chapman,Sitting MP,S14000017,,SNP hold,,SNP hold
+S14000046,Moray,Highlands & Islands,Scotland,23,75,Con hold,Male,Con,Douglas Ross,Sitting MP,S14000046,,Con hold,,Con hold
+S14000051,Orkney and Shetland,Highlands & Islands,Scotland,23,78,LD hold,Male,LD,Alistair Carmichael,Sitting MP,S14000051,,LD hold,,LD hold
+W07000076,Caerphilly,South Wales,Wales,20,18,Lab hold,Male,Lab,Wayne David,Sitting MP,W07000076,,Lab hold,,Lab hold
+E14000880,"Plymouth, Sutton and Devonport",Devon,South West,19,4,Lab hold,Male,Lab,Luke Pollard,Sitting MP,E14000880,,Lab hold,,Lab hold
+E14000879,"Plymouth, Moor View",Devon,South West,19,5,Con hold,Male,Con,Johnny Mercer,Sitting MP,E14000879,,Con hold,,Con hold
 E14001000,Torridge and West Devon,Devon,South West,19,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14001000,,Undeclared,,Undeclared
-W07000059,Clwyd West,North Wales,Wales,18,34,Undeclared,Undeclared,Undeclared,,Undeclared,W07000059,,Undeclared,,Undeclared
-W07000062,Clwyd South,North Wales,Wales,19,33,Undeclared,Undeclared,Undeclared,,Undeclared,W07000062,,Undeclared,,Undeclared
-W07000060,Vale of Clwyd,North Wales,Wales,19,34,Undeclared,Undeclared,Undeclared,,Undeclared,W07000060,,Undeclared,,Undeclared
-W07000050,Cardiff Central,South Wales,Wales,21,16,Undeclared,Undeclared,Undeclared,,Undeclared,W07000050,,Undeclared,,Undeclared
-W07000077,Islwyn,South Wales,Wales,21,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000077,,Undeclared,,Undeclared
-W07000072,Blaenau Gwent,South Wales,Wales,21,19,Undeclared,Undeclared,Undeclared,,Undeclared,W07000072,,Undeclared,,Undeclared
-W07000051,Cardiff North,South Wales,Wales,21,17,Undeclared,Undeclared,Undeclared,,Undeclared,W07000051,,Undeclared,,Undeclared
-S14000032,Glasgow North East,Glasgow & Clyde,Scotland,20,67,Undeclared,Undeclared,Undeclared,,Undeclared,S14000032,,Undeclared,,Undeclared
-S14000030,Glasgow East,Glasgow & Clyde,Scotland,20,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000030,,Undeclared,,Undeclared
-S14000041,Kirkcaldy and Cowdenbeath,Fife & Mid Scotland,Scotland,25,69,Undeclared,Undeclared,Undeclared,,Undeclared,S14000041,,Undeclared,,Undeclared
-S14000050,Ochil and South Perthshire,Fife & Mid Scotland,Scotland,24,70,Undeclared,Undeclared,Undeclared,,Undeclared,S14000050,,Undeclared,,Undeclared
-E14001044,Wirral West,Merseyside,North West,20,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14001044,,Undeclared,,Undeclared
-E14001043,Wirral South,Merseyside,North West,21,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14001043,,Undeclared,,Undeclared
-E14000926,Shrewsbury and Atcham,Shropshire,West Midlands,21,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000926,,Undeclared,,Undeclared
-E14000799,Ludlow,Shropshire,West Midlands,21,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000799,,Undeclared,,Undeclared
-E14000849,North Shropshire,Shropshire,West Midlands,21,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14000849,,Undeclared,,Undeclared
-E14001001,Totnes,Devon,South West,20,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14001001,,Undeclared,,Undeclared
-E14000950,South West Devon,Devon,South West,20,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000950,,Undeclared,,Undeclared
-E14000623,Central Devon,Devon,South West,20,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000623,,Undeclared,,Undeclared
-W07000043,Alyn and Deeside,North Wales,Wales,20,33,Undeclared,Undeclared,Undeclared,,Undeclared,W07000043,,Undeclared,,Undeclared
-W07000044,Wrexham,North Wales,Wales,20,32,Undeclared,Undeclared,Undeclared,,Undeclared,W07000044,,Undeclared,,Undeclared
-W07000042,Delyn,North Wales,Wales,20,34,Undeclared,Undeclared,Undeclared,,Undeclared,W07000042,,Undeclared,,Undeclared
-W07000056,Newport West,South Wales,Wales,22,17,Undeclared,Undeclared,Undeclared,,Undeclared,W07000056,,Undeclared,,Undeclared
-W07000053,Torfaen,South Wales,Wales,22,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000053,,Undeclared,,Undeclared
-S14000049,North East Fife,Fife & Mid Scotland,Scotland,27,69,Undeclared,Undeclared,Undeclared,,Undeclared,S14000049,,Undeclared,,Undeclared
-S14000036,Glenrothes,Fife & Mid Scotland,Scotland,26,69,Undeclared,Undeclared,Undeclared,,Undeclared,S14000036,,Undeclared,,Undeclared
-E14000559,Birkenhead,Merseyside,North West,21,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000559,,Undeclared,,Undeclared
-E14001010,Wallasey,Merseyside,North West,20,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14001010,,Undeclared,,Undeclared
-E14000916,Sefton Central,Merseyside,North West,22,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000916,,Undeclared,,Undeclared
-E14000958,Southport,Merseyside,North West,22,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000958,,Undeclared,,Undeclared
-E14000581,Bootle,Merseyside,North West,21,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000581,,Undeclared,,Undeclared
-E14000989,Telford,Shropshire,West Midlands,22,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000989,,Undeclared,,Undeclared
-E14000992,The Wrekin,Shropshire,West Midlands,22,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000992,,Undeclared,,Undeclared
-E14000999,Torbay,Devon,South West,21,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000999,,Undeclared,,Undeclared
-E14000698,Exeter,Devon,South West,21,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000698,,Undeclared,,Undeclared
-E14000838,North Devon,Devon,South West,21,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000838,,Undeclared,,Undeclared
-E14000835,Newton Abbot,Devon,South West,21,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000835,,Undeclared,,Undeclared
-W07000055,Newport East,South Wales,Wales,23,17,Undeclared,Undeclared,Undeclared,,Undeclared,W07000055,,Undeclared,,Undeclared
-W07000054,Monmouth,South Wales,Wales,23,18,Undeclared,Undeclared,Undeclared,,Undeclared,W07000054,,Undeclared,,Undeclared
-S14000013,Dumfries and Galloway,South West Scotland,Scotland,19,59,Undeclared,Undeclared,Undeclared,,Undeclared,S14000013,,Undeclared,,Undeclared
-S14000006,"Ayr, Carrick and Cumnock",South West Scotland,Scotland,19,60,Undeclared,Undeclared,Undeclared,,Undeclared,S14000006,,Undeclared,,Undeclared
-S14000010,Central Ayrshire,South West Scotland,Scotland,18,61,Undeclared,Undeclared,Undeclared,,Undeclared,S14000010,,Undeclared,,Undeclared
-S14000040,Kilmarnock and Loudoun,South West Scotland,Scotland,19,61,Undeclared,Undeclared,Undeclared,,Undeclared,S14000040,,Undeclared,,Undeclared
-S14000016,Dundee West,North East Scotland,Scotland,27,71,Undeclared,Undeclared,Undeclared,,Undeclared,S14000016,,Undeclared,,Undeclared
-E14000793,"Liverpool, Riverside",Merseyside,North West,21,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000793,,Undeclared,,Undeclared
-E14000794,"Liverpool, Walton",Merseyside,North West,22,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000794,,Undeclared,,Undeclared
-E14001053,Workington,Cumbria,North West,24,54,Undeclared,Undeclared,Undeclared,,Undeclared,E14001053,,Undeclared,,Undeclared
-E14000543,Barrow and Furness,Cumbria,North West,24,52,Undeclared,Undeclared,Undeclared,,Undeclared,E14000543,,Undeclared,,Undeclared
-E14000647,Copeland,Cumbria,North West,24,53,Undeclared,Undeclared,Undeclared,,Undeclared,E14000647,,Undeclared,,Undeclared
-E14000678,East Devon,Devon,South West,22,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000678,,Undeclared,,Undeclared
-S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Lanarkshire & Falkirk,Scotland,20,59,Undeclared,Undeclared,Undeclared,,Undeclared,S14000014,,Undeclared,,Undeclared
-S14000011,"Coatbridge, Chryston and Bellshill",Lanarkshire & Falkirk,Scotland,23,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000011,,Undeclared,,Undeclared
-S14000019,"East Kilbride, Strathaven and Lesmahagow",Lanarkshire & Falkirk,Scotland,23,64,Undeclared,Undeclared,Undeclared,,Undeclared,S14000019,,Undeclared,,Undeclared
-S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Lanarkshire & Falkirk,Scotland,23,67,Undeclared,Undeclared,Undeclared,,Undeclared,S14000012,,Undeclared,,Undeclared
-S14000056,Rutherglen and Hamilton West,Lanarkshire & Falkirk,Scotland,23,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000056,,Undeclared,,Undeclared
-S14000004,Angus,North East Scotland,Scotland,28,72,Undeclared,Undeclared,Undeclared,,Undeclared,S14000004,,Undeclared,,Undeclared
-S14000015,Dundee East,North East Scotland,Scotland,28,71,Undeclared,Undeclared,Undeclared,,Undeclared,S14000015,,Undeclared,,Undeclared
-S14000058,West Aberdeenshire and Kincardine,North East Scotland,Scotland,28,73,Undeclared,Undeclared,Undeclared,,Undeclared,S14000058,,Undeclared,,Undeclared
-S14000037,Gordon,North East Scotland,Scotland,28,74,Undeclared,Undeclared,Undeclared,,Undeclared,S14000037,,Undeclared,,Undeclared
-E14001017,Warrington North,Cheshire,North West,25,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14001017,,Undeclared,,Undeclared
-E14000795,"Liverpool, Wavertree",Merseyside,North West,22,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000795,,Undeclared,,Undeclared
-E14000796,"Liverpool, West Derby",Merseyside,North West,22,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000796,,Undeclared,,Undeclared
-E14000640,City of Chester,Cheshire,North West,24,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000640,,Undeclared,,Undeclared
-E14000688,Ellesmere Port and Neston,Cheshire,North West,24,37,Undeclared,Undeclared,Undeclared,,Undeclared,E14000688,,Undeclared,,Undeclared
-E14001037,Westmorland and Lonsdale,Cumbria,North West,25,52,Undeclared,Undeclared,Undeclared,,Undeclared,E14001037,,Undeclared,,Undeclared
-E14000877,Penrith and The Border,Cumbria,North West,25,53,Undeclared,Undeclared,Undeclared,,Undeclared,E14000877,,Undeclared,,Undeclared
-E14000620,Carlisle,Cumbria,North West,25,54,Undeclared,Undeclared,Undeclared,,Undeclared,E14000620,,Undeclared,,Undeclared
-E14000996,Tiverton and Honiton,Devon,South West,23,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000996,,Undeclared,,Undeclared
-E14000595,Bridgwater and West Somerset,Somerset,South West,23,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000595,,Undeclared,,Undeclared
-E14000988,Taunton Deane,Somerset,South West,23,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000988,,Undeclared,,Undeclared
-S14000008,"Berwickshire, Roxburgh and Selkirk",Lothian & Borders,Scotland,28,63,Undeclared,Undeclared,Undeclared,,Undeclared,S14000008,,Undeclared,,Undeclared
-S14000047,Motherwell and Wishaw,Lanarkshire & Falkirk,Scotland,24,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000047,,Undeclared,,Undeclared
-S14000003,Airdrie and Shotts,Lanarkshire & Falkirk,Scotland,24,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000003,,Undeclared,,Undeclared
-S14000042,Lanark and Hamilton East,Lanarkshire & Falkirk,Scotland,24,64,Undeclared,Undeclared,Undeclared,,Undeclared,S14000042,,Undeclared,,Undeclared
-S14000028,Falkirk,Lanarkshire & Falkirk,Scotland,24,67,Undeclared,Undeclared,Undeclared,,Undeclared,S14000028,,Undeclared,,Undeclared
-S14000002,Aberdeen South,North East Scotland,Scotland,29,73,Undeclared,Undeclared,Undeclared,,Undeclared,S14000002,,Undeclared,,Undeclared
-S14000001,Aberdeen North,North East Scotland,Scotland,29,74,Undeclared,Undeclared,Undeclared,,Undeclared,S14000001,,Undeclared,,Undeclared
-S14000007,Banff and Buchan,North East Scotland,Scotland,29,75,Undeclared,Undeclared,Undeclared,,Undeclared,S14000007,,Undeclared,,Undeclared
-E14000573,Blackpool South,Lancashire,North West,25,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14000573,,Undeclared,,Undeclared
-E14000572,Blackpool North and Cleveleys,Lancashire,North West,25,47,Undeclared,Undeclared,Undeclared,,Undeclared,E14000572,,Undeclared,,Undeclared
-E14001018,Warrington South,Cheshire,North West,26,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14001018,,Undeclared,,Undeclared
-E14000775,Knowsley,Merseyside,North West,23,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000775,,Undeclared,,Undeclared
-E14000708,Garston and Halewood,Merseyside,North West,23,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000708,,Undeclared,,Undeclared
-E14000672,Dudley South,West Midlands,West Midlands,24,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000672,,Undeclared,,Undeclared
-E14000671,Dudley North,West Midlands,West Midlands,24,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000671,,Undeclared,,Undeclared
-E14000850,North Somerset,Somerset,South West,24,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000850,,Undeclared,,Undeclared
-E14001038,Weston-Super-Mare,Somerset,South West,23,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14001038,,Undeclared,,Undeclared
-E14001051,Wolverhampton South West,West Midlands,West Midlands,24,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14001051,,Undeclared,,Undeclared
-E14000686,Eddisbury,Cheshire,North West,25,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000686,,Undeclared,,Undeclared
-E14001024,Weaver Vale,Cheshire,North West,25,37,Undeclared,Undeclared,Undeclared,,Undeclared,E14001024,,Undeclared,,Undeclared
-E14001033,West Lancashire,Lancashire,North West,26,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14001033,,Undeclared,,Undeclared
-E14000943,South Ribble,Lancashire,North West,26,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000943,,Undeclared,,Undeclared
-E14001060,Yeovil,Somerset,South West,24,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14001060,,Undeclared,,Undeclared
-E14001026,Wells,Somerset,South West,24,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14001026,,Undeclared,,Undeclared
-E14000725,Halton,Cheshire,North West,24,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000725,,Undeclared,,Undeclared
-E14000962,St Helens North,Merseyside,North West,24,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000962,,Undeclared,,Undeclared
-E14000963,St Helens South and Whiston,Merseyside,North West,24,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000963,,Undeclared,,Undeclared
-E14000722,Halesowen and Rowley Regis,West Midlands,West Midlands,25,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000722,,Undeclared,,Undeclared
-E14001030,West Bromwich West,West Midlands,West Midlands,25,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14001030,,Undeclared,,Undeclared
-E14000976,Stourbridge,West Midlands,West Midlands,25,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000976,,Undeclared,,Undeclared
-E14000846,North East Somerset,Somerset,South West,25,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000846,,Undeclared,,Undeclared
-E14000547,Bath,Somerset,South West,26,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000547,,Undeclared,,Undeclared
-E14001049,Wolverhampton North East,West Midlands,West Midlands,24,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14001049,,Undeclared,,Undeclared
-E14001050,Wolverhampton South East,West Midlands,West Midlands,25,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14001050,,Undeclared,,Undeclared
-E14000646,Congleton,Cheshire,North West,27,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000646,,Undeclared,,Undeclared
-E14000653,Crewe and Nantwich,Cheshire,North West,26,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000653,,Undeclared,,Undeclared
-E14000637,Chorley,Lancashire,North West,27,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000637,,Undeclared,,Undeclared
-E14000885,Preston,Lancashire,North West,27,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14000885,,Undeclared,,Undeclared
-E14000706,Fylde,Lancashire,North West,26,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14000706,,Undeclared,,Undeclared
-E14000932,Somerton and Frome,Somerset,South West,25,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000932,,Undeclared,,Undeclared
-S14000043,Linlithgow and East Falkirk,Lothian & Borders,Scotland,26,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000043,,Undeclared,,Undeclared
-S14000044,Livingston,Lothian & Borders,Scotland,26,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000044,,Undeclared,,Undeclared
-E14000565,"Birmingham, Northfield",West Midlands,West Midlands,26,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000565,,Undeclared,,Undeclared
-E14000560,"Birmingham, Edgbaston",West Midlands,West Midlands,26,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000560,,Undeclared,,Undeclared
-E14001029,West Bromwich East,West Midlands,West Midlands,26,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14001029,,Undeclared,,Undeclared
-E14001016,Warley,West Midlands,West Midlands,26,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14001016,,Undeclared,,Undeclared
-E14000743,Hereford and South Herefordshire,Herefordshire,West Midlands,23,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000743,,Undeclared,,Undeclared
-E14000847,North Herefordshire,Herefordshire,West Midlands,23,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000847,,Undeclared,,Undeclared
-E14000600,Bristol North West,Bristol and South Gloucestershire,South West,25,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000600,,Undeclared,,Undeclared
-E14000601,Bristol South,Bristol and South Gloucestershire,South West,25,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000601,,Undeclared,,Undeclared
-E14000602,Bristol West,Bristol and South Gloucestershire,South West,26,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000602,,Undeclared,,Undeclared
-E14001011,Walsall North,West Midlands,West Midlands,25,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14001011,,Undeclared,,Undeclared
-E14001012,Walsall South,West Midlands,West Midlands,26,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14001012,,Undeclared,,Undeclared
-E14000802,Macclesfield,Cheshire,North West,27,37,Undeclared,Undeclared,Undeclared,,Undeclared,E14000802,,Undeclared,,Undeclared
-E14000987,Tatton,Cheshire,North West,26,37,Undeclared,Undeclared,Undeclared,,Undeclared,E14000987,,Undeclared,,Undeclared
-E14001031,West Dorset,Dorset,South West,26,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14001031,,Undeclared,,Undeclared
-E14000705,Forest of Dean,Gloucestershire,South West,26,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000705,,Undeclared,,Undeclared
-E14000894,Ribble Valley,Lancashire,North West,28,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14000894,,Undeclared,,Undeclared
-E14000570,Blackburn,Lancashire,North West,28,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000570,,Undeclared,,Undeclared
-E14000825,Morecambe and Lunesdale,Lancashire,North West,26,49,Undeclared,Undeclared,Undeclared,,Undeclared,E14000825,,Undeclared,,Undeclared
-E14001057,Wyre and Preston North,Lancashire,North West,26,47,Undeclared,Undeclared,Undeclared,,Undeclared,E14001057,,Undeclared,,Undeclared
-E14000776,Lancaster and Fleetwood,Lancashire,North West,26,48,Undeclared,Undeclared,Undeclared,,Undeclared,E14000776,,Undeclared,,Undeclared
-S14000025,Edinburgh South West,Lothian & Borders,Scotland,27,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000025,,Undeclared,,Undeclared
-S14000026,Edinburgh West,Lothian & Borders,Scotland,27,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000026,,Undeclared,,Undeclared
-E14001039,Wigan,Greater Manchester,North West,27,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14001039,,Undeclared,,Undeclared
-E14000805,Makerfield,Greater Manchester,North West,27,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000805,,Undeclared,,Undeclared
-E14000566,"Birmingham, Perry Barr",West Midlands,West Midlands,27,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000566,,Undeclared,,Undeclared
-E14000562,"Birmingham, Hall Green",West Midlands,West Midlands,27,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000562,,Undeclared,,Undeclared
-E14000567,"Birmingham, Selly Oak",West Midlands,West Midlands,27,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000567,,Undeclared,,Undeclared
-E14000564,"Birmingham, Ladywood",West Midlands,West Midlands,27,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000564,,Undeclared,,Undeclared
-E14000599,Bristol East,Bristol and South Gloucestershire,South West,26,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000599,,Undeclared,,Undeclared
-E14000702,Filton and Bradley Stoke,Bristol and South Gloucestershire,South West,26,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000702,,Undeclared,,Undeclared
-E14000994,Thornbury and Yate,Bristol and South Gloucestershire,South West,27,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000994,,Undeclared,,Undeclared
-E14000774,Kingswood,Bristol and South Gloucestershire,South West,27,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000774,,Undeclared,,Undeclared
-E14000531,Aldridge-Brownhills,West Midlands,West Midlands,27,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14000531,,Undeclared,,Undeclared
-E14000936,South Dorset,Dorset,South West,27,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000936,,Undeclared,,Undeclared
-E14000839,North Dorset,Dorset,South West,27,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000839,,Undeclared,,Undeclared
-E14000815,Mid Dorset and North Poole,Dorset,South West,27,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000815,,Undeclared,,Undeclared
-E14000980,Stroud,Gloucestershire,South West,27,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000980,,Undeclared,,Undeclared
-E14000712,Gloucester,Gloucestershire,South West,27,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000712,,Undeclared,,Undeclared
-E14000902,Rossendale and Darwen,Lancashire,North West,29,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000902,,Undeclared,,Undeclared
-E14000758,Hyndburn,Lancashire,North West,29,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14000758,,Undeclared,,Undeclared
-E14001058,Wyre Forest,Worcestershire,West Midlands,27,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14001058,,Undeclared,,Undeclared
-E14001052,Worcester,Worcestershire,West Midlands,27,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14001052,,Undeclared,,Undeclared
-E14001035,West Worcestershire,Worcestershire,West Midlands,27,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14001035,,Undeclared,,Undeclared
-S14000023,Edinburgh North and Leith,Lothian & Borders,Scotland,28,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000023,,Undeclared,,Undeclared
-S14000024,Edinburgh South,Lothian & Borders,Scotland,28,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000024,,Undeclared,,Undeclared
-E14000785,Leigh,Greater Manchester,North West,28,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000785,,Undeclared,,Undeclared
-E14000881,Poole,Dorset,South West,28,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000881,,Undeclared,,Undeclared
-E14000580,Bolton West,Greater Manchester,North West,28,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000580,,Undeclared,,Undeclared
-E14000568,"Birmingham, Yardley",West Midlands,West Midlands,28,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000568,,Undeclared,,Undeclared
-E14000563,"Birmingham, Hodge Hill",West Midlands,West Midlands,28,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000563,,Undeclared,,Undeclared
-E14000561,"Birmingham, Erdington",West Midlands,West Midlands,28,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000561,,Undeclared,,Undeclared
-E14000931,Solihull,West Midlands,West Midlands,28,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000931,,Undeclared,,Undeclared
-E14000834,Newcastle-under-Lyme,Staffordshire,West Midlands,28,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000834,,Undeclared,,Undeclared
-E14000990,Tewkesbury,Gloucestershire,South West,28,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000990,,Undeclared,,Undeclared
-E14000630,Cheltenham,Gloucestershire,South West,28,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000630,,Undeclared,,Undeclared
-E14000875,Pendle,Lancashire,North West,30,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14000875,,Undeclared,,Undeclared
-E14000609,Burnley,Lancashire,North West,30,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000609,,Undeclared,,Undeclared
-E14000945,South Staffordshire,Staffordshire,West Midlands,27,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000945,,Undeclared,,Undeclared
-E14000975,Stone,Staffordshire,West Midlands,28,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000975,,Undeclared,,Undeclared
-E14000965,Stafford,Staffordshire,West Midlands,28,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000965,,Undeclared,,Undeclared
-E14000605,Bromsgrove,Worcestershire,West Midlands,28,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000605,,Undeclared,,Undeclared
-E14000818,Mid Worcestershire,Worcestershire,West Midlands,28,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000818,,Undeclared,,Undeclared
-E14000892,Redditch,Worcestershire,West Midlands,28,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000892,,Undeclared,,Undeclared
-S14000022,Edinburgh East,Lothian & Borders,Scotland,29,66,Undeclared,Undeclared,Undeclared,,Undeclared,S14000022,,Undeclared,,Undeclared
-S14000045,Midlothian,Lothian & Borders,Scotland,28,64,Undeclared,Undeclared,Undeclared,,Undeclared,S14000045,,Undeclared,,Undeclared
-E14000979,Stretford and Urmston,Greater Manchester,North West,29,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000979,,Undeclared,,Undeclared
-E14001054,Worsley and Eccles South,Greater Manchester,North West,29,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14001054,,Undeclared,,Undeclared
-E14000578,Bolton North East,Greater Manchester,North West,29,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000578,,Undeclared,,Undeclared
-E14000532,Altrincham and Sale West,Greater Manchester,North West,29,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000532,,Undeclared,,Undeclared
-E14000579,Bolton South East,Greater Manchester,North West,29,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000579,,Undeclared,,Undeclared
-E14000985,Sutton Coldfield,West Midlands,West Midlands,28,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14000985,,Undeclared,,Undeclared
-E14000650,Coventry North West,West Midlands,West Midlands,29,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000650,,Undeclared,,Undeclared
-E14000973,Stoke-on-Trent North,Staffordshire,West Midlands,29,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000973,,Undeclared,,Undeclared
-E14000972,Stoke-on-Trent Central,Staffordshire,West Midlands,29,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000972,,Undeclared,,Undeclared
-E14000585,Bournemouth West,Dorset,South West,29,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000585,,Undeclared,,Undeclared
-E14000812,Meriden,West Midlands,West Midlands,29,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000812,,Undeclared,,Undeclared
-E14000991,The Cotswolds,Gloucestershire,South West,29,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000991,,Undeclared,,Undeclared
-E14000791,Lichfield,Staffordshire,West Midlands,30,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000791,,Undeclared,,Undeclared
-E14000974,Stoke-on-Trent South,Staffordshire,West Midlands,29,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000974,,Undeclared,,Undeclared
-E14000618,Cannock Chase,Staffordshire,West Midlands,29,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000618,,Undeclared,,Undeclared
-S14000020,East Lothian,Lothian & Borders,Scotland,29,65,Undeclared,Undeclared,Undeclared,,Undeclared,S14000020,,Undeclared,,Undeclared
-E14000554,Berwick-upon-Tweed,Northumberland,North East,30,62,Undeclared,Undeclared,Undeclared,,Undeclared,E14000554,,Undeclared,,Undeclared
-E14000746,Hexham,Northumberland,North East,30,61,Undeclared,Undeclared,Undeclared,,Undeclared,E14000746,,Undeclared,,Undeclared
-E14000611,Bury North,Greater Manchester,North West,30,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000611,,Undeclared,,Undeclared
-E14000911,Salford and Eccles,Greater Manchester,North West,30,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000911,,Undeclared,,Undeclared
-E14000809,"Manchester, Withington",Greater Manchester,North West,30,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000809,,Undeclared,,Undeclared
-E14001059,Wythenshawe and Sale East,Greater Manchester,North West,30,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14001059,,Undeclared,,Undeclared
-E14000612,Bury South,Greater Manchester,North West,30,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000612,,Undeclared,,Undeclared
-E14000833,Newcastle upon Tyne North,Tyne and Wear,North East,30,58,Undeclared,Undeclared,Undeclared,,Undeclared,E14000833,,Undeclared,,Undeclared
-E14000831,Newcastle upon Tyne Central,Tyne and Wear,North East,30,57,Undeclared,Undeclared,Undeclared,,Undeclared,E14000831,,Undeclared,,Undeclared
-E14000574,Blaydon,Tyne and Wear,North East,30,56,Undeclared,Undeclared,Undeclared,,Undeclared,E14000574,,Undeclared,,Undeclared
-E14000649,Coventry North East,West Midlands,West Midlands,30,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000649,,Undeclared,,Undeclared
-E14000651,Coventry South,West Midlands,West Midlands,30,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000651,,Undeclared,,Undeclared
-E14000610,Burton,Staffordshire,West Midlands,30,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000610,,Undeclared,,Undeclared
-E14000584,Bournemouth East,Dorset,South West,30,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000584,,Undeclared,,Undeclared
-E14000954,South West Wiltshire,Wiltshire,South West,30,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000954,,Undeclared,,Undeclared
-E14000860,North Wiltshire,Wiltshire,South West,30,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000860,,Undeclared,,Undeclared
-E14000635,Chippenham,Wiltshire,South West,30,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000635,,Undeclared,,Undeclared
-E14000986,Tamworth,Staffordshire,West Midlands,31,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000986,,Undeclared,,Undeclared
-E14000638,Christchurch,Dorset,South West,30,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000638,,Undeclared,,Undeclared
-E14000966,Staffordshire Moorlands,Staffordshire,West Midlands,30,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000966,,Undeclared,,Undeclared
-E14000947,South Swindon,Wiltshire,South West,31,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000947,,Undeclared,,Undeclared
-E14000851,North Swindon,Wiltshire,South West,31,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000851,,Undeclared,,Undeclared
-E14000575,Blyth Valley,Northumberland,North East,31,60,Undeclared,Undeclared,Undeclared,,Undeclared,E14000575,,Undeclared,,Undeclared
-E14001014,Wansbeck,Northumberland,North East,31,61,Undeclared,Undeclared,Undeclared,,Undeclared,E14001014,,Undeclared,,Undeclared
-E14000747,Heywood and Middleton,Greater Manchester,North West,31,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000747,,Undeclared,,Undeclared
-E14000571,Blackley and Broughton,Greater Manchester,North West,31,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000571,,Undeclared,,Undeclared
-E14000807,Manchester Central,Greater Manchester,North West,31,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000807,,Undeclared,,Undeclared
-E14000808,"Manchester, Gorton",Greater Manchester,North West,31,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000808,,Undeclared,,Undeclared
-E14000627,Cheadle,Greater Manchester,North West,31,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000627,,Undeclared,,Undeclared
-E14000709,Gateshead,Tyne and Wear,North East,31,56,Undeclared,Undeclared,Undeclared,,Undeclared,E14000709,,Undeclared,,Undeclared
-E14000589,Bradford West,West Yorkshire,Yorkshire and The Humber,35,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000589,,Undeclared,,Undeclared
-E14000766,Keighley,West Yorkshire,Yorkshire and The Humber,34,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000766,,Undeclared,,Undeclared
-E14000614,Calder Valley,West Yorkshire,Yorkshire and The Humber,34,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000614,,Undeclared,,Undeclared
-E14000832,Newcastle upon Tyne East,Tyne and Wear,North East,31,57,Undeclared,Undeclared,Undeclared,,Undeclared,E14000832,,Undeclared,,Undeclared
-E14000665,Devizes,Wiltshire,South West,31,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000665,,Undeclared,,Undeclared
-E14000912,Salisbury,Wiltshire,South West,31,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000912,,Undeclared,,Undeclared
-E14001046,Witney,Oxfordshire,South East,32,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14001046,,Undeclared,,Undeclared
-E14000871,Oldham West and Royton,Greater Manchester,North West,32,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000871,,Undeclared,,Undeclared
-E14000897,Rochdale,Greater Manchester,North West,32,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000897,,Undeclared,,Undeclared
-E14000969,Stockport,Greater Manchester,North West,32,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000969,,Undeclared,,Undeclared
-E14000537,Ashton-under-Lyne,Greater Manchester,North West,32,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000537,,Undeclared,,Undeclared
-E14000661,Denton and Reddish,Greater Manchester,North West,32,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000661,,Undeclared,,Undeclared
-E14000765,Jarrow,Tyne and Wear,North East,32,57,Undeclared,Undeclared,Undeclared,,Undeclared,E14000765,,Undeclared,,Undeclared
-E14000853,North Tyneside,Tyne and Wear,North East,31,58,Undeclared,Undeclared,Undeclared,,Undeclared,E14000853,,Undeclared,,Undeclared
-E14001020,Washington and Sunderland West,Tyne and Wear,North East,32,56,Undeclared,Undeclared,Undeclared,,Undeclared,E14001020,,Undeclared,,Undeclared
-E14000754,Houghton and Sunderland South,Tyne and Wear,North East,33,55,Undeclared,Undeclared,Undeclared,,Undeclared,E14000754,,Undeclared,,Undeclared
-E14000587,Bradford East,West Yorkshire,Yorkshire and The Humber,36,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000587,,Undeclared,,Undeclared
-E14000925,Shipley,West Yorkshire,Yorkshire and The Humber,35,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000925,,Undeclared,,Undeclared
-E14000588,Bradford South,West Yorkshire,Yorkshire and The Humber,36,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000588,,Undeclared,,Undeclared
-E14000723,Halifax,West Yorkshire,Yorkshire and The Humber,35,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000723,,Undeclared,,Undeclared
-E14000748,High Peak,Derbyshire,East Midlands,34,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000748,,Undeclared,,Undeclared
-E14000828,New Forest West,Hampshire,South East,32,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000828,,Undeclared,,Undeclared
-E14001015,Wantage,Oxfordshire,South East,32,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14001015,,Undeclared,,Undeclared
-E14000874,Oxford West and Abingdon,Oxfordshire,South East,32,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000874,,Undeclared,,Undeclared
-E14000854,North Warwickshire,Warwickshire,West Midlands,33,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000854,,Undeclared,,Undeclared
-E14000977,Stratford-on-Avon,Warwickshire,West Midlands,32,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000977,,Undeclared,,Undeclared
-E14000843,North East Derbyshire,Derbyshire,East Midlands,35,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000843,,Undeclared,,Undeclared
-E14000738,Hazel Grove,Greater Manchester,North West,33,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000738,,Undeclared,,Undeclared
-E14000870,Oldham East and Saddleworth,Greater Manchester,North West,33,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000870,,Undeclared,,Undeclared
-E14000967,Stalybridge and Hyde,Greater Manchester,North West,33,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000967,,Undeclared,,Undeclared
-E14001006,Tynemouth,Tyne and Wear,North East,32,58,Undeclared,Undeclared,Undeclared,,Undeclared,E14001006,,Undeclared,,Undeclared
-E14000944,South Shields,Tyne and Wear,North East,33,57,Undeclared,Undeclared,Undeclared,,Undeclared,E14000944,,Undeclared,,Undeclared
-E14000663,Derby South,Derbyshire,East Midlands,35,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000663,,Undeclared,,Undeclared
-E14000830,Newbury,Berkshire,South East,34,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000830,,Undeclared,,Undeclared
-E14000956,"Southampton, Test",Hampshire,South East,34,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000956,,Undeclared,,Undeclared
-E14000645,Colne Valley,West Yorkshire,Yorkshire and The Humber,35,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000645,,Undeclared,,Undeclared
-E14000886,Pudsey,West Yorkshire,Yorkshire and The Humber,36,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000886,,Undeclared,,Undeclared
-E14000780,Leeds North West,West Yorkshire,Yorkshire and The Humber,37,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000780,,Undeclared,,Undeclared
-E14000756,Huddersfield,West Yorkshire,Yorkshire and The Humber,36,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000756,,Undeclared,,Undeclared
-E14000982,Sunderland Central,Tyne and Wear,North East,33,56,Undeclared,Undeclared,Undeclared,,Undeclared,E14000982,,Undeclared,,Undeclared
-E14000856,North West Durham,County Durham,North East,32,53,Undeclared,Undeclared,Undeclared,,Undeclared,E14000856,,Undeclared,,Undeclared
-E14000569,Bishop Auckland,County Durham,North East,32,52,Undeclared,Undeclared,Undeclared,,Undeclared,E14000569,,Undeclared,,Undeclared
-E14000664,Derbyshire Dales,Derbyshire,East Midlands,34,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000664,,Undeclared,,Undeclared
-E14000632,Chesterfield,Derbyshire,East Midlands,35,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000632,,Undeclared,,Undeclared
-E14000662,Derby North,Derbyshire,East Midlands,35,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000662,,Undeclared,,Undeclared
-E14000935,South Derbyshire,Derbyshire,East Midlands,35,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000935,,Undeclared,,Undeclared
-E14000827,New Forest East,Hampshire,South East,33,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000827,,Undeclared,,Undeclared
-E14000539,Banbury,Oxfordshire,South East,33,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000539,,Undeclared,,Undeclared
-E14000742,Henley,Oxfordshire,South East,33,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000742,,Undeclared,,Undeclared
-E14000873,Oxford East,Oxfordshire,South East,33,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000873,,Undeclared,,Undeclared
-E14001019,Warwick and Leamington,Warwickshire,West Midlands,33,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14001019,,Undeclared,,Undeclared
-E14000868,Nuneaton,Warwickshire,West Midlands,33,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000868,,Undeclared,,Undeclared
-E14000814,Mid Derbyshire,Derbyshire,East Midlands,36,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000814,,Undeclared,,Undeclared
-E14000890,Reading West,Berkshire,South East,34,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000890,,Undeclared,,Undeclared
-E14000955,"Southampton, Itchen",Hampshire,South East,34,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000955,,Undeclared,,Undeclared
-E14000666,Dewsbury,West Yorkshire,Yorkshire and The Humber,37,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000666,,Undeclared,,Undeclared
-E14001009,Wakefield,West Yorkshire,Yorkshire and The Humber,38,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14001009,,Undeclared,,Undeclared
-E14000826,Morley and Outwood,West Yorkshire,Yorkshire and The Humber,38,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000826,,Undeclared,,Undeclared
-E14000781,Leeds West,West Yorkshire,Yorkshire and The Humber,37,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000781,,Undeclared,,Undeclared
-E14000840,North Durham,County Durham,North East,33,53,Undeclared,Undeclared,Undeclared,,Undeclared,E14000840,,Undeclared,,Undeclared
-E14000641,City of Durham,County Durham,North East,33,52,Undeclared,Undeclared,Undeclared,,Undeclared,E14000641,,Undeclared,,Undeclared
-E14000915,Sedgefield,County Durham,North East,34,52,Undeclared,Undeclared,Undeclared,,Undeclared,E14000915,,Undeclared,,Undeclared
-E14000533,Amber Valley,Derbyshire,East Midlands,36,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000533,,Undeclared,,Undeclared
-E14000695,Erewash,Derbyshire,East Midlands,36,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000695,,Undeclared,,Undeclared
-E14000577,Bolsover,Derbyshire,East Midlands,36,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000577,,Undeclared,,Undeclared
-E14000901,Romsey and Southampton North,Hampshire,South East,34,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14000901,,Undeclared,,Undeclared
-E14000583,Bosworth,Leicestershire,East Midlands,35,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000583,,Undeclared,,Undeclared
-E14000858,North West Leicestershire,Leicestershire,East Midlands,35,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14000858,,Undeclared,,Undeclared
-E14000767,Kenilworth and Southam,Warwickshire,West Midlands,33,24,Undeclared,Undeclared,Undeclared,,Undeclared,E14000767,,Undeclared,,Undeclared
-E14000905,Rugby,Warwickshire,West Midlands,33,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000905,,Undeclared,,Undeclared
-E14000658,Darlington,County Durham,North East,34,51,Undeclared,Undeclared,Undeclared,,Undeclared,E14000658,,Undeclared,,Undeclared
-E14000876,Penistone and Stocksbridge,South Yorkshire,Yorkshire and The Humber,35,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000876,,Undeclared,,Undeclared
-E14000922,"Sheffield, Hallam",South Yorkshire,Yorkshire and The Humber,35,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000922,,Undeclared,,Undeclared
-E14000923,"Sheffield, Heeley",South Yorkshire,Yorkshire and The Humber,36,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000923,,Undeclared,,Undeclared
-E14000784,Leicester West,Leicestershire,East Midlands,36,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14000784,,Undeclared,,Undeclared
-E14000889,Reading East,Berkshire,South East,35,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000889,,Undeclared,,Undeclared
-E14001048,Wokingham,Berkshire,South East,35,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14001048,,Undeclared,,Undeclared
-E14000779,Leeds North East,West Yorkshire,Yorkshire and The Humber,38,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000779,,Undeclared,,Undeclared
-E14000777,Leeds Central,West Yorkshire,Yorkshire and The Humber,38,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000777,,Undeclared,,Undeclared
-E14000548,Batley and Spen,West Yorkshire,Yorkshire and The Humber,37,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000548,,Undeclared,,Undeclared
-E14000740,Hemsworth,West Yorkshire,Yorkshire and The Humber,39,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000740,,Undeclared,,Undeclared
-E14000762,Isle of Wight,Isle of Wight,South East,35,4,Undeclared,Undeclared,Undeclared,,Undeclared,E14000762,,Undeclared,,Undeclared
-E14000677,Easington,County Durham,North East,34,53,Undeclared,Undeclared,Undeclared,,Undeclared,E14000677,,Undeclared,,Undeclared
-E14001056,Wycombe,Buckinghamshire,South East,35,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14001056,,Undeclared,,Undeclared
-E14000538,Aylesbury,Buckinghamshire,South East,35,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000538,,Undeclared,,Undeclared
-E14000713,Gosport,Hampshire,South East,35,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000713,,Undeclared,,Undeclared
-E14000857,North West Hampshire,Hampshire,South East,35,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000857,,Undeclared,,Undeclared
-E14000699,Fareham,Hampshire,South East,35,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000699,,Undeclared,,Undeclared
-E14000685,Eastleigh,Hampshire,South East,35,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14000685,,Undeclared,,Undeclared
-E14000783,Leicester South,Leicestershire,East Midlands,36,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000783,,Undeclared,,Undeclared
-E14000797,Loughborough,Leicestershire,East Midlands,36,30,Undeclared,Undeclared,Undeclared,,Undeclared,E14000797,,Undeclared,,Undeclared
-E14000940,South Leicestershire,Leicestershire,East Midlands,36,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000940,,Undeclared,,Undeclared
-E14000970,Stockton North,Teesside,North East,36,51,Undeclared,Undeclared,Undeclared,,Undeclared,E14000970,,Undeclared,,Undeclared
-E14000971,Stockton South,Teesside,North East,36,50,Undeclared,Undeclared,Undeclared,,Undeclared,E14000971,,Undeclared,,Undeclared
-E14000541,Barnsley Central,South Yorkshire,Yorkshire and The Humber,36,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000541,,Undeclared,,Undeclared
-E14000921,"Sheffield, Brightside and Hillsborough",South Yorkshire,Yorkshire and The Humber,37,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000921,,Undeclared,,Undeclared
-E14000919,Sheffield Central,South Yorkshire,Yorkshire and The Humber,36,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000919,,Undeclared,,Undeclared
-E14000782,Leicester East,Leicestershire,East Midlands,37,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000782,,Undeclared,,Undeclared
-E14000625,Charnwood,Leicestershire,East Midlands,37,29,Undeclared,Undeclared,Undeclared,,Undeclared,E14000625,,Undeclared,,Undeclared
-E14000803,Maidenhead,Berkshire,South East,36,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000803,,Undeclared,,Undeclared
-E14000586,Bracknell,Berkshire,South East,36,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000586,,Undeclared,,Undeclared
-E14000822,Milton Keynes South,Buckinghamshire,South East,36,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000822,,Undeclared,,Undeclared
-E14000821,Milton Keynes North,Buckinghamshire,South East,36,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000821,,Undeclared,,Undeclared
-E14000778,Leeds East,West Yorkshire,Yorkshire and The Humber,39,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000778,,Undeclared,,Undeclared
-E14000689,Elmet and Rothwell,West Yorkshire,Yorkshire and The Humber,39,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000689,,Undeclared,,Undeclared
-E14000836,"Normanton, Pontefract and Castleford",West Yorkshire,Yorkshire and The Humber,39,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000836,,Undeclared,,Undeclared
-E14000883,Portsmouth North,Hampshire,South East,36,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000883,,Undeclared,,Undeclared
-E14000631,Chesham and Amersham,Buckinghamshire,South East,36,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000631,,Undeclared,,Undeclared
-E14000608,Buckingham,Buckinghamshire,South East,36,20,Undeclared,Undeclared,Undeclared,,Undeclared,E14000608,,Undeclared,,Undeclared
-E14000550,Beaconsfield,Buckinghamshire,South East,36,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000550,,Undeclared,,Undeclared
-E14000545,Basingstoke,Hampshire,South East,36,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000545,,Undeclared,,Undeclared
-E14000884,Portsmouth South,Hampshire,South East,36,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000884,,Undeclared,,Undeclared
-E14001041,Winchester,Hampshire,South East,36,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14001041,,Undeclared,,Undeclared
-E14000728,Harborough,Leicestershire,East Midlands,37,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000728,,Undeclared,,Undeclared
-E14000607,Broxtowe,Nottinghamshire,East Midlands,39,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000607,,Undeclared,,Undeclared
-E14000733,Hartlepool,Teesside,North East,37,51,Undeclared,Undeclared,Undeclared,,Undeclared,E14000733,,Undeclared,,Undeclared
-E14000819,Middlesbrough,Teesside,North East,37,50,Undeclared,Undeclared,Undeclared,,Undeclared,E14000819,,Undeclared,,Undeclared
-E14000542,Barnsley East,South Yorkshire,Yorkshire and The Humber,37,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000542,,Undeclared,,Undeclared
-E14000920,Sheffield South East,South Yorkshire,Yorkshire and The Humber,37,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000920,,Undeclared,,Undeclared
-E14000904,Rotherham,South Yorkshire,Yorkshire and The Humber,38,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000904,,Undeclared,,Undeclared
-E14000909,Rutland and Melton,Leicestershire,East Midlands,38,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000909,,Undeclared,,Undeclared
-E14000866,Nottingham North,Nottinghamshire,East Midlands,40,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000866,,Undeclared,,Undeclared
-E14000867,Nottingham South,Nottinghamshire,East Midlands,40,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000867,,Undeclared,,Undeclared
-E14001042,Windsor,Berkshire,South East,37,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14001042,,Undeclared,,Undeclared
-E14000930,Slough,Berkshire,South East,37,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000930,,Undeclared,,Undeclared
-E14000680,East Hampshire,Hampshire,South East,37,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14000680,,Undeclared,,Undeclared
-E14000844,North East Hampshire,Hampshire,South East,37,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000844,,Undeclared,,Undeclared
-E14000811,Meon Valley,Hampshire,South East,37,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000811,,Undeclared,,Undeclared
-E14000736,Havant,Hampshire,South East,37,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000736,,Undeclared,,Undeclared
+W07000059,Clwyd West,North Wales,Wales,18,34,Con hold,Male,Con,David Jones,Sitting MP,W07000059,,Con hold,,Con hold
+W07000062,Clwyd South,North Wales,Wales,19,33,Con gain from Lab,Male,Con,Simon Baynes,New MP,W07000062,Con,Con gain from Lab,Lab,Lab loss to Con
+W07000060,Vale of Clwyd,North Wales,Wales,19,34,Con gain from Lab,Male,Con,James Davies,Returning MP,W07000060,Con,Con gain from Lab,Lab,Lab loss to Con
+W07000050,Cardiff Central,South Wales,Wales,21,16,Lab hold,Female,Lab,Jo Stevens,Sitting MP,W07000050,,Lab hold,,Lab hold
+W07000077,Islwyn,South Wales,Wales,21,18,Lab hold,Male,Lab,Chris Evans,Sitting MP,W07000077,,Lab hold,,Lab hold
+W07000072,Blaenau Gwent,South Wales,Wales,21,19,Lab hold,Male,Lab,Nick Smith,Sitting MP,W07000072,,Lab hold,,Lab hold
+W07000051,Cardiff North,South Wales,Wales,21,17,Lab hold,Female,Lab,Anna McMorrin,Sitting MP,W07000051,,Lab hold,,Lab hold
+S14000032,Glasgow North East,Glasgow & Clyde,Scotland,20,67,SNP gain from Lab Coop,Female,SNP,Anne McLaughlin,Returning MP,S14000032,SNP,SNP gain from Lab Coop,Oth,Lab Coop loss to SNP
+S14000030,Glasgow East,Glasgow & Clyde,Scotland,20,66,SNP hold,Male,SNP,David Linden,Sitting MP,S14000030,,SNP hold,,SNP hold
+S14000041,Kirkcaldy and Cowdenbeath,Fife & Mid Scotland,Scotland,25,69,SNP gain from Lab,Male,SNP,Neale Hanvey,New MP,S14000041,SNP,SNP gain from Lab,Lab,Lab loss to SNP
+S14000050,Ochil and South Perthshire,Fife & Mid Scotland,Scotland,24,70,SNP gain from Con,Male,SNP,John Nicolson,Returning MP,S14000050,SNP,SNP gain from Con,Con,Con loss to SNP
+E14001044,Wirral West,Merseyside,North West,20,39,Lab hold,Female,Lab,Margaret Greenwood,Sitting MP,E14001044,,Lab hold,,Lab hold
+E14001043,Wirral South,Merseyside,North West,21,38,Lab hold,Female,Lab,Alison McGovern,Sitting MP,E14001043,,Lab hold,,Lab hold
+E14000926,Shrewsbury and Atcham,Shropshire,West Midlands,21,28,Con hold,Male,Con,Daniel Kawczynski,Sitting MP,E14000926,,Con hold,,Con hold
+E14000799,Ludlow,Shropshire,West Midlands,21,27,Con hold,Male,Con,Philip Dunne,Sitting MP,E14000799,,Con hold,,Con hold
+E14000849,North Shropshire,Shropshire,West Midlands,21,29,Con hold,Male,Con,Owen Paterson,Sitting MP,E14000849,,Con hold,,Con hold
+E14001001,Totnes,Devon,South West,20,5,Con hold,Male,Con,Anthony Mangnall,New MP,E14001001,,Con hold,,Con hold
+E14000950,South West Devon,Devon,South West,20,4,Con hold,Male,Con,Gary Streeter,Sitting MP,E14000950,,Con hold,,Con hold
+E14000623,Central Devon,Devon,South West,20,6,Con hold,Male,Con,Mel Stride,Sitting MP,E14000623,,Con hold,,Con hold
+W07000043,Alyn and Deeside,North Wales,Wales,20,33,Lab hold,Male,Lab,Mark Tami,Sitting MP,W07000043,,Lab hold,,Lab hold
+W07000044,Wrexham,North Wales,Wales,20,32,Con gain from Lab,Female,Con,Sarah Atherton,New MP,W07000044,Con,Con gain from Lab,Lab,Lab loss to Con
+W07000042,Delyn,North Wales,Wales,20,34,Con gain from Lab,Male,Con,Rob Roberts,New MP,W07000042,Con,Con gain from Lab,Lab,Lab loss to Con
+W07000056,Newport West,South Wales,Wales,22,17,Lab hold,Female,Lab,Ruth Jones,Sitting MP,W07000056,,Lab hold,,Lab hold
+W07000053,Torfaen,South Wales,Wales,22,18,Lab hold,Male,Lab,Nicklaus Thomas-Symonds,Sitting MP,W07000053,,Lab hold,,Lab hold
+S14000049,North East Fife,Fife & Mid Scotland,Scotland,27,69,LD gain from SNP,Female,LD,Wendy Chamberlain,New MP,S14000049,LD,LD gain from SNP,SNP,SNP loss to LD
+S14000036,Glenrothes,Fife & Mid Scotland,Scotland,26,69,SNP hold,Male,SNP,Peter Grant,Sitting MP,S14000036,,SNP hold,,SNP hold
+E14000559,Birkenhead,Merseyside,North West,21,39,Lab hold,Male,Lab,Mick Whitley,New MP,E14000559,,Lab hold,,Lab hold
+E14001010,Wallasey,Merseyside,North West,20,40,Lab hold,Female,Lab,Angela Eagle,Sitting MP,E14001010,,Lab hold,,Lab hold
+E14000916,Sefton Central,Merseyside,North West,22,43,Lab hold,Male,Lab,Bill Esterson,Sitting MP,E14000916,,Lab hold,,Lab hold
+E14000958,Southport,Merseyside,North West,22,44,Con hold,Male,Con,Damien Moore,Sitting MP,E14000958,,Con hold,,Con hold
+E14000581,Bootle,Merseyside,North West,21,42,Lab hold,Male,Lab,Peter Dowd,Sitting MP,E14000581,,Lab hold,,Lab hold
+E14000989,Telford,Shropshire,West Midlands,22,27,Con hold,Female,Con,Lucy Allan,Sitting MP,E14000989,,Con hold,,Con hold
+E14000992,The Wrekin,Shropshire,West Midlands,22,28,Con hold,Male,Con,Mark Pritchard,Sitting MP,E14000992,,Con hold,,Con hold
+E14000999,Torbay,Devon,South West,21,4,Con hold,Male,Con,Kevin Foster,Sitting MP,E14000999,,Con hold,,Con hold
+E14000698,Exeter,Devon,South West,21,6,Lab hold,Male,Lab,Ben Bradshaw,Sitting MP,E14000698,,Lab hold,,Lab hold
+E14000838,North Devon,Devon,South West,21,7,Con hold,Female,Con,Selaine Saxby,New MP,E14000838,,Con hold,,Con hold
+E14000835,Newton Abbot,Devon,South West,21,5,Con hold,Female,Con,Anne Marie Morris,Sitting MP,E14000835,,Con hold,,Con hold
+W07000055,Newport East,South Wales,Wales,23,17,Lab hold,Female,Lab,Jessica Morden,Sitting MP,W07000055,,Lab hold,,Lab hold
+W07000054,Monmouth,South Wales,Wales,23,18,Con hold,Male,Con,David Davies,Sitting MP,W07000054,,Con hold,,Con hold
+S14000013,Dumfries and Galloway,South West Scotland,Scotland,19,59,Con hold,Male,Con,Alister Jack,Sitting MP,S14000013,,Con hold,,Con hold
+S14000006,"Ayr, Carrick and Cumnock",South West Scotland,Scotland,19,60,SNP gain from Con,Male,SNP,Allan Dorans,New MP,S14000006,SNP,SNP gain from Con,Con,Con loss to SNP
+S14000010,Central Ayrshire,South West Scotland,Scotland,18,61,SNP hold,Female,SNP,Philippa Whitford,Sitting MP,S14000010,,SNP hold,,SNP hold
+S14000040,Kilmarnock and Loudoun,South West Scotland,Scotland,19,61,SNP hold,Male,SNP,Alan Brown,Sitting MP,S14000040,,SNP hold,,SNP hold
+S14000016,Dundee West,North East Scotland,Scotland,27,71,SNP hold,Male,SNP,Chris Law,Sitting MP,S14000016,,SNP hold,,SNP hold
+E14000793,"Liverpool, Riverside",Merseyside,North West,21,41,Lab hold,Female,Lab,Kim  Johnson,New MP,E14000793,,Lab hold,,Lab hold
+E14000794,"Liverpool, Walton",Merseyside,North West,22,42,Lab hold,Male,Lab,Dan Carden,Sitting MP,E14000794,,Lab hold,,Lab hold
+E14001053,Workington,Cumbria,North West,24,54,Con gain from Lab,Male,Con,Mark Jenkinson,New MP,E14001053,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000543,Barrow and Furness,Cumbria,North West,24,52,Con gain from Lab Coop,Male,Con,Simon Fell,New MP,E14000543,Con,Con gain from Lab Coop,Oth,Lab Coop loss to Con
+E14000647,Copeland,Cumbria,North West,24,53,Con hold,Female,Con,Trudy Harrison,Sitting MP,E14000647,,Con hold,,Con hold
+E14000678,East Devon,Devon,South West,22,6,Con hold,Male,Con,Simon Jupp,New MP,E14000678,,Con hold,,Con hold
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Lanarkshire & Falkirk,Scotland,20,59,Con hold,Male,Con,David Mundell,Sitting MP,S14000014,,Con hold,,Con hold
+S14000011,"Coatbridge, Chryston and Bellshill",Lanarkshire & Falkirk,Scotland,23,66,SNP gain from Lab,Male,SNP,Steven Bonnar,New MP,S14000011,SNP,SNP gain from Lab,Lab,Lab loss to SNP
+S14000019,"East Kilbride, Strathaven and Lesmahagow",Lanarkshire & Falkirk,Scotland,23,64,SNP hold,Female,SNP,Lisa Cameron,Sitting MP,S14000019,,SNP hold,,SNP hold
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Lanarkshire & Falkirk,Scotland,23,67,SNP hold,Male,SNP,Stuart McDonald,Sitting MP,S14000012,,SNP hold,,SNP hold
+S14000056,Rutherglen and Hamilton West,Lanarkshire & Falkirk,Scotland,23,65,SNP gain from Lab Coop,Female,SNP,Margaret Ferrier,Returning MP,S14000056,SNP,SNP gain from Lab Coop,Oth,Lab Coop loss to SNP
+S14000004,Angus,North East Scotland,Scotland,28,72,SNP gain from Con,Male,SNP,Dave Doogan,New MP,S14000004,SNP,SNP gain from Con,Con,Con loss to SNP
+S14000015,Dundee East,North East Scotland,Scotland,28,71,SNP hold,Male,SNP,Stewart Hosie,Sitting MP,S14000015,,SNP hold,,SNP hold
+S14000058,West Aberdeenshire and Kincardine,North East Scotland,Scotland,28,73,Con hold,Male,Con,Andrew Bowie,Sitting MP,S14000058,,Con hold,,Con hold
+S14000037,Gordon,North East Scotland,Scotland,28,74,SNP gain from Con,Male,SNP,Richard Thomson,New MP,S14000037,SNP,SNP gain from Con,Con,Con loss to SNP
+E14001017,Warrington North,Cheshire,North West,25,38,Lab hold,Female,Lab,Charlotte  Nichols,New MP,E14001017,,Lab hold,,Lab hold
+E14000795,"Liverpool, Wavertree",Merseyside,North West,22,40,Lab hold,Female,Lab,Paula Barker,New MP,E14000795,,Lab hold,,Lab hold
+E14000796,"Liverpool, West Derby",Merseyside,North West,22,41,Lab hold,Male,Lab,Ian  Byrne,New MP,E14000796,,Lab hold,,Lab hold
+E14000640,City of Chester,Cheshire,North West,24,36,Lab hold,Male,Lab,Christian Matheson,Sitting MP,E14000640,,Lab hold,,Lab hold
+E14000688,Ellesmere Port and Neston,Cheshire,North West,24,37,Lab hold,Male,Lab,Justin Madders,Sitting MP,E14000688,,Lab hold,,Lab hold
+E14001037,Westmorland and Lonsdale,Cumbria,North West,25,52,LD hold,Male,LD,Timothy Farron,Sitting MP,E14001037,,LD hold,,LD hold
+E14000877,Penrith and The Border,Cumbria,North West,25,53,Con hold,Male,Con,Neil Hudson,New MP,E14000877,,Con hold,,Con hold
+E14000620,Carlisle,Cumbria,North West,25,54,Con hold,Male,Con,John Stevenson,Sitting MP,E14000620,,Con hold,,Con hold
+E14000996,Tiverton and Honiton,Devon,South West,23,6,Con hold,Male,Con,Neil Parish,Sitting MP,E14000996,,Con hold,,Con hold
+E14000595,Bridgwater and West Somerset,Somerset,South West,23,10,Con hold,Male,Con,Ian Liddell-Grainger,Sitting MP,E14000595,,Con hold,,Con hold
+E14000988,Taunton Deane,Somerset,South West,23,9,Con hold,Female,Con,Rebecca Pow,Sitting MP,E14000988,,Con hold,,Con hold
+S14000008,"Berwickshire, Roxburgh and Selkirk",Lothian & Borders,Scotland,28,63,Con hold,Male,Con,John Lamont,Sitting MP,S14000008,,Con hold,,Con hold
+S14000047,Motherwell and Wishaw,Lanarkshire & Falkirk,Scotland,24,65,SNP hold,Female,SNP,Marion Fellows,Sitting MP,S14000047,,SNP hold,,SNP hold
+S14000003,Airdrie and Shotts,Lanarkshire & Falkirk,Scotland,24,66,SNP hold,Male,SNP,Neil Gray,Sitting MP,S14000003,,SNP hold,,SNP hold
+S14000042,Lanark and Hamilton East,Lanarkshire & Falkirk,Scotland,24,64,SNP hold,Female,SNP,Angela Crawley,Sitting MP,S14000042,,SNP hold,,SNP hold
+S14000028,Falkirk,Lanarkshire & Falkirk,Scotland,24,67,SNP hold,Male,SNP,John McNally,Sitting MP,S14000028,,SNP hold,,SNP hold
+S14000002,Aberdeen South,North East Scotland,Scotland,29,73,SNP gain from Con,Male,SNP,Stephen Flynn,New MP,S14000002,SNP,SNP gain from Con,Con,Con loss to SNP
+S14000001,Aberdeen North,North East Scotland,Scotland,29,74,SNP hold,Female,SNP,Kirsty Blackman,Sitting MP,S14000001,,SNP hold,,SNP hold
+S14000007,Banff and Buchan,North East Scotland,Scotland,29,75,Con hold,Male,Con,David Duguid,Sitting MP,S14000007,,Con hold,,Con hold
+E14000573,Blackpool South,Lancashire,North West,25,46,Con gain from Lab,Male,Con,Scott Benton,New MP,E14000573,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000572,Blackpool North and Cleveleys,Lancashire,North West,25,47,Con hold,Male,Con,Paul Maynard,Sitting MP,E14000572,,Con hold,,Con hold
+E14001018,Warrington South,Cheshire,North West,26,38,Con gain from Lab,Male,Con,Andy Carter,New MP,E14001018,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000775,Knowsley,Merseyside,North West,23,41,Lab hold,Male,Lab,George Howarth,Sitting MP,E14000775,,Lab hold,,Lab hold
+E14000708,Garston and Halewood,Merseyside,North West,23,40,Lab hold,Female,Lab,Maria Eagle,Sitting MP,E14000708,,Lab hold,,Lab hold
+E14000672,Dudley South,West Midlands,West Midlands,24,26,Con hold,Male,Con,Mike Wood,Sitting MP,E14000672,,Con hold,,Con hold
+E14000671,Dudley North,West Midlands,West Midlands,24,27,Con gain from Lab,Male,Con,Marco Longhi,New MP,E14000671,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000850,North Somerset,Somerset,South West,24,11,Con hold,Male,Con,Liam Fox,Sitting MP,E14000850,,Con hold,,Con hold
+E14001038,Weston-Super-Mare,Somerset,South West,23,11,Con hold,Male,Con,John Penrose,Sitting MP,E14001038,,Con hold,,Con hold
+E14001051,Wolverhampton South West,West Midlands,West Midlands,24,28,Con gain from Lab,Male,Con,Stuart Anderson,New MP,E14001051,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000686,Eddisbury,Cheshire,North West,25,36,Con hold,Male,Con,Edward Timpson,Returning MP,E14000686,,Con hold,,Con hold
+E14001024,Weaver Vale,Cheshire,North West,25,37,Lab hold,Male,Lab,Mike Amesbury,Sitting MP,E14001024,,Lab hold,,Lab hold
+E14001033,West Lancashire,Lancashire,North West,26,44,Lab hold,Female,Lab,Rosie Cooper,Sitting MP,E14001033,,Lab hold,,Lab hold
+E14000943,South Ribble,Lancashire,North West,26,45,Con hold,Female,Con,Katherine Fletcher,New MP,E14000943,,Con hold,,Con hold
+E14001060,Yeovil,Somerset,South West,24,9,Con hold,Male,Con,Marcus Fysh,Sitting MP,E14001060,,Con hold,,Con hold
+E14001026,Wells,Somerset,South West,24,10,Con hold,Male,Con,James Heappey,Sitting MP,E14001026,,Con hold,,Con hold
+E14000725,Halton,Cheshire,North West,24,38,Lab hold,Male,Lab,Derek Twigg,Sitting MP,E14000725,,Lab hold,,Lab hold
+E14000962,St Helens North,Merseyside,North West,24,41,Lab hold,Male,Lab,Conor McGinn,Sitting MP,E14000962,,Lab hold,,Lab hold
+E14000963,St Helens South and Whiston,Merseyside,North West,24,40,Lab hold,Female,Lab,Marie Rimmer,Sitting MP,E14000963,,Lab hold,,Lab hold
+E14000722,Halesowen and Rowley Regis,West Midlands,West Midlands,25,26,Con hold,Male,Con,James Morris,Sitting MP,E14000722,,Con hold,,Con hold
+E14001030,West Bromwich West,West Midlands,West Midlands,25,27,Con gain from Lab Coop,Male,Con,Shaun Bailey,New MP,E14001030,Con,Con gain from Lab Coop,Oth,Lab Coop loss to Con
+E14000976,Stourbridge,West Midlands,West Midlands,25,25,Con hold,Female,Con,Suzanne Webb,New MP,E14000976,,Con hold,,Con hold
+E14000846,North East Somerset,Somerset,South West,25,11,Con hold,Male,Con,Jacob Rees-Mogg,Sitting MP,E14000846,,Con hold,,Con hold
+E14000547,Bath,Somerset,South West,26,11,LD hold,Female,LD,Wera Hobhouse,Sitting MP,E14000547,,LD hold,,LD hold
+E14001049,Wolverhampton North East,West Midlands,West Midlands,24,29,Con gain from Lab,Female,Con,Jane Stevenson,New MP,E14001049,Con,Con gain from Lab,Lab,Lab loss to Con
+E14001050,Wolverhampton South East,West Midlands,West Midlands,25,28,Lab hold,Male,Lab,Pat McFadden,Sitting MP,E14001050,,Lab hold,,Lab hold
+E14000646,Congleton,Cheshire,North West,27,36,Con hold,Female,Con,Fiona Bruce,Sitting MP,E14000646,,Con hold,,Con hold
+E14000653,Crewe and Nantwich,Cheshire,North West,26,36,Con gain from Lab,Male,Con,Kieran Mullan,New MP,E14000653,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000637,Chorley,Lancashire,North West,27,45,Spk gain from Lab,Male,Oth,Lindsay Hoyle,Sitting MP,E14000637,Oth,Spk gain from Lab,Lab,Lab loss to Spk
+E14000885,Preston,Lancashire,North West,27,46,Lab hold,Male,Lab,Mark Hendrick,Sitting MP,E14000885,,Lab hold,,Lab hold
+E14000706,Fylde,Lancashire,North West,26,46,Con hold,Male,Con,Mark Menzies,Sitting MP,E14000706,,Con hold,,Con hold
+E14000932,Somerton and Frome,Somerset,South West,25,10,Con hold,Male,Con,David Warburton,Sitting MP,E14000932,,Con hold,,Con hold
+S14000043,Linlithgow and East Falkirk,Lothian & Borders,Scotland,26,66,SNP hold,Male,SNP,Martyn Day,Sitting MP,S14000043,,SNP hold,,SNP hold
+S14000044,Livingston,Lothian & Borders,Scotland,26,65,SNP hold,Female,SNP,Hannah Bardell,Sitting MP,S14000044,,SNP hold,,SNP hold
+E14000565,"Birmingham, Northfield",West Midlands,West Midlands,26,25,Con gain from Lab,Male,Con,Gary Sambrook,New MP,E14000565,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000560,"Birmingham, Edgbaston",West Midlands,West Midlands,26,26,Lab hold,Female,Lab,Preet Gill,Sitting MP,E14000560,,Lab hold,,Lab hold
+E14001029,West Bromwich East,West Midlands,West Midlands,26,28,Con gain from Lab,Female,Con,Nicola Richards,New MP,E14001029,Con,Con gain from Lab,Lab,Lab loss to Con
+E14001016,Warley,West Midlands,West Midlands,26,27,Lab hold,Male,Lab,John Spellar,Sitting MP,E14001016,,Lab hold,,Lab hold
+E14000743,Hereford and South Herefordshire,Herefordshire,West Midlands,23,22,Con hold,Male,Con,Jesse Norman,Sitting MP,E14000743,,Con hold,,Con hold
+E14000847,North Herefordshire,Herefordshire,West Midlands,23,23,Con hold,Male,Con,Bill Wiggin,Sitting MP,E14000847,,Con hold,,Con hold
+E14000600,Bristol North West,Bristol and South Gloucestershire,South West,25,14,Lab hold,Male,Lab,Darren Jones,Sitting MP,E14000600,,Lab hold,,Lab hold
+E14000601,Bristol South,Bristol and South Gloucestershire,South West,25,13,Lab hold,Female,Lab,Karin Smyth,Sitting MP,E14000601,,Lab hold,,Lab hold
+E14000602,Bristol West,Bristol and South Gloucestershire,South West,26,14,Lab hold,Female,Lab,Thangam Debbonaire,Sitting MP,E14000602,,Lab hold,,Lab hold
+E14001011,Walsall North,West Midlands,West Midlands,25,29,Con hold,Male,Con,Edmund Hughes,Sitting MP,E14001011,,Con hold,,Con hold
+E14001012,Walsall South,West Midlands,West Midlands,26,29,Lab hold,Female,Lab,Valerie Vaz,Sitting MP,E14001012,,Lab hold,,Lab hold
+E14000802,Macclesfield,Cheshire,North West,27,37,Con hold,Male,Con,David Rutley,Sitting MP,E14000802,,Con hold,,Con hold
+E14000987,Tatton,Cheshire,North West,26,37,Con hold,Female,Con,Esther McVey,Sitting MP,E14000987,,Con hold,,Con hold
+E14001031,West Dorset,Dorset,South West,26,6,Con hold,Male,Con,Chris Loder,New MP,E14001031,,Con hold,,Con hold
+E14000705,Forest of Dean,Gloucestershire,South West,26,18,Con hold,Male,Con,Mark Harper,Sitting MP,E14000705,,Con hold,,Con hold
+E14000894,Ribble Valley,Lancashire,North West,28,46,Con hold,Male,Con,Nigel Evans,Sitting MP,E14000894,,Con hold,,Con hold
+E14000570,Blackburn,Lancashire,North West,28,45,Lab hold,Female,Lab,Kate Hollern,Sitting MP,E14000570,,Lab hold,,Lab hold
+E14000825,Morecambe and Lunesdale,Lancashire,North West,26,49,Con hold,Male,Con,David Morris,Sitting MP,E14000825,,Con hold,,Con hold
+E14001057,Wyre and Preston North,Lancashire,North West,26,47,Con hold,Male,Con,Ben Wallace,Sitting MP,E14001057,,Con hold,,Con hold
+E14000776,Lancaster and Fleetwood,Lancashire,North West,26,48,Lab hold,Female,Lab,Cat Smith,Sitting MP,E14000776,,Lab hold,,Lab hold
+S14000025,Edinburgh South West,Lothian & Borders,Scotland,27,65,SNP hold,Female,SNP,Joanna Cherry,Sitting MP,S14000025,,SNP hold,,SNP hold
+S14000026,Edinburgh West,Lothian & Borders,Scotland,27,66,LD hold,Female,LD,Christine Jardine,Sitting MP,S14000026,,LD hold,,LD hold
+E14001039,Wigan,Greater Manchester,North West,27,41,Lab hold,Female,Lab,Lisa Nandy,Sitting MP,E14001039,,Lab hold,,Lab hold
+E14000805,Makerfield,Greater Manchester,North West,27,40,Lab hold,Female,Lab,Yvonne Fovargue,Sitting MP,E14000805,,Lab hold,,Lab hold
+E14000566,"Birmingham, Perry Barr",West Midlands,West Midlands,27,28,Lab hold,Male,Lab,Khalid Mahmood,Sitting MP,E14000566,,Lab hold,,Lab hold
+E14000562,"Birmingham, Hall Green",West Midlands,West Midlands,27,26,Lab hold,Male,Lab,Tahir Ali,New MP,E14000562,,Lab hold,,Lab hold
+E14000567,"Birmingham, Selly Oak",West Midlands,West Midlands,27,25,Lab hold,Male,Lab,Stephen McCabe,Sitting MP,E14000567,,Lab hold,,Lab hold
+E14000564,"Birmingham, Ladywood",West Midlands,West Midlands,27,27,Lab hold,Female,Lab,Shabana Mahmood,Sitting MP,E14000564,,Lab hold,,Lab hold
+E14000599,Bristol East,Bristol and South Gloucestershire,South West,26,13,Lab hold,Female,Lab,Kerry McCarthy,Sitting MP,E14000599,,Lab hold,,Lab hold
+E14000702,Filton and Bradley Stoke,Bristol and South Gloucestershire,South West,26,15,Con hold,Male,Con,Jack Lopresti,Sitting MP,E14000702,,Con hold,,Con hold
+E14000994,Thornbury and Yate,Bristol and South Gloucestershire,South West,27,15,Con hold,Male,Con,Luke Hall,Sitting MP,E14000994,,Con hold,,Con hold
+E14000774,Kingswood,Bristol and South Gloucestershire,South West,27,14,Con hold,Male,Con,Chris Skidmore,Sitting MP,E14000774,,Con hold,,Con hold
+E14000531,Aldridge-Brownhills,West Midlands,West Midlands,27,29,Con hold,Female,Con,Wendy Morton,Sitting MP,E14000531,,Con hold,,Con hold
+E14000936,South Dorset,Dorset,South West,27,5,Con hold,Male,Con,Richard Drax,Sitting MP,E14000936,,Con hold,,Con hold
+E14000839,North Dorset,Dorset,South West,27,7,Con hold,Male,Con,Simon Hoare,Sitting MP,E14000839,,Con hold,,Con hold
+E14000815,Mid Dorset and North Poole,Dorset,South West,27,6,Con hold,Male,Con,Michael Tomlinson,Sitting MP,E14000815,,Con hold,,Con hold
+E14000980,Stroud,Gloucestershire,South West,27,18,Con gain from Lab Coop,Female,Con,Siobhan Baillie,New MP,E14000980,Con,Con gain from Lab Coop,Oth,Lab Coop loss to Con
+E14000712,Gloucester,Gloucestershire,South West,27,19,Con hold,Male,Con,Richard Graham,Sitting MP,E14000712,,Con hold,,Con hold
+E14000902,Rossendale and Darwen,Lancashire,North West,29,45,Con hold,Male,Con,Jake Berry,Sitting MP,E14000902,,Con hold,,Con hold
+E14000758,Hyndburn,Lancashire,North West,29,46,Con gain from Lab,Female,Con,Sara Britcliffe,New MP,E14000758,Con,Con gain from Lab,Lab,Lab loss to Con
+E14001058,Wyre Forest,Worcestershire,West Midlands,27,23,Con hold,Male,Con,Mark Garnier,Sitting MP,E14001058,,Con hold,,Con hold
+E14001052,Worcester,Worcestershire,West Midlands,27,22,Con hold,Male,Con,Robin Walker,Sitting MP,E14001052,,Con hold,,Con hold
+E14001035,West Worcestershire,Worcestershire,West Midlands,27,21,Con hold,Female,Con,Harriett Baldwin,Sitting MP,E14001035,,Con hold,,Con hold
+S14000023,Edinburgh North and Leith,Lothian & Borders,Scotland,28,66,SNP hold,Female,SNP,Deidre Brock,Sitting MP,S14000023,,SNP hold,,SNP hold
+S14000024,Edinburgh South,Lothian & Borders,Scotland,28,65,Lab hold,Male,Lab,Ian Murray,Sitting MP,S14000024,,Lab hold,,Lab hold
+E14000785,Leigh,Greater Manchester,North West,28,40,Con gain from Lab Coop,Male,Con,James Grundy,New MP,E14000785,Con,Con gain from Lab Coop,Oth,Lab Coop loss to Con
+E14000881,Poole,Dorset,South West,28,6,Con hold,Male,Con,Robert Syms,Sitting MP,E14000881,,Con hold,,Con hold
+E14000580,Bolton West,Greater Manchester,North West,28,41,Con hold,Male,Con,Chris Green,Sitting MP,E14000580,,Con hold,,Con hold
+E14000568,"Birmingham, Yardley",West Midlands,West Midlands,28,26,Lab hold,Female,Lab,Jess Phillips,Sitting MP,E14000568,,Lab hold,,Lab hold
+E14000563,"Birmingham, Hodge Hill",West Midlands,West Midlands,28,27,Lab hold,Male,Lab,Liam Byrne,Sitting MP,E14000563,,Lab hold,,Lab hold
+E14000561,"Birmingham, Erdington",West Midlands,West Midlands,28,28,Lab hold,Male,Lab,John Dromey,Sitting MP,E14000561,,Lab hold,,Lab hold
+E14000931,Solihull,West Midlands,West Midlands,28,25,Con hold,Male,Con,Julian Knight,Sitting MP,E14000931,,Con hold,,Con hold
+E14000834,Newcastle-under-Lyme,Staffordshire,West Midlands,28,34,Con gain from Lab,Male,Con,Aaron Bell,New MP,E14000834,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000990,Tewkesbury,Gloucestershire,South West,28,19,Con hold,Male,Con,Laurence Robertson,Sitting MP,E14000990,,Con hold,,Con hold
+E14000630,Cheltenham,Gloucestershire,South West,28,18,Con hold,Male,Con,Alex Chalk,Sitting MP,E14000630,,Con hold,,Con hold
+E14000875,Pendle,Lancashire,North West,30,46,Con hold,Male,Con,Andrew Stephenson,Sitting MP,E14000875,,Con hold,,Con hold
+E14000609,Burnley,Lancashire,North West,30,45,Con gain from Lab,Male,Con,Antony Higginbotham,New MP,E14000609,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000945,South Staffordshire,Staffordshire,West Midlands,27,32,Con hold,Male,Con,Gavin Williamson,Sitting MP,E14000945,,Con hold,,Con hold
+E14000975,Stone,Staffordshire,West Midlands,28,33,Con hold,Male,Con,William Cash,Sitting MP,E14000975,,Con hold,,Con hold
+E14000965,Stafford,Staffordshire,West Midlands,28,32,Con hold,Female,Con,Theo Clarke,New MP,E14000965,,Con hold,,Con hold
+E14000605,Bromsgrove,Worcestershire,West Midlands,28,23,Con hold,Male,Con,Sajid Javid,Sitting MP,E14000605,,Con hold,,Con hold
+E14000818,Mid Worcestershire,Worcestershire,West Midlands,28,21,Con hold,Male,Con,Nigel Huddleston,Sitting MP,E14000818,,Con hold,,Con hold
+E14000892,Redditch,Worcestershire,West Midlands,28,22,Con hold,Female,Con,Rachel Maclean,Sitting MP,E14000892,,Con hold,,Con hold
+S14000022,Edinburgh East,Lothian & Borders,Scotland,29,66,SNP hold,Male,SNP,Thomas Sheppard,Sitting MP,S14000022,,SNP hold,,SNP hold
+S14000045,Midlothian,Lothian & Borders,Scotland,28,64,SNP gain from Lab,Male,SNP,Owen Thompson,Returning MP,S14000045,SNP,SNP gain from Lab,Lab,Lab loss to SNP
+E14000979,Stretford and Urmston,Greater Manchester,North West,29,39,Lab hold,Female,Lab,Kate Green,Sitting MP,E14000979,,Lab hold,,Lab hold
+E14001054,Worsley and Eccles South,Greater Manchester,North West,29,40,Lab hold,Female,Lab,Barbara Keeley,Sitting MP,E14001054,,Lab hold,,Lab hold
+E14000578,Bolton North East,Greater Manchester,North West,29,42,Con gain from Lab,Male,Con,Mark Logan,New MP,E14000578,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000532,Altrincham and Sale West,Greater Manchester,North West,29,38,Con hold,Male,Con,Graham Brady,Sitting MP,E14000532,,Con hold,,Con hold
+E14000579,Bolton South East,Greater Manchester,North West,29,41,Lab hold,Female,Lab,Yasmin Qureshi,Sitting MP,E14000579,,Lab hold,,Lab hold
+E14000985,Sutton Coldfield,West Midlands,West Midlands,28,29,Con hold,Male,Con,Andrew Mitchell,Sitting MP,E14000985,,Con hold,,Con hold
+E14000650,Coventry North West,West Midlands,West Midlands,29,26,Lab hold,Female,Lab,Taiwo Owatemi,New MP,E14000650,,Lab hold,,Lab hold
+E14000973,Stoke-on-Trent North,Staffordshire,West Midlands,29,34,Con gain from Lab,Male,Con,Jonathan Gullis,New MP,E14000973,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000972,Stoke-on-Trent Central,Staffordshire,West Midlands,29,33,Con gain from Lab Coop,Female,Con,Jo Gideon,New MP,E14000972,Con,Con gain from Lab Coop,Oth,Lab Coop loss to Con
+E14000585,Bournemouth West,Dorset,South West,29,6,Con hold,Male,Con,Conor Burns,Sitting MP,E14000585,,Con hold,,Con hold
+E14000812,Meriden,West Midlands,West Midlands,29,25,Con hold,Male,Con,Saqib Bhatti,New MP,E14000812,,Con hold,,Con hold
+E14000991,The Cotswolds,Gloucestershire,South West,29,19,Con hold,Male,Con,Geoffrey Clifton-Brown,Sitting MP,E14000991,,Con hold,,Con hold
+E14000791,Lichfield,Staffordshire,West Midlands,30,31,Con hold,Male,Con,Michael Fabricant,Sitting MP,E14000791,,Con hold,,Con hold
+E14000974,Stoke-on-Trent South,Staffordshire,West Midlands,29,32,Con hold,Male,Con,Jack Brereton,Sitting MP,E14000974,,Con hold,,Con hold
+E14000618,Cannock Chase,Staffordshire,West Midlands,29,31,Con hold,Female,Con,Amanda Milling,Sitting MP,E14000618,,Con hold,,Con hold
+S14000020,East Lothian,Lothian & Borders,Scotland,29,65,SNP gain from Lab,Male,SNP,Kenny MacAskill,New MP,S14000020,SNP,SNP gain from Lab,Lab,Lab loss to SNP
+E14000554,Berwick-upon-Tweed,Northumberland,North East,30,62,Con hold,Female,Con,Anne-Marie Trevelyan,Sitting MP,E14000554,,Con hold,,Con hold
+E14000746,Hexham,Northumberland,North East,30,61,Con hold,Male,Con,Guy Opperman,Sitting MP,E14000746,,Con hold,,Con hold
+E14000611,Bury North,Greater Manchester,North West,30,42,Con gain from Lab,Male,Con,James Daly,New MP,E14000611,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000911,Salford and Eccles,Greater Manchester,North West,30,40,Lab hold,Female,Lab,Rebecca Long-Bailey,Sitting MP,E14000911,,Lab hold,,Lab hold
+E14000809,"Manchester, Withington",Greater Manchester,North West,30,39,Lab hold,Male,Lab,Jeff Smith,Sitting MP,E14000809,,Lab hold,,Lab hold
+E14001059,Wythenshawe and Sale East,Greater Manchester,North West,30,38,Lab hold,Male,Lab,Michael Kane,Sitting MP,E14001059,,Lab hold,,Lab hold
+E14000612,Bury South,Greater Manchester,North West,30,41,Con gain from Lab,Male,Con,Christian Wakeford,New MP,E14000612,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000833,Newcastle upon Tyne North,Tyne and Wear,North East,30,58,Lab hold,Female,Lab,Catherine McKinnell,Sitting MP,E14000833,,Lab hold,,Lab hold
+E14000831,Newcastle upon Tyne Central,Tyne and Wear,North East,30,57,Lab hold,Female,Lab,Chi Onwurah,Sitting MP,E14000831,,Lab hold,,Lab hold
+E14000574,Blaydon,Tyne and Wear,North East,30,56,Lab hold,Female,Lab,Liz Twist,Sitting MP,E14000574,,Lab hold,,Lab hold
+E14000649,Coventry North East,West Midlands,West Midlands,30,26,Lab hold,Female,Lab,Colleen Fletcher,Sitting MP,E14000649,,Lab hold,,Lab hold
+E14000651,Coventry South,West Midlands,West Midlands,30,25,Lab hold,Female,Lab,Zarah Sultana,New MP,E14000651,,Lab hold,,Lab hold
+E14000610,Burton,Staffordshire,West Midlands,30,32,Con hold,Female,Con,Kate Griffiths,New MP,E14000610,,Con hold,,Con hold
+E14000584,Bournemouth East,Dorset,South West,30,6,Con hold,Male,Con,Tobias Ellwood,Sitting MP,E14000584,,Con hold,,Con hold
+E14000954,South West Wiltshire,Wiltshire,South West,30,11,Con hold,Male,Con,Andrew Murrison,Sitting MP,E14000954,,Con hold,,Con hold
+E14000860,North Wiltshire,Wiltshire,South West,30,13,Con hold,Male,Con,James Gray,Sitting MP,E14000860,,Con hold,,Con hold
+E14000635,Chippenham,Wiltshire,South West,30,12,Con hold,Female,Con,Michelle Donelan,Sitting MP,E14000635,,Con hold,,Con hold
+E14000986,Tamworth,Staffordshire,West Midlands,31,31,Con hold,Male,Con,Christopher Pincher,Sitting MP,E14000986,,Con hold,,Con hold
+E14000638,Christchurch,Dorset,South West,30,7,Con hold,Male,Con,Christopher Chope,Sitting MP,E14000638,,Con hold,,Con hold
+E14000966,Staffordshire Moorlands,Staffordshire,West Midlands,30,33,Con hold,Female,Con,Karen Bradley,Sitting MP,E14000966,,Con hold,,Con hold
+E14000947,South Swindon,Wiltshire,South West,31,13,Con hold,Male,Con,Robert Buckland,Sitting MP,E14000947,,Con hold,,Con hold
+E14000851,North Swindon,Wiltshire,South West,31,14,Con hold,Male,Con,Justin Tomlinson,Sitting MP,E14000851,,Con hold,,Con hold
+E14000575,Blyth Valley,Northumberland,North East,31,60,Con gain from Lab,Male,Con,Ian  Levy,New MP,E14000575,Con,Con gain from Lab,Lab,Lab loss to Con
+E14001014,Wansbeck,Northumberland,North East,31,61,Lab hold,Male,Lab,Ian Lavery,Sitting MP,E14001014,,Lab hold,,Lab hold
+E14000747,Heywood and Middleton,Greater Manchester,North West,31,42,Con gain from Lab,Male,Con,Chris Clarkson,New MP,E14000747,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000571,Blackley and Broughton,Greater Manchester,North West,31,41,Lab hold,Male,Lab,Graham Stringer,Sitting MP,E14000571,,Lab hold,,Lab hold
+E14000807,Manchester Central,Greater Manchester,North West,31,40,Lab hold,Female,Lab,Lucy Powell,Sitting MP,E14000807,,Lab hold,,Lab hold
+E14000808,"Manchester, Gorton",Greater Manchester,North West,31,39,Lab hold,Male,Lab,Afzal Khan,Sitting MP,E14000808,,Lab hold,,Lab hold
+E14000627,Cheadle,Greater Manchester,North West,31,38,Con hold,Female,Con,Mary Robinson,Sitting MP,E14000627,,Con hold,,Con hold
+E14000709,Gateshead,Tyne and Wear,North East,31,56,Lab hold,Male,Lab,Ian Mearns,Sitting MP,E14000709,,Lab hold,,Lab hold
+E14000589,Bradford West,West Yorkshire,Yorkshire and The Humber,35,44,Lab hold,Female,Lab,Naseem Shah,Sitting MP,E14000589,,Lab hold,,Lab hold
+E14000766,Keighley,West Yorkshire,Yorkshire and The Humber,34,44,Con gain from Lab,Male,Con,Robbie Moore,New MP,E14000766,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000614,Calder Valley,West Yorkshire,Yorkshire and The Humber,34,43,Con hold,Male,Con,Craig Whittaker,Sitting MP,E14000614,,Con hold,,Con hold
+E14000832,Newcastle upon Tyne East,Tyne and Wear,North East,31,57,Lab hold,Male,Lab,Nicholas Brown,Sitting MP,E14000832,,Lab hold,,Lab hold
+E14000665,Devizes,Wiltshire,South West,31,12,Con hold,Male,Con,Danny Kruger,New MP,E14000665,,Con hold,,Con hold
+E14000912,Salisbury,Wiltshire,South West,31,11,Con hold,Male,Con,John Glen,Sitting MP,E14000912,,Con hold,,Con hold
+E14001046,Witney,Oxfordshire,South East,32,19,Con hold,Male,Con,Robert Courts,Sitting MP,E14001046,,Con hold,,Con hold
+E14000871,Oldham West and Royton,Greater Manchester,North West,32,41,Lab hold,Male,Lab,Jim McMahon,Sitting MP,E14000871,,Lab hold,,Lab hold
+E14000897,Rochdale,Greater Manchester,North West,32,42,Lab hold,Male,Lab,Tony Lloyd,Sitting MP,E14000897,,Lab hold,,Lab hold
+E14000969,Stockport,Greater Manchester,North West,32,38,Lab hold,Male,Lab,Navendu Mishra,New MP,E14000969,,Lab hold,,Lab hold
+E14000537,Ashton-under-Lyne,Greater Manchester,North West,32,40,Lab hold,Female,Lab,Angela Rayner,Sitting MP,E14000537,,Lab hold,,Lab hold
+E14000661,Denton and Reddish,Greater Manchester,North West,32,39,Lab hold,Male,Lab,Andrew Gwynne,Sitting MP,E14000661,,Lab hold,,Lab hold
+E14000765,Jarrow,Tyne and Wear,North East,32,57,Lab hold,Female,Lab,Kate Osborne,New MP,E14000765,,Lab hold,,Lab hold
+E14000853,North Tyneside,Tyne and Wear,North East,31,58,Lab hold,Female,Lab,Mary Glindon,Sitting MP,E14000853,,Lab hold,,Lab hold
+E14001020,Washington and Sunderland West,Tyne and Wear,North East,32,56,Lab hold,Female,Lab,Sharon Hodgson,Sitting MP,E14001020,,Lab hold,,Lab hold
+E14000754,Houghton and Sunderland South,Tyne and Wear,North East,33,55,Lab hold,Female,Lab,Bridget Phillipson,Sitting MP,E14000754,,Lab hold,,Lab hold
+E14000587,Bradford East,West Yorkshire,Yorkshire and The Humber,36,44,Lab hold,Male,Lab,Imran Hussain,Sitting MP,E14000587,,Lab hold,,Lab hold
+E14000925,Shipley,West Yorkshire,Yorkshire and The Humber,35,45,Con hold,Male,Con,Philip Davies,Sitting MP,E14000925,,Con hold,,Con hold
+E14000588,Bradford South,West Yorkshire,Yorkshire and The Humber,36,43,Lab hold,Female,Lab,Judith Cummins,Sitting MP,E14000588,,Lab hold,,Lab hold
+E14000723,Halifax,West Yorkshire,Yorkshire and The Humber,35,43,Lab hold,Female,Lab,Holly Lynch,Sitting MP,E14000723,,Lab hold,,Lab hold
+E14000748,High Peak,Derbyshire,East Midlands,34,36,Con gain from Lab,Male,Con,Robert Largan,New MP,E14000748,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000828,New Forest West,Hampshire,South East,32,6,Con hold,Male,Con,Desmond Swayne,Sitting MP,E14000828,,Con hold,,Con hold
+E14001015,Wantage,Oxfordshire,South East,32,17,Con hold,Male,Con,David Johnston,New MP,E14001015,,Con hold,,Con hold
+E14000874,Oxford West and Abingdon,Oxfordshire,South East,32,18,LD hold,Female,LD,Layla Moran,Sitting MP,E14000874,,LD hold,,LD hold
+E14000854,North Warwickshire,Warwickshire,West Midlands,33,27,Con hold,Male,Con,Craig Tracey,Sitting MP,E14000854,,Con hold,,Con hold
+E14000977,Stratford-on-Avon,Warwickshire,West Midlands,32,23,Con hold,Male,Con,Nadhim Zahawi,Sitting MP,E14000977,,Con hold,,Con hold
+E14000843,North East Derbyshire,Derbyshire,East Midlands,35,35,Con hold,Male,Con,Lee Rowley,Sitting MP,E14000843,,Con hold,,Con hold
+E14000738,Hazel Grove,Greater Manchester,North West,33,39,Con hold,Male,Con,William Wragg,Sitting MP,E14000738,,Con hold,,Con hold
+E14000870,Oldham East and Saddleworth,Greater Manchester,North West,33,41,Lab hold,Female,Lab,Debbie Abrahams,Sitting MP,E14000870,,Lab hold,,Lab hold
+E14000967,Stalybridge and Hyde,Greater Manchester,North West,33,40,Lab hold,Male,Lab,Jonathan Reynolds,Sitting MP,E14000967,,Lab hold,,Lab hold
+E14001006,Tynemouth,Tyne and Wear,North East,32,58,Lab hold,Male,Lab,Alan Campbell,Sitting MP,E14001006,,Lab hold,,Lab hold
+E14000944,South Shields,Tyne and Wear,North East,33,57,Lab hold,Female,Lab,Emma Lewell-Buck,Sitting MP,E14000944,,Lab hold,,Lab hold
+E14000663,Derby South,Derbyshire,East Midlands,35,33,Lab hold,Female,Lab,Margaret Beckett,Sitting MP,E14000663,,Lab hold,,Lab hold
+E14000830,Newbury,Berkshire,South East,34,13,Con hold,Female,Con,Laura Farris,New MP,E14000830,,Con hold,,Con hold
+E14000956,"Southampton, Test",Hampshire,South East,34,6,Lab hold,Male,Lab,Alan Whitehead,Sitting MP,E14000956,,Lab hold,,Lab hold
+E14000645,Colne Valley,West Yorkshire,Yorkshire and The Humber,35,42,Con gain from Lab,Male,Con,Jason McCartney,Returning MP,E14000645,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000886,Pudsey,West Yorkshire,Yorkshire and The Humber,36,45,Con hold,Male,Con,Stuart Andrew,Sitting MP,E14000886,,Con hold,,Con hold
+E14000780,Leeds North West,West Yorkshire,Yorkshire and The Humber,37,45,Lab hold,Male,Lab,Alex Sobel,Sitting MP,E14000780,,Lab hold,,Lab hold
+E14000756,Huddersfield,West Yorkshire,Yorkshire and The Humber,36,42,Lab hold,Male,Lab,Barry Sheerman,Sitting MP,E14000756,,Lab hold,,Lab hold
+E14000982,Sunderland Central,Tyne and Wear,North East,33,56,Lab hold,Female,Lab,Julie Elliott,Sitting MP,E14000982,,Lab hold,,Lab hold
+E14000856,North West Durham,County Durham,North East,32,53,Con gain from Lab,Male,Con,Richard Holden,New MP,E14000856,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000569,Bishop Auckland,County Durham,North East,32,52,Con gain from Lab,Female,Con,Dehenna Davison,New MP,E14000569,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000664,Derbyshire Dales,Derbyshire,East Midlands,34,35,Con hold,Female,Con,Sarah Dines,New MP,E14000664,,Con hold,,Con hold
+E14000632,Chesterfield,Derbyshire,East Midlands,35,36,Lab hold,Male,Lab,Toby Perkins,Sitting MP,E14000632,,Lab hold,,Lab hold
+E14000662,Derby North,Derbyshire,East Midlands,35,34,Con gain from Lab,Female,Con,Amanda Solloway,Returning MP,E14000662,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000935,South Derbyshire,Derbyshire,East Midlands,35,32,Con hold,Female,Con,Heather Wheeler,Sitting MP,E14000935,,Con hold,,Con hold
+E14000827,New Forest East,Hampshire,South East,33,6,Con hold,Male,Con,Julian Lewis,Sitting MP,E14000827,,Con hold,,Con hold
+E14000539,Banbury,Oxfordshire,South East,33,19,Con hold,Female,Con,Victoria Prentis,Sitting MP,E14000539,,Con hold,,Con hold
+E14000742,Henley,Oxfordshire,South East,33,17,Con hold,Male,Con,John Howell,Sitting MP,E14000742,,Con hold,,Con hold
+E14000873,Oxford East,Oxfordshire,South East,33,18,Lab hold,Female,Lab,Anneliese Dodds,Sitting MP,E14000873,,Lab hold,,Lab hold
+E14001019,Warwick and Leamington,Warwickshire,West Midlands,33,23,Lab hold,Male,Lab,Matt Western,Sitting MP,E14001019,,Lab hold,,Lab hold
+E14000868,Nuneaton,Warwickshire,West Midlands,33,26,Con hold,Male,Con,Marcus Jones,Sitting MP,E14000868,,Con hold,,Con hold
+E14000814,Mid Derbyshire,Derbyshire,East Midlands,36,33,Con hold,Female,Con,Pauline Latham,Sitting MP,E14000814,,Con hold,,Con hold
+E14000890,Reading West,Berkshire,South East,34,14,Con hold,Male,Con,Alok Sharma,Sitting MP,E14000890,,Con hold,,Con hold
+E14000955,"Southampton, Itchen",Hampshire,South East,34,7,Con hold,Male,Con,Royston Smith,Sitting MP,E14000955,,Con hold,,Con hold
+E14000666,Dewsbury,West Yorkshire,Yorkshire and The Humber,37,42,Con gain from Lab,Male,Con,Mark Eastwood,New MP,E14000666,Con,Con gain from Lab,Lab,Lab loss to Con
+E14001009,Wakefield,West Yorkshire,Yorkshire and The Humber,38,42,Con gain from Lab,Male,Con,Imran Ahmad-Khan,New MP,E14001009,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000826,Morley and Outwood,West Yorkshire,Yorkshire and The Humber,38,43,Con hold,Female,Con,Andrea Jenkyns,Sitting MP,E14000826,,Con hold,,Con hold
+E14000781,Leeds West,West Yorkshire,Yorkshire and The Humber,37,44,Lab hold,Female,Lab,Rachel Reeves,Sitting MP,E14000781,,Lab hold,,Lab hold
+E14000840,North Durham,County Durham,North East,33,53,Lab hold,Male,Lab,Kevan Jones,Sitting MP,E14000840,,Lab hold,,Lab hold
+E14000641,City of Durham,County Durham,North East,33,52,Lab hold,Female,Lab,Mary Foy,New MP,E14000641,,Lab hold,,Lab hold
+E14000915,Sedgefield,County Durham,North East,34,52,Con gain from Lab,Male,Con,Paul Howell,New MP,E14000915,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000533,Amber Valley,Derbyshire,East Midlands,36,34,Con hold,Male,Con,Nigel Mills,Sitting MP,E14000533,,Con hold,,Con hold
+E14000695,Erewash,Derbyshire,East Midlands,36,32,Con hold,Female,Con,Maggie Throup,Sitting MP,E14000695,,Con hold,,Con hold
+E14000577,Bolsover,Derbyshire,East Midlands,36,35,Con gain from Lab,Male,Con,Mark Fletcher,New MP,E14000577,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000901,Romsey and Southampton North,Hampshire,South East,34,8,Con hold,Female,Con,Caroline Nokes,Sitting MP,E14000901,,Con hold,,Con hold
+E14000583,Bosworth,Leicestershire,East Midlands,35,28,Con hold,Male,Con,Luke Evans,New MP,E14000583,,Con hold,,Con hold
+E14000858,North West Leicestershire,Leicestershire,East Midlands,35,29,Con hold,Male,Con,Andrew Bridgen,Sitting MP,E14000858,,Con hold,,Con hold
+E14000767,Kenilworth and Southam,Warwickshire,West Midlands,33,24,Con hold,Male,Con,Jeremy Wright,Sitting MP,E14000767,,Con hold,,Con hold
+E14000905,Rugby,Warwickshire,West Midlands,33,25,Con hold,Male,Con,Mark Pawsey,Sitting MP,E14000905,,Con hold,,Con hold
+E14000658,Darlington,County Durham,North East,34,51,Con gain from Lab,Male,Con,Peter Gibson,New MP,E14000658,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000876,Penistone and Stocksbridge,South Yorkshire,Yorkshire and The Humber,35,40,Con gain from Lab,Female,Con,Miriam Cates,New MP,E14000876,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000922,"Sheffield, Hallam",South Yorkshire,Yorkshire and The Humber,35,39,Lab hold,Female,Lab,Olivia Blake,New MP,E14000922,,Lab hold,,Lab hold
+E14000923,"Sheffield, Heeley",South Yorkshire,Yorkshire and The Humber,36,38,Lab hold,Female,Lab,Louise Haigh,Sitting MP,E14000923,,Lab hold,,Lab hold
+E14000784,Leicester West,Leicestershire,East Midlands,36,29,Lab hold,Female,Lab,Liz  Kendall,Sitting MP,E14000784,,Lab hold,,Lab hold
+E14000889,Reading East,Berkshire,South East,35,14,Lab hold,Male,Lab,Mathew Rodda,Sitting MP,E14000889,,Lab hold,,Lab hold
+E14001048,Wokingham,Berkshire,South East,35,13,Con hold,Male,Con,John Redwood,Sitting MP,E14001048,,Con hold,,Con hold
+E14000779,Leeds North East,West Yorkshire,Yorkshire and The Humber,38,45,Lab hold,Male,Lab,Fabian Hamilton,Sitting MP,E14000779,,Lab hold,,Lab hold
+E14000777,Leeds Central,West Yorkshire,Yorkshire and The Humber,38,44,Lab hold,Male,Lab,Hilary Benn,Sitting MP,E14000777,,Lab hold,,Lab hold
+E14000548,Batley and Spen,West Yorkshire,Yorkshire and The Humber,37,43,Lab hold,Female,Lab,Tracy Brabin,Sitting MP,E14000548,,Lab hold,,Lab hold
+E14000740,Hemsworth,West Yorkshire,Yorkshire and The Humber,39,42,Lab hold,Male,Lab,Jon Trickett,Sitting MP,E14000740,,Lab hold,,Lab hold
+E14000762,Isle of Wight,Isle of Wight,South East,35,4,Con hold,Male,Con,Robert Seely,Sitting MP,E14000762,,Con hold,,Con hold
+E14000677,Easington,County Durham,North East,34,53,Lab hold,Male,Lab,Grahame Morris,Sitting MP,E14000677,,Lab hold,,Lab hold
+E14001056,Wycombe,Buckinghamshire,South East,35,18,Con hold,Male,Con,Steve Baker,Sitting MP,E14001056,,Con hold,,Con hold
+E14000538,Aylesbury,Buckinghamshire,South East,35,19,Con hold,Male,Con,Rob Butler,New MP,E14000538,,Con hold,,Con hold
+E14000713,Gosport,Hampshire,South East,35,6,Con hold,Female,Con,Caroline Dinenage,Sitting MP,E14000713,,Con hold,,Con hold
+E14000857,North West Hampshire,Hampshire,South East,35,9,Con hold,Male,Con,Kit Malthouse,Sitting MP,E14000857,,Con hold,,Con hold
+E14000699,Fareham,Hampshire,South East,35,7,Con hold,Female,Con,Suella Braverman,Sitting MP,E14000699,,Con hold,,Con hold
+E14000685,Eastleigh,Hampshire,South East,35,8,Con hold,Male,Con,Paul Holmes,New MP,E14000685,,Con hold,,Con hold
+E14000783,Leicester South,Leicestershire,East Midlands,36,28,Lab hold,Male,Lab,Jonathan Ashworth,Sitting MP,E14000783,,Lab hold,,Lab hold
+E14000797,Loughborough,Leicestershire,East Midlands,36,30,Con hold,Female,Con,Jane Hunt,New MP,E14000797,,Con hold,,Con hold
+E14000940,South Leicestershire,Leicestershire,East Midlands,36,27,Con hold,Male,Con,Alberto Costa,Sitting MP,E14000940,,Con hold,,Con hold
+E14000970,Stockton North,Teesside,North East,36,51,Lab hold,Male,Lab,Alex Cunningham,Sitting MP,E14000970,,Lab hold,,Lab hold
+E14000971,Stockton South,Teesside,North East,36,50,Con gain from Lab,Male,Con,Matt  Vickers,New MP,E14000971,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000541,Barnsley Central,South Yorkshire,Yorkshire and The Humber,36,40,Lab hold,Male,Lab,Daniel Jarvis,Sitting MP,E14000541,,Lab hold,,Lab hold
+E14000921,"Sheffield, Brightside and Hillsborough",South Yorkshire,Yorkshire and The Humber,37,39,Lab hold,Female,Lab,Gill Furniss,Sitting MP,E14000921,,Lab hold,,Lab hold
+E14000919,Sheffield Central,South Yorkshire,Yorkshire and The Humber,36,39,Lab hold,Male,Lab,Paul Blomfield,Sitting MP,E14000919,,Lab hold,,Lab hold
+E14000782,Leicester East,Leicestershire,East Midlands,37,28,Lab hold,Female,Lab,Claudia Webbe,New MP,E14000782,,Lab hold,,Lab hold
+E14000625,Charnwood,Leicestershire,East Midlands,37,29,Con hold,Male,Con,Edward Argar,Sitting MP,E14000625,,Con hold,,Con hold
+E14000803,Maidenhead,Berkshire,South East,36,14,Con hold,Female,Con,Theresa May,Sitting MP,E14000803,,Con hold,,Con hold
+E14000586,Bracknell,Berkshire,South East,36,13,Con hold,Male,Con,James Sunderland,New MP,E14000586,,Con hold,,Con hold
+E14000822,Milton Keynes South,Buckinghamshire,South East,36,21,Con hold,Male,Con,Iain Stewart,Sitting MP,E14000822,,Con hold,,Con hold
+E14000821,Milton Keynes North,Buckinghamshire,South East,36,22,Con hold,Male,Con,Ben Everitt,New MP,E14000821,,Con hold,,Con hold
+E14000778,Leeds East,West Yorkshire,Yorkshire and The Humber,39,44,Lab hold,Male,Lab,Richard Burgon,Sitting MP,E14000778,,Lab hold,,Lab hold
+E14000689,Elmet and Rothwell,West Yorkshire,Yorkshire and The Humber,39,45,Con hold,Male,Con,Alec Shelbrooke,Sitting MP,E14000689,,Con hold,,Con hold
+E14000836,"Normanton, Pontefract and Castleford",West Yorkshire,Yorkshire and The Humber,39,43,Lab hold,Female,Lab,Yvette Cooper,Sitting MP,E14000836,,Lab hold,,Lab hold
+E14000883,Portsmouth North,Hampshire,South East,36,7,Con hold,Female,Con,Penelope Mordaunt,Sitting MP,E14000883,,Con hold,,Con hold
+E14000631,Chesham and Amersham,Buckinghamshire,South East,36,19,Con hold,Female,Con,Cheryl Gillan,Sitting MP,E14000631,,Con hold,,Con hold
+E14000608,Buckingham,Buckinghamshire,South East,36,20,Con gain from Spk,Male,Con,Greg Smith,New MP,E14000608,Con,Con gain from Spk,Oth,Spk loss to Con
+E14000550,Beaconsfield,Buckinghamshire,South East,36,18,Con hold,Female,Con,Joy Morrissey,New MP,E14000550,,Con hold,,Con hold
+E14000545,Basingstoke,Hampshire,South East,36,9,Con hold,Female,Con,Maria Miller,Sitting MP,E14000545,,Con hold,,Con hold
+E14000884,Portsmouth South,Hampshire,South East,36,6,Lab hold,Male,Lab,Stephen Morgan,Sitting MP,E14000884,,Lab hold,,Lab hold
+E14001041,Winchester,Hampshire,South East,36,8,Con hold,Male,Con,Stephen Brine,Sitting MP,E14001041,,Con hold,,Con hold
+E14000728,Harborough,Leicestershire,East Midlands,37,27,Con hold,Male,Con,Neil O'Brien,Sitting MP,E14000728,,Con hold,,Con hold
+E14000607,Broxtowe,Nottinghamshire,East Midlands,39,32,Con hold,Male,Con,Darren Henry,New MP,E14000607,,Con hold,,Con hold
+E14000733,Hartlepool,Teesside,North East,37,51,Lab hold,Male,Lab,Mike Hill,Sitting MP,E14000733,,Lab hold,,Lab hold
+E14000819,Middlesbrough,Teesside,North East,37,50,Lab hold,Male,Lab,Andy McDonald,Sitting MP,E14000819,,Lab hold,,Lab hold
+E14000542,Barnsley East,South Yorkshire,Yorkshire and The Humber,37,40,Lab hold,Female,Lab,Stephanie Peacock,Sitting MP,E14000542,,Lab hold,,Lab hold
+E14000920,Sheffield South East,South Yorkshire,Yorkshire and The Humber,37,38,Lab hold,Male,Lab,Clive Betts,Sitting MP,E14000920,,Lab hold,,Lab hold
+E14000904,Rotherham,South Yorkshire,Yorkshire and The Humber,38,39,Lab hold,Female,Lab,Sarah Champion,Sitting MP,E14000904,,Lab hold,,Lab hold
+E14000909,Rutland and Melton,Leicestershire,East Midlands,38,28,Con hold,Female,Con,Alicia Kearns,New MP,E14000909,,Con hold,,Con hold
+E14000866,Nottingham North,Nottinghamshire,East Midlands,40,33,Lab hold,Male,Lab,Alex Norris,Sitting MP,E14000866,,Lab hold,,Lab hold
+E14000867,Nottingham South,Nottinghamshire,East Midlands,40,32,Lab hold,Female,Lab,Lilian Greenwood,Sitting MP,E14000867,,Lab hold,,Lab hold
+E14001042,Windsor,Berkshire,South East,37,13,Con hold,Male,Con,Adam Afriyie,Sitting MP,E14001042,,Con hold,,Con hold
+E14000930,Slough,Berkshire,South East,37,14,Lab hold,Male,Lab,Tan Dhesi,Sitting MP,E14000930,,Lab hold,,Lab hold
+E14000680,East Hampshire,Hampshire,South East,37,8,Con hold,Male,Con,Damian Hinds,Sitting MP,E14000680,,Con hold,,Con hold
+E14000844,North East Hampshire,Hampshire,South East,37,9,Con hold,Male,Con,Ranil Jayawardena,Sitting MP,E14000844,,Con hold,,Con hold
+E14000811,Meon Valley,Hampshire,South East,37,7,Con hold,Female,Con,Flick Drummond,Returning MP,E14000811,,Con hold,,Con hold
+E14000736,Havant,Hampshire,South East,37,6,Con hold,Male,Con,Alan Mak,Sitting MP,E14000736,,Con hold,,Con hold
 E14000942,South Northamptonshire,Northamptonshire,East Midlands,38,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000942,,Undeclared,,Undeclared
-E14000660,Daventry,Northamptonshire,East Midlands,39,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000660,,Undeclared,,Undeclared
-E14000535,Ashfield,Nottinghamshire,East Midlands,40,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000535,,Undeclared,,Undeclared
-E14000810,Mansfield,Nottinghamshire,East Midlands,40,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000810,,Undeclared,,Undeclared
-E14000908,Rushcliffe,Nottinghamshire,East Midlands,40,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000908,,Undeclared,,Undeclared
-E14000891,Redcar,Teesside,North East,38,50,Undeclared,Undeclared,Undeclared,,Undeclared,E14000891,,Undeclared,,Undeclared
-E14000669,Doncaster North,South Yorkshire,Yorkshire and The Humber,39,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000669,,Undeclared,,Undeclared
-E14001028,Wentworth and Dearne,South Yorkshire,Yorkshire and The Humber,38,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14001028,,Undeclared,,Undeclared
-E14000903,Rother Valley,South Yorkshire,Yorkshire and The Humber,38,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000903,,Undeclared,,Undeclared
-E14000710,Gedling,Nottinghamshire,East Midlands,41,33,Undeclared,Undeclared,Undeclared,,Undeclared,E14000710,,Undeclared,,Undeclared
-E14000906,"Ruislip, Northwood and Pinner",London,London,39,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000906,,Undeclared,,Undeclared
-E14001007,Uxbridge and South Ruislip,London,London,39,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14001007,,Undeclared,,Undeclared
-E14000737,Hayes and Harlington,London,London,39,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000737,,Undeclared,,Undeclared
-E14000530,Aldershot,Hampshire,South East,38,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000530,,Undeclared,,Undeclared
-E14000861,Northampton North,Northamptonshire,East Midlands,40,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000861,,Undeclared,,Undeclared
-E14000862,Northampton South,Northamptonshire,East Midlands,39,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000862,,Undeclared,,Undeclared
-E14000928,Skipton and Ripon,North Yorkshire,Yorkshire and The Humber,38,48,Undeclared,Undeclared,Undeclared,,Undeclared,E14000928,,Undeclared,,Undeclared
-E14000546,Bassetlaw,Nottinghamshire,East Midlands,41,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000546,,Undeclared,,Undeclared
-E14000865,Nottingham East,Nottinghamshire,East Midlands,41,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000865,,Undeclared,,Undeclared
-E14000924,Sherwood,Nottinghamshire,East Midlands,41,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000924,,Undeclared,,Undeclared
-E14000820,Middlesbrough South and East Cleveland,Teesside,North East,39,50,Undeclared,Undeclared,Undeclared,,Undeclared,E14000820,,Undeclared,,Undeclared
-E14000667,Don Valley,South Yorkshire,Yorkshire and The Humber,39,38,Undeclared,Undeclared,Undeclared,,Undeclared,E14000667,,Undeclared,,Undeclared
-E14000668,Doncaster Central,South Yorkshire,Yorkshire and The Humber,39,39,Undeclared,Undeclared,Undeclared,,Undeclared,E14000668,,Undeclared,,Undeclared
-E14000676,"Ealing, Southall",London,London,40,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000676,,Undeclared,,Undeclared
-E14000732,Harrow West,London,London,40,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000732,,Undeclared,,Undeclared
-E14000675,Ealing North,London,London,40,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000675,,Undeclared,,Undeclared
-E14001005,Twickenham,London,London,40,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14001005,,Undeclared,,Undeclared
-E14000701,Feltham and Heston,London,London,40,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000701,,Undeclared,,Undeclared
-E14001025,Wellingborough,Northamptonshire,East Midlands,40,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14001025,,Undeclared,,Undeclared
-E14000769,Kettering,Northamptonshire,East Midlands,40,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000769,,Undeclared,,Undeclared
-E14000730,Harrogate and Knaresborough,North Yorkshire,Yorkshire and The Humber,40,48,Undeclared,Undeclared,Undeclared,,Undeclared,E14000730,,Undeclared,,Undeclared
-E14000895,Richmond (Yorks),North Yorkshire,Yorkshire and The Humber,39,48,Undeclared,Undeclared,Undeclared,,Undeclared,E14000895,,Undeclared,,Undeclared
-E14000829,Newark,Nottinghamshire,East Midlands,42,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000829,,Undeclared,,Undeclared
-E14001061,York Central,North Yorkshire,Yorkshire and The Humber,41,46,Undeclared,Undeclared,Undeclared,,Undeclared,E14001061,,Undeclared,,Undeclared
-E14001062,York Outer,North Yorkshire,Yorkshire and The Humber,41,47,Undeclared,Undeclared,Undeclared,,Undeclared,E14001062,,Undeclared,,Undeclared
-E14000949,South West Bedfordshire,Bedfordshire,East,42,24,Undeclared,Undeclared,Undeclared,,Undeclared,E14000949,,Undeclared,,Undeclared
-E14000813,Mid Bedfordshire,Bedfordshire,East,42,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000813,,Undeclared,,Undeclared
-E14000741,Hendon,London,London,41,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000741,,Undeclared,,Undeclared
-E14000770,Kingston and Surbiton,London,London,41,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000770,,Undeclared,,Undeclared
-E14000593,Brentford and Isleworth,London,London,41,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000593,,Undeclared,,Undeclared
-E14000896,Richmond Park,London,London,41,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000896,,Undeclared,,Undeclared
-E14000726,Hammersmith,London,London,41,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000726,,Undeclared,,Undeclared
-E14000674,Ealing Central and Acton,London,London,41,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000674,,Undeclared,,Undeclared
-E14000731,Harrow East,London,London,41,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000731,,Undeclared,,Undeclared
-E14000648,Corby,Northamptonshire,East Midlands,41,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000648,,Undeclared,,Undeclared
-E14000917,Selby and Ainsty,North Yorkshire,Yorkshire and The Humber,41,45,Undeclared,Undeclared,Undeclared,,Undeclared,E14000917,,Undeclared,,Undeclared
-E14000993,Thirsk and Malton,North Yorkshire,Yorkshire and The Humber,41,48,Undeclared,Undeclared,Undeclared,,Undeclared,E14000993,,Undeclared,,Undeclared
-E14000983,Surrey Heath,Surrey,South East,40,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000983,,Undeclared,,Undeclared
-E14000953,South West Surrey,Surrey,South East,40,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14000953,,Undeclared,,Undeclared
-E14000907,Runnymede and Weybridge,Surrey,South East,40,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000907,,Undeclared,,Undeclared
-E14000633,Chichester,West Sussex,South East,41,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000633,,Undeclared,,Undeclared
-E14000724,Haltemprice and Howden,East Yorkshire & Humber,Yorkshire and The Humber,43,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000724,,Undeclared,,Undeclared
-E14000801,Luton South,Bedfordshire,East,43,24,Undeclared,Undeclared,Undeclared,,Undeclared,E14000801,,Undeclared,,Undeclared
-E14000552,Bedford,Bedfordshire,East,43,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000552,,Undeclared,,Undeclared
-E14000800,Luton North,Bedfordshire,East,43,25,Undeclared,Undeclared,Undeclared,,Undeclared,E14000800,,Undeclared,,Undeclared
-E14000984,Sutton and Cheam,London,London,42,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000984,,Undeclared,,Undeclared
-E14001040,Wimbledon,London,London,42,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14001040,,Undeclared,,Undeclared
-E14000629,Chelsea and Fulham,London,London,42,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000629,,Undeclared,,Undeclared
-E14000636,Chipping Barnet,London,London,42,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000636,,Undeclared,,Undeclared
-E14000592,Brent North,London,London,42,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000592,,Undeclared,,Undeclared
-E14000887,Putney,London,London,42,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000887,,Undeclared,,Undeclared
-E14000768,Kensington,London,London,42,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000768,,Undeclared,,Undeclared
-E14000591,Brent Central,London,London,42,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000591,,Undeclared,,Undeclared
-E14000913,Scarborough and Whitby,North Yorkshire,Yorkshire and The Humber,42,48,Undeclared,Undeclared,Undeclared,,Undeclared,E14000913,,Undeclared,,Undeclared
-E14001047,Woking,Surrey,South East,41,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14001047,,Undeclared,,Undeclared
-E14000959,Spelthorne,Surrey,South East,41,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000959,,Undeclared,,Undeclared
-E14000719,Guildford,Surrey,South East,41,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14000719,,Undeclared,,Undeclared
+E14000660,Daventry,Northamptonshire,East Midlands,39,25,Con hold,Male,Con,Chris Heaton-Harris,Sitting MP,E14000660,,Con hold,,Con hold
+E14000535,Ashfield,Nottinghamshire,East Midlands,40,34,Con gain from Lab,Male,Con,Lee Anderson,New MP,E14000535,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000810,Mansfield,Nottinghamshire,East Midlands,40,35,Con hold,Male,Con,Ben Bradley,Sitting MP,E14000810,,Con hold,,Con hold
+E14000908,Rushcliffe,Nottinghamshire,East Midlands,40,31,Con hold,Female,Con,Ruth Edwards,New MP,E14000908,,Con hold,,Con hold
+E14000891,Redcar,Teesside,North East,38,50,Con gain from Lab Coop,Male,Con,Jacob Young,New MP,E14000891,Con,Con gain from Lab Coop,Oth,Lab Coop loss to Con
+E14000669,Doncaster North,South Yorkshire,Yorkshire and The Humber,39,40,Lab hold,Male,Lab,Ed Miliband,Sitting MP,E14000669,,Lab hold,,Lab hold
+E14001028,Wentworth and Dearne,South Yorkshire,Yorkshire and The Humber,38,40,Lab hold,Male,Lab,John Healey,Sitting MP,E14001028,,Lab hold,,Lab hold
+E14000903,Rother Valley,South Yorkshire,Yorkshire and The Humber,38,38,Con gain from Lab,Male,Con,Alexander  Stafford,New MP,E14000903,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000710,Gedling,Nottinghamshire,East Midlands,41,33,Con gain from Lab,Male,Con,Tom Randall,New MP,E14000710,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000906,"Ruislip, Northwood and Pinner",London,London,39,18,Con hold,Male,Con,David Simmonds,New MP,E14000906,,Con hold,,Con hold
+E14001007,Uxbridge and South Ruislip,London,London,39,17,Con hold,Male,Con,Boris Johnson,Sitting MP,E14001007,,Con hold,,Con hold
+E14000737,Hayes and Harlington,London,London,39,16,Lab hold,Male,Lab,John McDonnell,Sitting MP,E14000737,,Lab hold,,Lab hold
+E14000530,Aldershot,Hampshire,South East,38,9,Con hold,Male,Con,Leo Docherty,Sitting MP,E14000530,,Con hold,,Con hold
+E14000861,Northampton North,Northamptonshire,East Midlands,40,26,Con hold,Male,Con,Michael Ellis,Sitting MP,E14000861,,Con hold,,Con hold
+E14000862,Northampton South,Northamptonshire,East Midlands,39,26,Con hold,Male,Con,Andrew Lewer,Sitting MP,E14000862,,Con hold,,Con hold
+E14000928,Skipton and Ripon,North Yorkshire,Yorkshire and The Humber,38,48,Con hold,Male,Con,Julian Smith,Sitting MP,E14000928,,Con hold,,Con hold
+E14000546,Bassetlaw,Nottinghamshire,East Midlands,41,35,Con gain from Lab,Male,Con,Brendan Clarke-Smith,New MP,E14000546,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000865,Nottingham East,Nottinghamshire,East Midlands,41,32,Lab hold,Female,Lab,Nadia Whittome,New MP,E14000865,,Lab hold,,Lab hold
+E14000924,Sherwood,Nottinghamshire,East Midlands,41,34,Con hold,Male,Con,Mark Spencer,Sitting MP,E14000924,,Con hold,,Con hold
+E14000820,Middlesbrough South and East Cleveland,Teesside,North East,39,50,Con hold,Male,Con,Simon Clarke,Sitting MP,E14000820,,Con hold,,Con hold
+E14000667,Don Valley,South Yorkshire,Yorkshire and The Humber,39,38,Con gain from Lab,Male,Con,Nick Fletcher,New MP,E14000667,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000668,Doncaster Central,South Yorkshire,Yorkshire and The Humber,39,39,Lab hold,Female,Lab,Rosie Winterton,Sitting MP,E14000668,,Lab hold,,Lab hold
+E14000676,"Ealing, Southall",London,London,40,16,Lab hold,Male,Lab,Virendra Sharma,Sitting MP,E14000676,,Lab hold,,Lab hold
+E14000732,Harrow West,London,London,40,18,Lab hold,Male,Lab,Gareth Thomas,Sitting MP,E14000732,,Lab hold,,Lab hold
+E14000675,Ealing North,London,London,40,17,Lab hold,Male,Lab,James Murray,New MP,E14000675,,Lab hold,,Lab hold
+E14001005,Twickenham,London,London,40,14,LD hold,Female,LD,Munira Wilson,New MP,E14001005,,LD hold,,LD hold
+E14000701,Feltham and Heston,London,London,40,15,Lab hold,Female,Lab,Seema Malhotra,Sitting MP,E14000701,,Lab hold,,Lab hold
+E14001025,Wellingborough,Northamptonshire,East Midlands,40,27,Con hold,Male,Con,Peter Bone,Sitting MP,E14001025,,Con hold,,Con hold
+E14000769,Kettering,Northamptonshire,East Midlands,40,28,Con hold,Male,Con,Philip Hollobone,Sitting MP,E14000769,,Con hold,,Con hold
+E14000730,Harrogate and Knaresborough,North Yorkshire,Yorkshire and The Humber,40,48,Con hold,Male,Con,Andrew Jones,Sitting MP,E14000730,,Con hold,,Con hold
+E14000895,Richmond (Yorks),North Yorkshire,Yorkshire and The Humber,39,48,Con hold,Male,Con,Rishi Sunak,Sitting MP,E14000895,,Con hold,,Con hold
+E14000829,Newark,Nottinghamshire,East Midlands,42,34,Con hold,Male,Con,Robert Jenrick,Sitting MP,E14000829,,Con hold,,Con hold
+E14001061,York Central,North Yorkshire,Yorkshire and The Humber,41,46,Lab hold,Female,Lab,Rachael Maskell,Sitting MP,E14001061,,Lab hold,,Lab hold
+E14001062,York Outer,North Yorkshire,Yorkshire and The Humber,41,47,Con hold,Male,Con,Julian Sturdy,Sitting MP,E14001062,,Con hold,,Con hold
+E14000949,South West Bedfordshire,Bedfordshire,East,42,24,Con hold,Male,Con,Andrew Selous,Sitting MP,E14000949,,Con hold,,Con hold
+E14000813,Mid Bedfordshire,Bedfordshire,East,42,25,Con hold,Female,Con,Nadine Dorries,Sitting MP,E14000813,,Con hold,,Con hold
+E14000741,Hendon,London,London,41,19,Con hold,Male,Con,Matthew Offord,Sitting MP,E14000741,,Con hold,,Con hold
+E14000770,Kingston and Surbiton,London,London,41,13,LD hold,Male,LD,Edward Davey,Sitting MP,E14000770,,LD hold,,LD hold
+E14000593,Brentford and Isleworth,London,London,41,15,Lab hold,Female,Lab,Ruth Cadbury,Sitting MP,E14000593,,Lab hold,,Lab hold
+E14000896,Richmond Park,London,London,41,14,LD gain from Con,Female,LD,Sarah Olney,Returning MP,E14000896,LD,LD gain from Con,Con,Con loss to LD
+E14000726,Hammersmith,London,London,41,16,Lab hold,Male,Lab,Andy Slaughter,Sitting MP,E14000726,,Lab hold,,Lab hold
+E14000674,Ealing Central and Acton,London,London,41,17,Lab hold,Female,Lab,Rupa Huq,Sitting MP,E14000674,,Lab hold,,Lab hold
+E14000731,Harrow East,London,London,41,18,Con hold,Male,Con,Bob Blackman,Sitting MP,E14000731,,Con hold,,Con hold
+E14000648,Corby,Northamptonshire,East Midlands,41,28,Con hold,Male,Con,Tom Pursglove,Sitting MP,E14000648,,Con hold,,Con hold
+E14000917,Selby and Ainsty,North Yorkshire,Yorkshire and The Humber,41,45,Con hold,Male,Con,Nigel Adams,Sitting MP,E14000917,,Con hold,,Con hold
+E14000993,Thirsk and Malton,North Yorkshire,Yorkshire and The Humber,41,48,Con hold,Male,Con,Kevin Hollinrake,Sitting MP,E14000993,,Con hold,,Con hold
+E14000983,Surrey Heath,Surrey,South East,40,9,Con hold,Male,Con,Michael Gove,Sitting MP,E14000983,,Con hold,,Con hold
+E14000953,South West Surrey,Surrey,South East,40,8,Con hold,Male,Con,Jeremy Hunt,Sitting MP,E14000953,,Con hold,,Con hold
+E14000907,Runnymede and Weybridge,Surrey,South East,40,10,Con hold,Male,Con,Ben Spencer,New MP,E14000907,,Con hold,,Con hold
+E14000633,Chichester,West Sussex,South East,41,5,Con hold,Female,Con,Gillian Keegan,Sitting MP,E14000633,,Con hold,,Con hold
+E14000724,Haltemprice and Howden,East Yorkshire & Humber,Yorkshire and The Humber,43,42,Con hold,Male,Con,David Davis,Sitting MP,E14000724,,Con hold,,Con hold
+E14000801,Luton South,Bedfordshire,East,43,24,Lab hold,Female,Lab,Rachel Hopkins,New MP,E14000801,,Lab hold,,Lab hold
+E14000552,Bedford,Bedfordshire,East,43,26,Lab hold,Male,Lab,Mohammad Yasin,Sitting MP,E14000552,,Lab hold,,Lab hold
+E14000800,Luton North,Bedfordshire,East,43,25,Lab hold,Female,Lab,Sarah Owen,New MP,E14000800,,Lab hold,,Lab hold
+E14000984,Sutton and Cheam,London,London,42,12,Con hold,Male,Con,Paul Scully,Sitting MP,E14000984,,Con hold,,Con hold
+E14001040,Wimbledon,London,London,42,13,Con hold,Male,Con,Stephen Hammond,Sitting MP,E14001040,,Con hold,,Con hold
+E14000629,Chelsea and Fulham,London,London,42,15,Con hold,Male,Con,Gregory Hands,Sitting MP,E14000629,,Con hold,,Con hold
+E14000636,Chipping Barnet,London,London,42,19,Con hold,Female,Con,Theresa Villiers,Sitting MP,E14000636,,Con hold,,Con hold
+E14000592,Brent North,London,London,42,18,Lab hold,Male,Lab,Barry Gardiner,Sitting MP,E14000592,,Lab hold,,Lab hold
+E14000887,Putney,London,London,42,14,Lab gain from Con,Female,Lab,Fleur Anderson,New MP,E14000887,Lab,Lab gain from Con,Con,Con loss to Lab
+E14000768,Kensington,London,London,42,16,Con gain from Lab,Female,Con,Felicity Buchan,New MP,E14000768,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000591,Brent Central,London,London,42,17,Lab hold,Female,Lab,Dawn Butler,Sitting MP,E14000591,,Lab hold,,Lab hold
+E14000913,Scarborough and Whitby,North Yorkshire,Yorkshire and The Humber,42,48,Con hold,Male,Con,Robert Goodwill,Sitting MP,E14000913,,Con hold,,Con hold
+E14001047,Woking,Surrey,South East,41,9,Con hold,Male,Con,Jonathan Lord,Sitting MP,E14001047,,Con hold,,Con hold
+E14000959,Spelthorne,Surrey,South East,41,10,Con hold,Male,Con,Kwasi Kwarteng,Sitting MP,E14000959,,Con hold,,Con hold
+E14000719,Guildford,Surrey,South East,41,8,Con hold,Female,Con,Angela Richardson,New MP,E14000719,,Con hold,,Con hold
 E14000534,Arundel and South Downs,West Sussex,South East,43,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000534,,Undeclared,,Undeclared
-E14000576,Bognor Regis and Littlehampton,West Sussex,South East,42,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000576,,Undeclared,,Undeclared
-E14000772,Kingston upon Hull North,East Yorkshire & Humber,Yorkshire and The Humber,44,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000772,,Undeclared,,Undeclared
-E14000773,Kingston upon Hull West and Hessle,East Yorkshire & Humber,Yorkshire and The Humber,44,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000773,,Undeclared,,Undeclared
-E14000683,East Yorkshire,East Yorkshire & Humber,Yorkshire and The Humber,44,44,Undeclared,Undeclared,Undeclared,,Undeclared,E14000683,,Undeclared,,Undeclared
-E14000841,North East Bedfordshire,Bedfordshire,East,44,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000841,,Undeclared,,Undeclared
-E14000549,Battersea,London,London,43,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000549,,Undeclared,,Undeclared
-E14000727,Hampstead and Kilburn,London,London,43,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000727,,Undeclared,,Undeclared
-E14000692,"Enfield, Southgate",London,London,43,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000692,,Undeclared,,Undeclared
-E14000703,Finchley and Golders Green,London,London,43,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000703,,Undeclared,,Undeclared
-E14000823,Mitcham and Morden,London,London,43,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000823,,Undeclared,,Undeclared
-E14000998,Tooting,London,London,43,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000998,,Undeclared,,Undeclared
-E14001036,Westminster North,London,London,43,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14001036,,Undeclared,,Undeclared
-E14000929,Sleaford and North Hykeham,Lincolnshire,East Midlands,46,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000929,,Undeclared,,Undeclared
-E14000707,Gainsborough,Lincolnshire,East Midlands,46,37,Undeclared,Undeclared,Undeclared,,Undeclared,E14000707,,Undeclared,,Undeclared
-E14000792,Lincoln,Lincolnshire,East Midlands,46,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000792,,Undeclared,,Undeclared
-E14000714,Grantham and Stamford,Lincolnshire,East Midlands,46,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000714,,Undeclared,,Undeclared
-E14000824,Mole Valley,Surrey,South East,42,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000824,,Undeclared,,Undeclared
-E14000697,Esher and Walton,Surrey,South East,42,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000697,,Undeclared,,Undeclared
-E14001055,Worthing West,West Sussex,South East,43,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14001055,,Undeclared,,Undeclared
-E14000753,Horsham,West Sussex,South East,43,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000753,,Undeclared,,Undeclared
-E14000771,Kingston upon Hull East,East Yorkshire & Humber,Yorkshire and The Humber,45,42,Undeclared,Undeclared,Undeclared,,Undeclared,E14000771,,Undeclared,,Undeclared
-E14000556,Beverley and Holderness,East Yorkshire & Humber,Yorkshire and The Humber,45,43,Undeclared,Undeclared,Undeclared,,Undeclared,E14000556,,Undeclared,,Undeclared
-E14000596,Brigg and Goole,East Yorkshire & Humber,Yorkshire and The Humber,43,41,Undeclared,Undeclared,Undeclared,,Undeclared,E14000596,,Undeclared,,Undeclared
-E14000673,Dulwich and West Norwood,London,London,44,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000673,,Undeclared,,Undeclared
-E14000978,Streatham,London,London,44,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000978,,Undeclared,,Undeclared
-E14000621,Carshalton and Wallington,London,London,43,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000621,,Undeclared,,Undeclared
-E14000752,Hornsey and Wood Green,London,London,44,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000752,,Undeclared,,Undeclared
-E14000691,Enfield North,London,London,44,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000691,,Undeclared,,Undeclared
-E14001008,Vauxhall,London,London,44,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14001008,,Undeclared,,Undeclared
-E14000639,Cities of London and Westminster,London,London,44,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000639,,Undeclared,,Undeclared
-E14000750,Holborn and St Pancras,London,London,44,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000750,,Undeclared,,Undeclared
-E14000951,South West Hertfordshire,Hertfordshire,East,40,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000951,,Undeclared,,Undeclared
-E14000739,Hemel Hempstead,Hertfordshire,East,41,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000739,,Undeclared,,Undeclared
-E14000939,South Holland and The Deepings,Lincolnshire,East Midlands,47,34,Undeclared,Undeclared,Undeclared,,Undeclared,E14000939,,Undeclared,,Undeclared
-E14000582,Boston and Skegness,Lincolnshire,East Midlands,47,35,Undeclared,Undeclared,Undeclared,,Undeclared,E14000582,,Undeclared,,Undeclared
-E14000798,Louth and Horncastle,Lincolnshire,East Midlands,47,36,Undeclared,Undeclared,Undeclared,,Undeclared,E14000798,,Undeclared,,Undeclared
-E14000694,Epsom and Ewell,Surrey,South East,43,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000694,,Undeclared,,Undeclared
-E14000817,Mid Sussex,West Sussex,South East,44,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000817,,Undeclared,,Undeclared
-E14000682,East Worthing and Shoreham,West Sussex,South East,44,5,Undeclared,Undeclared,Undeclared,,Undeclared,E14000682,,Undeclared,,Undeclared
-E14000652,Crawley,West Sussex,South East,44,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000652,,Undeclared,,Undeclared
-E14000914,Scunthorpe,East Yorkshire & Humber,Yorkshire and The Humber,44,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000914,,Undeclared,,Undeclared
-E14000615,Camberwell and Peckham,London,London,45,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000615,,Undeclared,,Undeclared
-E14000655,Croydon North,London,London,45,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000655,,Undeclared,,Undeclared
-E14000687,Edmonton,London,London,45,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000687,,Undeclared,,Undeclared
-E14000764,Islington South and Finsbury,London,London,45,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000764,,Undeclared,,Undeclared
-E14000763,Islington North,London,London,45,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000763,,Undeclared,,Undeclared
-E14000654,Croydon Central,London,London,45,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000654,,Undeclared,,Undeclared
-E14000553,Bermondsey and Old Southwark,London,London,45,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000553,,Undeclared,,Undeclared
-E14001002,Tottenham,London,London,45,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14001002,,Undeclared,,Undeclared
-E14001021,Watford,Hertfordshire,East,41,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14001021,,Undeclared,,Undeclared
-E14000960,St Albans,Hertfordshire,East,42,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000960,,Undeclared,,Undeclared
-E14000893,Reigate,Surrey,South East,44,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000893,,Undeclared,,Undeclared
-E14000643,Cleethorpes,East Yorkshire & Humber,Yorkshire and The Humber,46,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000643,,Undeclared,,Undeclared
-E14000716,Great Grimsby,East Yorkshire & Humber,Yorkshire and The Humber,45,40,Undeclared,Undeclared,Undeclared,,Undeclared,E14000716,,Undeclared,,Undeclared
-E14000755,Hove,East Sussex,South East,46,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000755,,Undeclared,,Undeclared
-E14000788,Lewisham West and Penge,London,London,46,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000788,,Undeclared,,Undeclared
-E14001013,Walthamstow,London,London,46,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14001013,,Undeclared,,Undeclared
-E14000720,Hackney North and Stoke Newington,London,London,46,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000720,,Undeclared,,Undeclared
-E14000634,Chingford and Woodford Green,London,London,46,19,Undeclared,Undeclared,Undeclared,,Undeclared,E14000634,,Undeclared,,Undeclared
-E14000789,"Lewisham, Deptford",London,London,46,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000789,,Undeclared,,Undeclared
-E14000721,Hackney South and Shoreditch,London,London,46,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000721,,Undeclared,,Undeclared
-E14000787,Lewisham East,London,London,46,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000787,,Undeclared,,Undeclared
-E14000757,Huntingdon,Cambridgeshire,East,46,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000757,,Undeclared,,Undeclared
-E14000855,North West Cambridgeshire,Cambridgeshire,East,46,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000855,,Undeclared,,Undeclared
-E14000878,Peterborough,Cambridgeshire,East,47,28,Undeclared,Undeclared,Undeclared,,Undeclared,E14000878,,Undeclared,,Undeclared
-E14000749,Hitchin and Harpenden,Hertfordshire,East,43,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000749,,Undeclared,,Undeclared
-E14001027,Welwyn Hatfield,Hertfordshire,East,43,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14001027,,Undeclared,,Undeclared
-E14000745,Hertsmere,Hertfordshire,East,42,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000745,,Undeclared,,Undeclared
-E14000681,East Surrey,Surrey,South East,45,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000681,,Undeclared,,Undeclared
-E14000656,Croydon South,London,London,44,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000656,,Undeclared,,Undeclared
-E14000617,Cambridge,Cambridgeshire,East,47,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000617,,Undeclared,,Undeclared
-E14000598,"Brighton, Pavilion",East Sussex,South East,47,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000598,,Undeclared,,Undeclared
-E14000759,Ilford North,London,London,48,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000759,,Undeclared,,Undeclared
-E14000790,Leyton and Wanstead,London,London,47,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000790,,Undeclared,,Undeclared
-E14000551,Beckenham,London,London,46,12,Undeclared,Undeclared,Undeclared,,Undeclared,E14000551,,Undeclared,,Undeclared
-E14000690,Eltham,London,London,47,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000690,,Undeclared,,Undeclared
-E14000882,Poplar and Limehouse,London,London,47,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000882,,Undeclared,,Undeclared
-E14000555,Bethnal Green and Bow,London,London,47,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000555,,Undeclared,,Undeclared
-E14000718,Greenwich and Woolwich,London,London,47,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000718,,Undeclared,,Undeclared
-E14000934,South Cambridgeshire,Cambridgeshire,East,46,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000934,,Undeclared,,Undeclared
-E14000968,Stevenage,Hertfordshire,East,44,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000968,,Undeclared,,Undeclared
-E14000744,Hertford and Stortford,Hertfordshire,East,45,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000744,,Undeclared,,Undeclared
-E14000606,Broxbourne,Hertfordshire,East,44,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000606,,Undeclared,,Undeclared
-E14000597,"Brighton, Kemptown",East Sussex,South East,47,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000597,,Undeclared,,Undeclared
-E14000900,Romford,London,London,49,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000900,,Undeclared,,Undeclared
-E14001032,West Ham,London,London,48,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14001032,,Undeclared,,Undeclared
-E14000869,Old Bexley and Sidcup,London,London,48,14,Undeclared,Undeclared,Undeclared,,Undeclared,E14000869,,Undeclared,,Undeclared
-E14000760,Ilford South,London,London,48,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000760,,Undeclared,,Undeclared
-E14000696,Erith and Thamesmead,London,London,48,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000696,,Undeclared,,Undeclared
-E14000604,Bromley and Chislehurst,London,London,47,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000604,,Undeclared,,Undeclared
-E14000842,North East Cambridgeshire,Cambridgeshire,East,47,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000842,,Undeclared,,Undeclared
-E14000937,South East Cambridgeshire,Cambridgeshire,East,48,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000937,,Undeclared,,Undeclared
-E14000786,Lewes,East Sussex,South East,48,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000786,,Undeclared,,Undeclared
-E14000845,North East Hertfordshire,Hertfordshire,East,45,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000845,,Undeclared,,Undeclared
-E14000751,Hornchurch and Upminster,London,London,50,18,Undeclared,Undeclared,Undeclared,,Undeclared,E14000751,,Undeclared,,Undeclared
-E14000558,Bexleyheath and Crayford,London,London,49,15,Undeclared,Undeclared,Undeclared,,Undeclared,E14000558,,Undeclared,,Undeclared
-E14000540,Barking,London,London,49,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000540,,Undeclared,,Undeclared
-E14000679,East Ham,London,London,49,16,Undeclared,Undeclared,Undeclared,,Undeclared,E14000679,,Undeclared,,Undeclared
-E14000872,Orpington,London,London,48,13,Undeclared,Undeclared,Undeclared,,Undeclared,E14000872,,Undeclared,,Undeclared
-E14001023,Wealden,East Sussex,South East,48,8,Undeclared,Undeclared,Undeclared,,Undeclared,E14001023,,Undeclared,,Undeclared
-E14000684,Eastbourne,East Sussex,South East,48,6,Undeclared,Undeclared,Undeclared,,Undeclared,E14000684,,Undeclared,,Undeclared
-E14000659,Dartford,Kent,South East,50,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000659,,Undeclared,,Undeclared
-E14000918,Sevenoaks,Kent,South East,50,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000918,,Undeclared,,Undeclared
-E14000859,North West Norfolk,Norfolk,East,49,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000859,,Undeclared,,Undeclared
-E14000657,Dagenham and Rainham,London,London,50,17,Undeclared,Undeclared,Undeclared,,Undeclared,E14000657,,Undeclared,,Undeclared
-E14000557,Bexhill and Battle,East Sussex,South East,49,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000557,,Undeclared,,Undeclared
-E14000715,Gravesham,Kent,South East,51,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000715,,Undeclared,,Undeclared
-E14000997,Tonbridge and Malling,Kent,South East,51,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000997,,Undeclared,,Undeclared
-E14000816,Mid Norfolk,Norfolk,East,50,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000816,,Undeclared,,Undeclared
-E14000952,South West Norfolk,Norfolk,East,50,30,Undeclared,Undeclared,Undeclared,,Undeclared,E14000952,,Undeclared,,Undeclared
-E14000898,Rochester and Strood,Kent,South East,52,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000898,,Undeclared,,Undeclared
-E14000735,Hastings and Rye,East Sussex,South East,50,7,Undeclared,Undeclared,Undeclared,,Undeclared,E14000735,,Undeclared,,Undeclared
-E14000910,Saffron Walden,Essex,East,49,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000910,,Undeclared,,Undeclared
-E14000729,Harlow,Essex,East,48,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000729,,Undeclared,,Undeclared
-E14000693,Epping Forest,Essex,East,48,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000693,,Undeclared,,Undeclared
-E14001004,Tunbridge Wells,Kent,South East,51,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14001004,,Undeclared,,Undeclared
-E14000804,Maidstone and The Weald,Kent,South East,52,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000804,,Undeclared,,Undeclared
-E14000626,Chatham and Aylesford,Kent,South East,52,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000626,,Undeclared,,Undeclared
-E14000848,North Norfolk,Norfolk,East,51,32,Undeclared,Undeclared,Undeclared,,Undeclared,E14000848,,Undeclared,,Undeclared
-E14000603,Broadland,Norfolk,East,51,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000603,,Undeclared,,Undeclared
-E14000941,South Norfolk,Norfolk,East,51,30,Undeclared,Undeclared,Undeclared,,Undeclared,E14000941,,Undeclared,,Undeclared
-E14001034,West Suffolk,Suffolk,East,51,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14001034,,Undeclared,,Undeclared
-E14000995,Thurrock,Essex,East,50,20,Undeclared,Undeclared,Undeclared,,Undeclared,E14000995,,Undeclared,,Undeclared
-E14000933,South Basildon and East Thurrock,Essex,East,51,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000933,,Undeclared,,Undeclared
-E14000711,Gillingham and Rainham,Kent,South East,53,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000711,,Undeclared,,Undeclared
-E14000590,Braintree,Essex,East,50,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000590,,Undeclared,,Undeclared
-E14000594,Brentwood and Ongar,Essex,East,49,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000594,,Undeclared,,Undeclared
-E14000628,Chelmsford,Essex,East,50,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000628,,Undeclared,,Undeclared
-E14000536,Ashford,Kent,South East,53,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000536,,Undeclared,,Undeclared
-E14000704,Folkestone and Hythe,Kent,South East,54,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000704,,Undeclared,,Undeclared
-E14000863,Norwich North,Norfolk,East,52,31,Undeclared,Undeclared,Undeclared,,Undeclared,E14000863,,Undeclared,,Undeclared
-E14000864,Norwich South,Norfolk,East,52,30,Undeclared,Undeclared,Undeclared,,Undeclared,E14000864,,Undeclared,,Undeclared
-E14000946,South Suffolk,Suffolk,East,52,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000946,,Undeclared,,Undeclared
-E14000613,Bury St Edmunds,Suffolk,East,52,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000613,,Undeclared,,Undeclared
-E14000806,Maldon,Essex,East,51,22,Undeclared,Undeclared,Undeclared,,Undeclared,E14000806,,Undeclared,,Undeclared
-E14001045,Witham,Essex,East,51,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14001045,,Undeclared,,Undeclared
-E14000622,Castle Point,Essex,East,51,20,Undeclared,Undeclared,Undeclared,,Undeclared,E14000622,,Undeclared,,Undeclared
-E14000544,Basildon and Billericay,Essex,East,50,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000544,,Undeclared,,Undeclared
-E14000670,Dover,Kent,South East,55,9,Undeclared,Undeclared,Undeclared,,Undeclared,E14000670,,Undeclared,,Undeclared
-E14000619,Canterbury,Kent,South East,54,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000619,,Undeclared,,Undeclared
-E14000927,Sittingbourne and Sheppey,Kent,South East,54,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000927,,Undeclared,,Undeclared
-E14000700,Faversham and Mid Kent,Kent,South East,53,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000700,,Undeclared,,Undeclared
-E14000717,Great Yarmouth,Norfolk,East,53,30,Undeclared,Undeclared,Undeclared,,Undeclared,E14000717,,Undeclared,,Undeclared
-E14000624,Central Suffolk and North Ipswich,Suffolk,East,53,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14000624,,Undeclared,,Undeclared
-E14000761,Ipswich,Suffolk,East,53,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000761,,Undeclared,,Undeclared
-E14000957,Southend West,Essex,East,52,20,Undeclared,Undeclared,Undeclared,,Undeclared,E14000957,,Undeclared,,Undeclared
-E14000642,Clacton,Essex,East,54,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000642,,Undeclared,,Undeclared
-E14000888,Rayleigh and Wickford,Essex,East,52,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000888,,Undeclared,,Undeclared
-E14000644,Colchester,Essex,East,52,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000644,,Undeclared,,Undeclared
-E14000948,South Thanet,Kent,South East,55,10,Undeclared,Undeclared,Undeclared,,Undeclared,E14000948,,Undeclared,,Undeclared
-E14000852,North Thanet,Kent,South East,55,11,Undeclared,Undeclared,Undeclared,,Undeclared,E14000852,,Undeclared,,Undeclared
-E14001022,Waveney,Suffolk,East,54,27,Undeclared,Undeclared,Undeclared,,Undeclared,E14001022,,Undeclared,,Undeclared
-E14000981,Suffolk Coastal,Suffolk,East,54,26,Undeclared,Undeclared,Undeclared,,Undeclared,E14000981,,Undeclared,,Undeclared
-E14000899,Rochford and Southend East,Essex,East,53,21,Undeclared,Undeclared,Undeclared,,Undeclared,E14000899,,Undeclared,,Undeclared
-E14000734,Harwich and North Essex,Essex,East,53,23,Undeclared,Undeclared,Undeclared,,Undeclared,E14000734,,Undeclared,,Undeclared
+E14000576,Bognor Regis and Littlehampton,West Sussex,South East,42,5,Con hold,Male,Con,Nicolas Gibb,Sitting MP,E14000576,,Con hold,,Con hold
+E14000772,Kingston upon Hull North,East Yorkshire & Humber,Yorkshire and The Humber,44,43,Lab hold,Female,Lab,Diana Johnson,Sitting MP,E14000772,,Lab hold,,Lab hold
+E14000773,Kingston upon Hull West and Hessle,East Yorkshire & Humber,Yorkshire and The Humber,44,42,Lab hold,Female,Lab,Emma Hardy,Sitting MP,E14000773,,Lab hold,,Lab hold
+E14000683,East Yorkshire,East Yorkshire & Humber,Yorkshire and The Humber,44,44,Con hold,Male,Con,Greg Knight,Sitting MP,E14000683,,Con hold,,Con hold
+E14000841,North East Bedfordshire,Bedfordshire,East,44,26,Con hold,Male,Con,Richard Fuller,Returning MP,E14000841,,Con hold,,Con hold
+E14000549,Battersea,London,London,43,15,Lab hold,Female,Lab,Marsha De Cordova,Sitting MP,E14000549,,Lab hold,,Lab hold
+E14000727,Hampstead and Kilburn,London,London,43,17,Lab hold,Female,Lab,Tulip Siddiq,Sitting MP,E14000727,,Lab hold,,Lab hold
+E14000692,"Enfield, Southgate",London,London,43,19,Lab hold,Male,Lab,Bambos Charalambous,Sitting MP,E14000692,,Lab hold,,Lab hold
+E14000703,Finchley and Golders Green,London,London,43,18,Con hold,Male,Con,Mike Freer,Sitting MP,E14000703,,Con hold,,Con hold
+E14000823,Mitcham and Morden,London,London,43,13,Lab hold,Female,Lab,Siobhain McDonagh,Sitting MP,E14000823,,Lab hold,,Lab hold
+E14000998,Tooting,London,London,43,14,Lab hold,Female,Lab,Rosena Allin-Khan,Sitting MP,E14000998,,Lab hold,,Lab hold
+E14001036,Westminster North,London,London,43,16,Lab hold,Female,Lab,Karen Buck,Sitting MP,E14001036,,Lab hold,,Lab hold
+E14000929,Sleaford and North Hykeham,Lincolnshire,East Midlands,46,35,Con hold,Female,Con,Caroline Johnson,Sitting MP,E14000929,,Con hold,,Con hold
+E14000707,Gainsborough,Lincolnshire,East Midlands,46,37,Con hold,Male,Con,Edward Leigh,Sitting MP,E14000707,,Con hold,,Con hold
+E14000792,Lincoln,Lincolnshire,East Midlands,46,36,Con gain from Lab,Male,Con,Karl McCartney,Returning MP,E14000792,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000714,Grantham and Stamford,Lincolnshire,East Midlands,46,34,Con hold,Male,Con,Gareth Davies,New MP,E14000714,,Con hold,,Con hold
+E14000824,Mole Valley,Surrey,South East,42,9,Con hold,Male,Con,Paul Beresford,Sitting MP,E14000824,,Con hold,,Con hold
+E14000697,Esher and Walton,Surrey,South East,42,10,Con hold,Male,Con,Dominic Raab,Sitting MP,E14000697,,Con hold,,Con hold
+E14001055,Worthing West,West Sussex,South East,43,5,Con hold,Male,Con,Peter Bottomley,Sitting MP,E14001055,,Con hold,,Con hold
+E14000753,Horsham,West Sussex,South East,43,7,Con hold,Male,Con,Jeremy Quin,Sitting MP,E14000753,,Con hold,,Con hold
+E14000771,Kingston upon Hull East,East Yorkshire & Humber,Yorkshire and The Humber,45,42,Lab hold,Male,Lab,Karl Turner,Sitting MP,E14000771,,Lab hold,,Lab hold
+E14000556,Beverley and Holderness,East Yorkshire & Humber,Yorkshire and The Humber,45,43,Con hold,Male,Con,Graham Stuart,Sitting MP,E14000556,,Con hold,,Con hold
+E14000596,Brigg and Goole,East Yorkshire & Humber,Yorkshire and The Humber,43,41,Con hold,Male,Con,Andrew Percy,Sitting MP,E14000596,,Con hold,,Con hold
+E14000673,Dulwich and West Norwood,London,London,44,13,Lab hold,Female,Lab,Helen Hayes,Sitting MP,E14000673,,Lab hold,,Lab hold
+E14000978,Streatham,London,London,44,14,Lab hold,Female,Lab,Bell Ribeiro-Addy,New MP,E14000978,,Lab hold,,Lab hold
+E14000621,Carshalton and Wallington,London,London,43,12,Con gain from LD,Male,Con,Elliot Colburn,New MP,E14000621,Con,Con gain from LD,LD,LD loss to Con
+E14000752,Hornsey and Wood Green,London,London,44,18,Lab hold,Female,Lab,Catherine West,Sitting MP,E14000752,,Lab hold,,Lab hold
+E14000691,Enfield North,London,London,44,19,Lab hold,Female,Lab,Feryal Clark,New MP,E14000691,,Lab hold,,Lab hold
+E14001008,Vauxhall,London,London,44,15,Lab hold,Female,Lab,Florence Eshalomi,New MP,E14001008,,Lab hold,,Lab hold
+E14000639,Cities of London and Westminster,London,London,44,16,Con hold,Female,Con,Nickie Aiken,New MP,E14000639,,Con hold,,Con hold
+E14000750,Holborn and St Pancras,London,London,44,17,Lab hold,Male,Lab,Keir Starmer,Sitting MP,E14000750,,Lab hold,,Lab hold
+E14000951,South West Hertfordshire,Hertfordshire,East,40,21,Con hold,Male,Con,Gagan Mohindra,New MP,E14000951,,Con hold,,Con hold
+E14000739,Hemel Hempstead,Hertfordshire,East,41,22,Con hold,Male,Con,Michael Penning,Sitting MP,E14000739,,Con hold,,Con hold
+E14000939,South Holland and The Deepings,Lincolnshire,East Midlands,47,34,Con hold,Male,Con,John Hayes,Sitting MP,E14000939,,Con hold,,Con hold
+E14000582,Boston and Skegness,Lincolnshire,East Midlands,47,35,Con hold,Male,Con,Matt Warman,Sitting MP,E14000582,,Con hold,,Con hold
+E14000798,Louth and Horncastle,Lincolnshire,East Midlands,47,36,Con hold,Female,Con,Victoria Atkins,Sitting MP,E14000798,,Con hold,,Con hold
+E14000694,Epsom and Ewell,Surrey,South East,43,9,Con hold,Male,Con,Chris Grayling,Sitting MP,E14000694,,Con hold,,Con hold
+E14000817,Mid Sussex,West Sussex,South East,44,6,Con hold,Female,Con,Mims Davies,Sitting MP,E14000817,,Con hold,,Con hold
+E14000682,East Worthing and Shoreham,West Sussex,South East,44,5,Con hold,Male,Con,Tim Loughton,Sitting MP,E14000682,,Con hold,,Con hold
+E14000652,Crawley,West Sussex,South East,44,7,Con hold,Male,Con,Henry Smith,Sitting MP,E14000652,,Con hold,,Con hold
+E14000914,Scunthorpe,East Yorkshire & Humber,Yorkshire and The Humber,44,40,Con gain from Lab,Female,Con,Holly Mumby-Croft,New MP,E14000914,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000615,Camberwell and Peckham,London,London,45,14,Lab hold,Female,Lab,Harriet Harman,Sitting MP,E14000615,,Lab hold,,Lab hold
+E14000655,Croydon North,London,London,45,13,Lab hold,Male,Lab,Steven Reed,Sitting MP,E14000655,,Lab hold,,Lab hold
+E14000687,Edmonton,London,London,45,19,Lab hold,Female,Lab,Kate Osamor,Sitting MP,E14000687,,Lab hold,,Lab hold
+E14000764,Islington South and Finsbury,London,London,45,16,Lab hold,Female,Lab,Emily Thornberry,Sitting MP,E14000764,,Lab hold,,Lab hold
+E14000763,Islington North,London,London,45,17,Lab hold,Male,Lab,Jeremy Corbyn,Sitting MP,E14000763,,Lab hold,,Lab hold
+E14000654,Croydon Central,London,London,45,12,Lab hold,Female,Lab,Sarah Jones,Sitting MP,E14000654,,Lab hold,,Lab hold
+E14000553,Bermondsey and Old Southwark,London,London,45,15,Lab hold,Male,Lab,Neil Coyle,Sitting MP,E14000553,,Lab hold,,Lab hold
+E14001002,Tottenham,London,London,45,18,Lab hold,Male,Lab,David Lammy,Sitting MP,E14001002,,Lab hold,,Lab hold
+E14001021,Watford,Hertfordshire,East,41,21,Con hold,Male,Con,Dean Russell,New MP,E14001021,,Con hold,,Con hold
+E14000960,St Albans,Hertfordshire,East,42,22,LD gain from Con,Female,LD,Daisy Cooper,New MP,E14000960,LD,LD gain from Con,Con,Con loss to LD
+E14000893,Reigate,Surrey,South East,44,9,Con hold,Male,Con,Crispin Blunt,Sitting MP,E14000893,,Con hold,,Con hold
+E14000643,Cleethorpes,East Yorkshire & Humber,Yorkshire and The Humber,46,40,Con hold,Male,Con,Martin Vickers,Sitting MP,E14000643,,Con hold,,Con hold
+E14000716,Great Grimsby,East Yorkshire & Humber,Yorkshire and The Humber,45,40,Con gain from Lab,Female,Con,Lia Nici,New MP,E14000716,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000755,Hove,East Sussex,South East,46,6,Lab hold,Male,Lab,Peter Kyle,Sitting MP,E14000755,,Lab hold,,Lab hold
+E14000788,Lewisham West and Penge,London,London,46,13,Lab hold,Female,Lab,Ellie Reeves,Sitting MP,E14000788,,Lab hold,,Lab hold
+E14001013,Walthamstow,London,London,46,18,Lab hold,Female,Lab,Stella Creasy,Sitting MP,E14001013,,Lab hold,,Lab hold
+E14000720,Hackney North and Stoke Newington,London,London,46,17,Lab hold,Female,Lab,Diane Abbott,Sitting MP,E14000720,,Lab hold,,Lab hold
+E14000634,Chingford and Woodford Green,London,London,46,19,Con hold,Male,Con,Iain Duncan Smith,Sitting MP,E14000634,,Con hold,,Con hold
+E14000789,"Lewisham, Deptford",London,London,46,15,Lab hold,Female,Lab,Vicky Foxcroft,Sitting MP,E14000789,,Lab hold,,Lab hold
+E14000721,Hackney South and Shoreditch,London,London,46,16,Lab hold,Female,Lab,Meg Hillier,Sitting MP,E14000721,,Lab hold,,Lab hold
+E14000787,Lewisham East,London,London,46,14,Lab hold,Female,Lab,Janet Daby,Sitting MP,E14000787,,Lab hold,,Lab hold
+E14000757,Huntingdon,Cambridgeshire,East,46,27,Con hold,Male,Con,Jonathan Djanogly,Sitting MP,E14000757,,Con hold,,Con hold
+E14000855,North West Cambridgeshire,Cambridgeshire,East,46,28,Con hold,Male,Con,Shailesh Vara,Sitting MP,E14000855,,Con hold,,Con hold
+E14000878,Peterborough,Cambridgeshire,East,47,28,Con gain from Lab,Male,Con,Paul Bristow,New MP,E14000878,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000749,Hitchin and Harpenden,Hertfordshire,East,43,22,Con hold,Male,Con,Abimbola Afolami,Sitting MP,E14000749,,Con hold,,Con hold
+E14001027,Welwyn Hatfield,Hertfordshire,East,43,21,Con hold,Male,Con,Grant Shapps,Sitting MP,E14001027,,Con hold,,Con hold
+E14000745,Hertsmere,Hertfordshire,East,42,21,Con hold,Male,Con,Oliver Dowden,Sitting MP,E14000745,,Con hold,,Con hold
+E14000681,East Surrey,Surrey,South East,45,9,Con hold,Female,Con,Claire Coutinho,New MP,E14000681,,Con hold,,Con hold
+E14000656,Croydon South,London,London,44,12,Con hold,Male,Con,Chris Philp,Sitting MP,E14000656,,Con hold,,Con hold
+E14000617,Cambridge,Cambridgeshire,East,47,26,Lab hold,Male,Lab,Daniel Zeichner,Sitting MP,E14000617,,Lab hold,,Lab hold
+E14000598,"Brighton, Pavilion",East Sussex,South East,47,7,Green hold,Female,Green,Caroline Lucas,Sitting MP,E14000598,,Green hold,,Green hold
+E14000759,Ilford North,London,London,48,18,Lab hold,Male,Lab,Wes Streeting,Sitting MP,E14000759,,Lab hold,,Lab hold
+E14000790,Leyton and Wanstead,London,London,47,18,Lab hold,Male,Lab,John Cryer,Sitting MP,E14000790,,Lab hold,,Lab hold
+E14000551,Beckenham,London,London,46,12,Con hold,Male,Con,Robert Stewart,Sitting MP,E14000551,,Con hold,,Con hold
+E14000690,Eltham,London,London,47,14,Lab hold,Male,Lab,Clive Efford,Sitting MP,E14000690,,Lab hold,,Lab hold
+E14000882,Poplar and Limehouse,London,London,47,16,Lab hold,Female,Lab,Apsana Begum,New MP,E14000882,,Lab hold,,Lab hold
+E14000555,Bethnal Green and Bow,London,London,47,17,Lab hold,Female,Lab,Rushanara Ali,Sitting MP,E14000555,,Lab hold,,Lab hold
+E14000718,Greenwich and Woolwich,London,London,47,15,Lab hold,Male,Lab,Matthew Pennycook,Sitting MP,E14000718,,Lab hold,,Lab hold
+E14000934,South Cambridgeshire,Cambridgeshire,East,46,26,Con hold,Male,Con,Anthony Browne,New MP,E14000934,,Con hold,,Con hold
+E14000968,Stevenage,Hertfordshire,East,44,22,Con hold,Male,Con,Stephen McPartland,Sitting MP,E14000968,,Con hold,,Con hold
+E14000744,Hertford and Stortford,Hertfordshire,East,45,21,Con hold,Female,Con,Julie Marson,New MP,E14000744,,Con hold,,Con hold
+E14000606,Broxbourne,Hertfordshire,East,44,21,Con hold,Male,Con,Charles Walker,Sitting MP,E14000606,,Con hold,,Con hold
+E14000597,"Brighton, Kemptown",East Sussex,South East,47,6,Lab hold,Male,Lab,Lloyd Russell-Moyle,Sitting MP,E14000597,,Lab hold,,Lab hold
+E14000900,Romford,London,London,49,18,Con hold,Male,Con,Andrew Rosindell,Sitting MP,E14000900,,Con hold,,Con hold
+E14001032,West Ham,London,London,48,16,Lab hold,Female,Lab,Lyn Brown,Sitting MP,E14001032,,Lab hold,,Lab hold
+E14000869,Old Bexley and Sidcup,London,London,48,14,Con hold,Male,Con,James Brokenshire,Sitting MP,E14000869,,Con hold,,Con hold
+E14000760,Ilford South,London,London,48,17,Lab hold,Male,Lab,Sam Tarry,New MP,E14000760,,Lab hold,,Lab hold
+E14000696,Erith and Thamesmead,London,London,48,15,Lab hold,Female,Lab,Abena Oppong-Asare,New MP,E14000696,,Lab hold,,Lab hold
+E14000604,Bromley and Chislehurst,London,London,47,13,Con hold,Male,Con,Robert Neill,Sitting MP,E14000604,,Con hold,,Con hold
+E14000842,North East Cambridgeshire,Cambridgeshire,East,47,27,Con hold,Male,Con,Stephen Barclay,Sitting MP,E14000842,,Con hold,,Con hold
+E14000937,South East Cambridgeshire,Cambridgeshire,East,48,26,Con hold,Female,Con,Lucy Frazer,Sitting MP,E14000937,,Con hold,,Con hold
+E14000786,Lewes,East Sussex,South East,48,7,Con hold,Female,Con,Maria Caulfield,Sitting MP,E14000786,,Con hold,,Con hold
+E14000845,North East Hertfordshire,Hertfordshire,East,45,22,Con hold,Male,Con,Oliver Heald,Sitting MP,E14000845,,Con hold,,Con hold
+E14000751,Hornchurch and Upminster,London,London,50,18,Con hold,Female,Con,Julia Lopez,Sitting MP,E14000751,,Con hold,,Con hold
+E14000558,Bexleyheath and Crayford,London,London,49,15,Con hold,Male,Con,David Evennett,Sitting MP,E14000558,,Con hold,,Con hold
+E14000540,Barking,London,London,49,17,Lab hold,Female,Lab,Margaret Hodge,Sitting MP,E14000540,,Lab hold,,Lab hold
+E14000679,East Ham,London,London,49,16,Lab hold,Male,Lab,Stephen Timms,Sitting MP,E14000679,,Lab hold,,Lab hold
+E14000872,Orpington,London,London,48,13,Con hold,Male,Con,Gareth Bacon,New MP,E14000872,,Con hold,,Con hold
+E14001023,Wealden,East Sussex,South East,48,8,Con hold,Female,Con,Nusrat Ghani,Sitting MP,E14001023,,Con hold,,Con hold
+E14000684,Eastbourne,East Sussex,South East,48,6,Con gain from LD,Female,Con,Caroline Ansell,Returning MP,E14000684,Con,Con gain from LD,LD,LD loss to Con
+E14000659,Dartford,Kent,South East,50,11,Con hold,Male,Con,Gareth Johnson,Sitting MP,E14000659,,Con hold,,Con hold
+E14000918,Sevenoaks,Kent,South East,50,10,Con hold,Female,Con,Laura Trott,New MP,E14000918,,Con hold,,Con hold
+E14000859,North West Norfolk,Norfolk,East,49,31,Con hold,Male,Con,James Wild,New MP,E14000859,,Con hold,,Con hold
+E14000657,Dagenham and Rainham,London,London,50,17,Lab hold,Male,Lab,Jonathan Cruddas,Sitting MP,E14000657,,Lab hold,,Lab hold
+E14000557,Bexhill and Battle,East Sussex,South East,49,7,Con hold,Male,Con,Huw Merriman,Sitting MP,E14000557,,Con hold,,Con hold
+E14000715,Gravesham,Kent,South East,51,11,Con hold,Male,Con,Adam Holloway,Sitting MP,E14000715,,Con hold,,Con hold
+E14000997,Tonbridge and Malling,Kent,South East,51,10,Con hold,Male,Con,Thomas Tugendhat,Sitting MP,E14000997,,Con hold,,Con hold
+E14000816,Mid Norfolk,Norfolk,East,50,31,Con hold,Male,Con,George Freeman,Sitting MP,E14000816,,Con hold,,Con hold
+E14000952,South West Norfolk,Norfolk,East,50,30,Con hold,Female,Con,Elizabeth Truss,Sitting MP,E14000952,,Con hold,,Con hold
+E14000898,Rochester and Strood,Kent,South East,52,11,Con hold,Female,Con,Kelly Tolhurst,Sitting MP,E14000898,,Con hold,,Con hold
+E14000735,Hastings and Rye,East Sussex,South East,50,7,Con hold,Female,Con,Sally-Ann Hart,New MP,E14000735,,Con hold,,Con hold
+E14000910,Saffron Walden,Essex,East,49,22,Con hold,Female,Con,Kemi Badenoch,Sitting MP,E14000910,,Con hold,,Con hold
+E14000729,Harlow,Essex,East,48,22,Con hold,Male,Con,Robert Halfon,Sitting MP,E14000729,,Con hold,,Con hold
+E14000693,Epping Forest,Essex,East,48,21,Con hold,Female,Con,Eleanor Laing,Sitting MP,E14000693,,Con hold,,Con hold
+E14001004,Tunbridge Wells,Kent,South East,51,9,Con hold,Male,Con,Gregory Clark,Sitting MP,E14001004,,Con hold,,Con hold
+E14000804,Maidstone and The Weald,Kent,South East,52,9,Con hold,Female,Con,Helen Grant,Sitting MP,E14000804,,Con hold,,Con hold
+E14000626,Chatham and Aylesford,Kent,South East,52,10,Con hold,Female,Con,Tracey Crouch,Sitting MP,E14000626,,Con hold,,Con hold
+E14000848,North Norfolk,Norfolk,East,51,32,Con gain from LD,Male,Con,Duncan Baker,New MP,E14000848,Con,Con gain from LD,LD,LD loss to Con
+E14000603,Broadland,Norfolk,East,51,31,Con hold,Male,Con,Jerome Mayhew,New MP,E14000603,,Con hold,,Con hold
+E14000941,South Norfolk,Norfolk,East,51,30,Con hold,Male,Con,Richard Bacon,Sitting MP,E14000941,,Con hold,,Con hold
+E14001034,West Suffolk,Suffolk,East,51,27,Con hold,Male,Con,Matthew Hancock,Sitting MP,E14001034,,Con hold,,Con hold
+E14000995,Thurrock,Essex,East,50,20,Con hold,Female,Con,Jacqueline Doyle-Price,Sitting MP,E14000995,,Con hold,,Con hold
+E14000933,South Basildon and East Thurrock,Essex,East,51,21,Con hold,Male,Con,Stephen Metcalfe,Sitting MP,E14000933,,Con hold,,Con hold
+E14000711,Gillingham and Rainham,Kent,South East,53,11,Con hold,Male,Con,Atta-Ur-Rehman Chishti,Sitting MP,E14000711,,Con hold,,Con hold
+E14000590,Braintree,Essex,East,50,23,Con hold,Male,Con,James Cleverly,Sitting MP,E14000590,,Con hold,,Con hold
+E14000594,Brentwood and Ongar,Essex,East,49,21,Con hold,Male,Con,Alex Burghart,Sitting MP,E14000594,,Con hold,,Con hold
+E14000628,Chelmsford,Essex,East,50,22,Con hold,Female,Con,Victoria Ford,Sitting MP,E14000628,,Con hold,,Con hold
+E14000536,Ashford,Kent,South East,53,9,Con hold,Male,Con,Damian Green,Sitting MP,E14000536,,Con hold,,Con hold
+E14000704,Folkestone and Hythe,Kent,South East,54,9,Con hold,Male,Con,Damian Collins,Sitting MP,E14000704,,Con hold,,Con hold
+E14000863,Norwich North,Norfolk,East,52,31,Con hold,Female,Con,Chloe Smith,Sitting MP,E14000863,,Con hold,,Con hold
+E14000864,Norwich South,Norfolk,East,52,30,Lab hold,Male,Lab,Clive Lewis,Sitting MP,E14000864,,Lab hold,,Lab hold
+E14000946,South Suffolk,Suffolk,East,52,26,Con hold,Male,Con,James Cartlidge,Sitting MP,E14000946,,Con hold,,Con hold
+E14000613,Bury St Edmunds,Suffolk,East,52,27,Con hold,Female,Con,Jo Churchill,Sitting MP,E14000613,,Con hold,,Con hold
+E14000806,Maldon,Essex,East,51,22,Con hold,Male,Con,John Whittingdale,Sitting MP,E14000806,,Con hold,,Con hold
+E14001045,Witham,Essex,East,51,23,Con hold,Female,Con,Priti Patel,Sitting MP,E14001045,,Con hold,,Con hold
+E14000622,Castle Point,Essex,East,51,20,Con hold,Female,Con,Rebecca Harris,Sitting MP,E14000622,,Con hold,,Con hold
+E14000544,Basildon and Billericay,Essex,East,50,21,Con hold,Male,Con,John Baron,Sitting MP,E14000544,,Con hold,,Con hold
+E14000670,Dover,Kent,South East,55,9,Con hold,Female,Con,Natalie Elphicke,New MP,E14000670,,Con hold,,Con hold
+E14000619,Canterbury,Kent,South East,54,10,Lab hold,Female,Lab,Rosemary Duffield,Sitting MP,E14000619,,Lab hold,,Lab hold
+E14000927,Sittingbourne and Sheppey,Kent,South East,54,11,Con hold,Male,Con,Gordon Henderson,Sitting MP,E14000927,,Con hold,,Con hold
+E14000700,Faversham and Mid Kent,Kent,South East,53,10,Con hold,Female,Con,Helen Whately,Sitting MP,E14000700,,Con hold,,Con hold
+E14000717,Great Yarmouth,Norfolk,East,53,30,Con hold,Male,Con,Brandon Lewis,Sitting MP,E14000717,,Con hold,,Con hold
+E14000624,Central Suffolk and North Ipswich,Suffolk,East,53,27,Con hold,Male,Con,Daniel Poulter,Sitting MP,E14000624,,Con hold,,Con hold
+E14000761,Ipswich,Suffolk,East,53,26,Con gain from Lab,Male,Con,Tom Hunt,New MP,E14000761,Con,Con gain from Lab,Lab,Lab loss to Con
+E14000957,Southend West,Essex,East,52,20,Con hold,Male,Con,David Amess,Sitting MP,E14000957,,Con hold,,Con hold
+E14000642,Clacton,Essex,East,54,23,Con hold,Male,Con,Giles Watling,Sitting MP,E14000642,,Con hold,,Con hold
+E14000888,Rayleigh and Wickford,Essex,East,52,21,Con hold,Male,Con,Mark Francois,Sitting MP,E14000888,,Con hold,,Con hold
+E14000644,Colchester,Essex,East,52,23,Con hold,Male,Con,William Quince,Sitting MP,E14000644,,Con hold,,Con hold
+E14000948,South Thanet,Kent,South East,55,10,Con hold,Male,Con,Craig Mackinlay,Sitting MP,E14000948,,Con hold,,Con hold
+E14000852,North Thanet,Kent,South East,55,11,Con hold,Male,Con,Roger Gale,Sitting MP,E14000852,,Con hold,,Con hold
+E14001022,Waveney,Suffolk,East,54,27,Con hold,Male,Con,Peter Aldous,Sitting MP,E14001022,,Con hold,,Con hold
+E14000981,Suffolk Coastal,Suffolk,East,54,26,Con hold,Female,Con,Therese Coffey,Sitting MP,E14000981,,Con hold,,Con hold
+E14000899,Rochford and Southend East,Essex,East,53,21,Con hold,Male,Con,James Duddridge,Sitting MP,E14000899,,Con hold,,Con hold
+E14000734,Harwich and North Essex,Essex,East,53,23,Con hold,Male,Con,Bernard Jenkin,Sitting MP,E14000734,,Con hold,,Con hold
