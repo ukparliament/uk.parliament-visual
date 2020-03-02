@@ -1,0 +1,66 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700';
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-smooth: always;
+	padding: 0;
+	margin: 0;
+}
+
+html, body, #map {
+	height: 100%;
+}
+
+#infobox {
+    position: absolute;
+    margin: 0px;
+    padding: 10px;
+    width: 220px;
+    top: 10px;
+    left: 10px;
+    z-index: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11pt;
+    background: #ffffff;
+    border-radius: 6px;
+	box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+}
+
+a:link, a:visited {
+    color: #046a38;
+}
+
+a:hover, a:active {
+    color: #80e0a7;
+}
+
+#infobox a:link, a:visited {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#infobox a:hover, a:active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.leaflet-container {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 11pt;
+}
+
+.leaflet-popup-content {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 11pt;
+	text-align: center;
+}
+
+input[type=checkbox] {
+	margin: 0 8px 4px 4px;
+	vertical-align: middle;
+	-ms-transform: scale(1.25); /* IE */
+	-moz-transform: scale(1.25); /* FF */
+	-webkit-transform: scale(1.25); /* Safari and Chrome */
+	-o-transform: scale(1.25); /* Opera */
+	transform: scale(1.25);
+}
