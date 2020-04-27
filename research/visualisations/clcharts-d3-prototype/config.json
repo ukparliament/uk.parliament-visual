@@ -37,7 +37,7 @@
             "marginLeft": 50,
             "keySize": 10,
             "valueSize": 10,
-            "valueTitleSize": 11,
+            "valueTitleSize": 10,
             "keyColumn": "region_short"
         }
     ]
