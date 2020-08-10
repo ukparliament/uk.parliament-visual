@@ -22,14 +22,12 @@ a {
 
 @font-face {
     font-family: National-LFSN-Book;
-    font-display: swap;
-    src: url("https://visual.parliament.uk/research/resources/fonts/National-LFSN-Book.woff2") format("woff2"), url("https://visual.parliament.uk/research/resources/fonts/National-LFSN-Book.woff") format("woff")
+    src: url("/research/resources/fonts/National-LFSN-Book.woff2") format("woff2"), url("/research/resources/fonts/National-LFSN-Book.woff") format("woff")
 }
 
 @font-face {
     font-family: National-LFSN-Semibold;
-    font-display: swap;
-    src: url("https://visual.parliament.uk/research/resources/fonts/National-LFSN-Semibold.woff2") format("woff2"), url("https://visual.parliament.uk/research/resources/fonts/National-LFS-Semibold.woff") format("woff");
+    src: url("/research/resources/fonts/National-LFSN-Semibold.woff2") format("woff2"), url("/research/resources/fonts/National-LFS-Semibold.woff") format("woff");
 }
 
 *,:after,:before {
