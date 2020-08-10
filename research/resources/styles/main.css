@@ -23,7 +23,6 @@ a {
 @font-face {
     font-family: "National-LFSN-Book";
     font-style: normal;
-    font-display: swap;
     src: url("/research/resources/fonts/National-LFSN-Book.woff2") format("woff2"), url("https://visual.parliament.uk/research/resources/fonts/National-LFSN-Book.woff") format("woff")
 }
 
