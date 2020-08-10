@@ -290,6 +290,7 @@ body>footer {
     width: 100%;
     display: inline-block;
     box-sizing: border-box;
+    color: #f8f7f7;
     background-color: #373151;
     padding-bottom: 60px
 }
@@ -361,10 +362,6 @@ footer .list {
     margin: 0;
     padding: 0;
     list-style: none
-}
-
-footer .list>li {
-     color: #f8f7f7
 }
 
 @media print {
