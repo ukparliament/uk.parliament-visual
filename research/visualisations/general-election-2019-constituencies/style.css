@@ -61,7 +61,7 @@ h1 {
 
 #vis {
     text-align: center;
-    padding: 0 0 40px 0;
+    padding: 0 0 20px 0;
 }
 
 .grouplabel {
@@ -104,7 +104,31 @@ a:hover, a:active {
 	font-weight: bold;
 }
 
-#footer {
-    margin: 0 0 40px 0;
+#about {
+    margin: 0 0 20px 0;
     padding: 0;
+}
+
+footer {
+    display: block;
+    margin: 0px;
+    margin-bottom: 20px;
+    padding: 5px;
+    border: none;
+    text-align: center;
+    color: #00000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11pt;
+}
+
+footer a:link, a:visited {
+    color: #006548;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+footer a:hover, a:active {
+    color: #3f9d8a;
+    text-decoration: underline;
+    font-weight: normal;
 }
