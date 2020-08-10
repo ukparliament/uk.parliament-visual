@@ -28,7 +28,7 @@ a {
 }
 
 @font-face {
-    font-family: "National-LFSNSemibold";
+    font-family: "National-LFSN-Semibold";
     font-display:swap;
     src: url("https://visual.parliament.ukresearch/resources/fonts/National-LFSN-Semibold.woff2") format("woff2"), 
          url("https://visual.parliament.ukresearch/resources/fonts/National-LFSN-Semibold.woff") format("woff");
