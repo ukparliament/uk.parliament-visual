@@ -21,16 +21,15 @@ a {
 }
 
 @font-face {
-    font-family: National;
+    font-family: National-LFSN-Book;
     font-display: swap;
-    src: url("/research/resources/fonts/National-LFSN-Book.woff2") format("woff2"), url("/research/resources/fonts/National-LFSN-Book.woff") format("woff")
+    src: url("/resources/fonts/National-LFSN-Book.woff2") format("woff2"), url("/resources/fonts/National-LFSN-Book.woff") format("woff")
 }
 
 @font-face {
-    font-family: National;
+    font-family: National-LFSN-Semibold;
     font-display: swap;
-    src: url("/research/resources/fonts/National-LFSN-Semibold.woff2") format("woff2"), url("/research/resources/fonts/National-LFS-Semibold.woff") format("woff");
-    font-weight: 500
+    src: url("/resources/fonts/National-LFSN-Semibold.woff2") format("woff2"), url("/resources/fonts/National-LFS-Semibold.woff") format("woff");
 }
 
 *,:after,:before {
@@ -103,7 +102,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     background-color: #f8f7f7;
-    font-family: National,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-family: National-LFSN-Book,Arial,Helvetica Neue,Helvetica,sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-feature-settings: "pnum";
@@ -114,6 +113,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     padding: 0;
+    font-family: National-LFSN-Semibold;
     font-weight: 500;
     color: #373151;
     margin-bottom: 6px;
@@ -126,7 +126,7 @@ h1,h2,h3,h4,h5,h6 {
     }
 }
 
-.alpha,h1 {
+h1 {
     font-size: 2.125rem;
     line-height: 1.059;
     margin-bottom: 30px;
@@ -134,7 +134,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 @media(min-width: 768px) {
-    .alpha,h1 {
+    h1 {
         font-size:2.75rem;
         line-height: 1.091;
         margin-bottom: 36px;
@@ -142,7 +142,7 @@ h1,h2,h3,h4,h5,h6 {
     }
 }
 
-.beta,article footer h2,h2 {
+article footer h2,h2 {
     font-size: 1.75rem;
     line-height: 1.071;
     margin-bottom: 12px;
@@ -150,7 +150,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 @media(min-width: 768px) {
-    .beta,article footer h2,h2 {
+    article footer h2,h2 {
         font-size:2.0625rem;
         line-height: 1.091;
         margin-bottom: 18px;
@@ -158,7 +158,7 @@ h1,h2,h3,h4,h5,h6 {
     }
 }
 
-.epsilon,footer h2,h5,h6 {
+footer h2,h5,h6 {
     font-size: 1.125rem;
     line-height: 1.334;
     line-height: 1.167;
@@ -167,7 +167,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 @media(min-width: 768px) {
-    .epsilon,footer h2,h5,h6 {
+    footer h2,h5,h6 {
         font-size:1.25rem;
         line-height: 1.5;
         line-height: 1.2;
@@ -365,35 +365,4 @@ footer .list {
     nav {
         display: none
     }
-}
-
-.skip-to-content,.sr-only {
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: none;
-    overflow: hidden;
-    position: absolute;
-    clip: rect(0 0 0 0)
-}
-
-.skip-to-content:active,.skip-to-content:focus,.sr-only--focusable:active,.sr-only--focusable:focus {
-    margin: 0;
-    z-index: 2;
-    clip: auto;
-    width: auto;
-    height: auto;
-    overflow: visible;
-    padding: 12px
-}
-
-.skip-to-content {
-    z-index: 2;
-    text-indent: -9999px;
-    clip: auto;
-    padding: 1px
-}
-
-.skip-to-content:active,.skip-to-content:focus {
-    text-indent: 0
 }
