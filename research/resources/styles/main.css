@@ -105,6 +105,8 @@ body {
     flex-direction: column;
     background-color: #f8f7f7;
     font-family: "National-LFSN-Book",Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.334
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-feature-settings: "pnum";
@@ -244,17 +246,12 @@ body>footer a:visited {
 }
 
 body>footer a:hover {
-    color: #cbc9cd
+    color: #f8f7f7
 }
 
 body>footer a:focus {
-    color: #373151;
+    color: #f8f7f7
     text-decoration: none
-}
-
-body {
-    font-size: 1.125rem;
-    line-height: 1.334
 }
 
 @media(min-width: 768px) {
