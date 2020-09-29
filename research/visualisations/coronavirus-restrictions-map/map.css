@@ -1,0 +1,169 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700';
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+html, body, #map {
+	height: 100%;
+}
+
+a:link, a:visited {
+    color: #006548;
+}
+
+a:hover, a:active {
+    color: #3f9d8a;
+}
+
+#infobox {
+    position: absolute;
+    margin: 0px;
+    padding: 10px;
+    width: 220px;
+    top: 10px;
+    left: 10px;
+    z-index: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11pt;
+    color: #333333;
+    background: #ffffff;
+    border-radius: 6px;
+	box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+}
+
+#infobox p {
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+#infobox p.header {
+    font-family: "National-LFSN-Semibold";
+    font-size: 14pt;
+    color: #006548;
+    margin-bottom: 8px;
+}
+
+#infobox button {
+    margin: 0;
+    padding: 0;
+    border: 0px;
+    background: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #006548;
+    cursor: pointer;
+}
+
+#infobox button:hover {
+    color: #3f9d8a;
+}
+
+#infobox a:link, a:visited {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#infobox a:hover, a:active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.leaflet-popup-content-wrapper {
+    border-radius: 6px;
+}
+
+.leaflet-popup-content {
+    margin: 6px 8px 6px 8px;
+	text-align: center;
+}
+
+.popupbox {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11pt;
+    text-align: left;
+}
+
+.popupbox p {
+    margin: 0;
+    padding: 0;
+}
+
+.popupbox p.header {
+    padding-right: 18px;
+    font-family: "National-LFSN-Semibold";
+    font-size: 14pt;
+}
+
+.popupbox p.intro {
+    padding: 8px 0 8px 0;
+}
+
+.popupbox svg {
+    vertical-align: middle;
+    margin-bottom: 0.3em;
+}
+
+.popupbox p.info {
+    padding: 8px 0 8px 0;
+}
+
+.popupbox a:link, a:visited {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.popupbox a:hover, a:active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.popupbox hr {
+    margin: 6px 0 4px 0;
+    padding: 0;
+    border: 0;
+    height: 1px;
+    background: #c0c0c0;
+}
+
+.popupbox a.green:link, a.green:visited {  
+    color: #006548;
+}
+
+.popupbox a.green:hover, a.green:active {
+    color: #3f9d8a;
+}
+
+.popupbox a.purple:link, a.purple:visited {  
+    color: #682f7f;
+}
+
+.popupbox a.purple:hover, a.purple:active {
+    color: #a37ec8;
+}
+
+.popupbox a.yellow:link, a.yellow:visited {  
+    color: #e09f00;
+}
+
+.popupbox a.yellow:hover, a.yellow:active {
+    color: #f5c54c;
+}
+
+.popupbox a.red:link, a.red:visited {  
+    color: #c23f18;
+}
+
+.popupbox a.red:hover, a.red:active {
+    color: #f56b42;
+}
+
+.leaflet-control-attribution a {
+    font-weight: normal;
+}
