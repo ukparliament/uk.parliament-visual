@@ -104,8 +104,14 @@ a:hover, a:active {
     font-size: 14pt;
 }
 
+.popupbox p.subheader {
+    padding-right: 18px;
+    font-family: "National-LFSN-Semibold";
+    font-size: 12pt;
+}
+
 .popupbox p.intro {
-    padding: 8px 0 8px 0;
+    padding: 8px 0 12px 0;
 }
 
 .popupbox svg {
