@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="An interactive map showing the restrictions in force in different parts of the UK to control the spread of the coronavirus." />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Coronavirus restrictions map</title>
+    <link href="mapbox-gl.css" rel='stylesheet' />
+    <link rel="stylesheet" href="map.css" />
+</head>
+<body>
+
+    <div id="map"></div>
+    <div id="infobox">
+        <noscript>
+            <p><strong>This page requires JavaScript to work correctly.</strong></p>
+        </noscript>
+        <h1>Coronavirus restrictions</h1>
+        <p><i>House of Commons Library<br>Last updated: 21 December<br>Next updated: January</i></p>
+        <p><i>Restrictions in <a href="https://www.gov.scot/publications/coronavirus-covid-19-protection-levels/">Scotland</a> and <a href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-regulations-guidance-what-restrictions-mean-you#toc-2">Northern Ireland</a> will change on 26 December.</i></p>
+        <p>This map shows the coronavirus restrictions currently in force across the UK.</p>
+        <p>Click on an area to see a summary of the restrictions and a link to further details.</p>
+        <p>You can find more information in our <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-8875/">research briefing</a>, or download the data as a <a href="commonslibrary-coronavirus-restrictions-data.csv">csv</a>. Past data can be downloaded as an <a href="https://data.parliament.uk/resources/constituencystatistics/commonslibrary-coronavirus-restrictions-archive.zip">archive</a>.</p>
+        <button id="showlessbutton" type="button">Show less</button>
+    </div>
+    <!-- Load the main bundles -->
+    <script src="index.min.js"></script>
+    <script src="https://visual.parliament.uk/research/visualisations/clcharts-d3/clcharts-d3-fonts/fonts.min.js"></script>
+
+</body>
+</html>
