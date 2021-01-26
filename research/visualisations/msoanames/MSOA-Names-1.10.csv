@@ -497,7 +497,7 @@ E02005340,Blaby 008,Blaby 008,Blaby Village,,Blaby
 E02005341,Blaby 009,Blaby 009,Whetstone,,Blaby
 E02005342,Blaby 010,Blaby 010,"Cosby, Croft & Elmesthorpe",,Blaby
 E02005343,Blaby 011,Blaby 011,Countesthorpe & Kilby,,Blaby
-E02005344,Blaby 012,Blaby 012,"Stoney Stanton, Sapcote & Sharnton",,Blaby
+E02005344,Blaby 012,Blaby 012,"Stoney Stanton, Sapcote & Sharnford",,Blaby
 E02006820,Blaby 013,Blaby 013,Glenfield,,Blaby
 E02002615,Blackburn with Darwen 001,Blackburn with Darwen 001,"Roe Lee, Brownhill & Sunnybower",,Blackburn with Darwen
 E02002616,Blackburn with Darwen 002,Blackburn with Darwen 002,Lammack & Revidge,,Blackburn with Darwen
@@ -576,7 +576,7 @@ E02001001,Bolton 018,Bolton 018,Heaton & Deane,,Bolton
 E02001002,Bolton 019,Bolton 019,Breightmet South & Darcy Lever,,Bolton
 E02001003,Bolton 020,Bolton 020,Lostock & Ladybridge,,Bolton
 E02001004,Bolton 021,Bolton 021,Rumworth North,,Bolton
-E02001005,Bolton 022,Bolton 022,Springfield & Great Lever,,Bolton
+E02001005,Bolton 022,Bolton 022,Burnden & Great Lever,,Bolton
 E02001006,Bolton 023,Bolton 023,Rumworth South,,Bolton
 E02001007,Bolton 024,Bolton 024,Little Lever,,Bolton
 E02001008,Bolton 025,Bolton 025,Lever Edge,,Bolton
@@ -1930,7 +1930,7 @@ E02002821,Derby 026,Derby 026,Allenton & Osmaston,,Derby
 E02002822,Derby 027,Derby 027,Sunny Hill,,Derby
 E02002823,Derby 028,Derby 028,Boulton,,Derby
 E02002824,Derby 029,Derby 029,Sinfin,,Derby
-E02002825,Derby 030,Derby 030,Chellsaton West & Shelton Lock,,Derby
+E02002825,Derby 030,Derby 030,Chellaston West & Shelton Lock,,Derby
 E02002826,Derby 031,Derby 031,Chellaston East,,Derby
 E02004068,Derbyshire Dales 001,Derbyshire Dales 001,"Hathersage, Bradwell & Tideswell",,Derbyshire Dales
 E02004069,Derbyshire Dales 002,Derbyshire Dales 002,"Bakewell North, Baslow & Calver",,Derbyshire Dales
@@ -1996,8 +1996,8 @@ E02005052,Dover 012,Dover 012,Dover East,,Dover
 E02005053,Dover 013,Dover 013,Dover West,,Dover
 E02005054,Dover 014,Dover 014,Elms Vale & Capel-le-Ferne,,Dover
 E02002000,Dudley 001,Dudley 001,Coseley Wallbrook,,Dudley
-E02002001,Dudley 002,Dudley 002,Sedgeley East,,Dudley
-E02002002,Dudley 003,Dudley 003,Sedgeley West,,Dudley
+E02002001,Dudley 002,Dudley 002,Sedgley East,,Dudley
+E02002002,Dudley 003,Dudley 003,Sedgley West,,Dudley
 E02002003,Dudley 004,Dudley 004,West Coseley,,Dudley
 E02002004,Dudley 005,Dudley 005,Woodsetton,,Dudley
 E02002005,Dudley 006,Dudley 006,Dudley Priory & Wrens Nest,,Dudley
@@ -2058,7 +2058,7 @@ E02000254,Ealing 017,Ealing 017,Southall North,,Ealing
 E02000255,Ealing 018,Ealing 018,Drayton Green & Cleveland,,Ealing
 E02000256,Ealing 019,Ealing 019,Ealing Broadway West,,Ealing
 E02000257,Ealing 020,Ealing 020,Ealing Broadway East,,Ealing
-E02000258,Ealing 021,Ealing 021,Acton Noel Road & Lunton Road,,Ealing
+E02000258,Ealing 021,Ealing 021,Acton Noel Road & Lynton Road,,Ealing
 E02000259,Ealing 022,Ealing 022,Brent Valley,,Ealing
 E02000260,Ealing 023,Ealing 023,Southall Park,,Ealing
 E02000261,Ealing 024,Ealing 024,East Acton,,Ealing
@@ -3200,7 +3200,7 @@ E02002678,Kingston upon Hull 027,Kingston upon Hull 027,Newington,,Kingston upon
 E02002679,Kingston upon Hull 028,Kingston upon Hull 028,East Ella,,Kingston upon Hull
 E02002680,Kingston upon Hull 029,Kingston upon Hull 029,Hull City Centre,,Kingston upon Hull
 E02002681,Kingston upon Hull 030,Kingston upon Hull 030,Boulevard & St Andrew's Quay,,Kingston upon Hull
-E02002682,Kingston upon Hull 031,Kingston upon Hull 031,Gypsyville,,Kingston upon Hull
+E02002682,Kingston upon Hull 031,Kingston upon Hull 031,Gipsyville,,Kingston upon Hull
 E02006813,Kingston upon Hull 033,Kingston upon Hull 033,Anlaby Park & Pickering,,Kingston upon Hull
 E02000598,Kingston upon Thames 001,Kingston upon Thames 001,Tudor Drive,,Kingston upon Thames
 E02000599,Kingston upon Thames 002,Kingston upon Thames 002,Kingston Vale & Coombe Hill,,Kingston upon Thames
@@ -3461,7 +3461,7 @@ E02006852,Leeds 109,Leeds 109,Far Headingley & Weetwood,,Leeds
 E02006861,Leeds 110,Leeds 110,Hyde Park Corner & Woodhouse Cliff,,Leeds
 E02006875,Leeds 111,Leeds 111,Leeds City Centre,,Leeds
 E02006876,Leeds 112,Leeds 112,"Leeds Dock, Hunslet & Stourton",,Leeds
-E02002827,Leicester 001,Leicester 001,Beamont Park,,Leicester
+E02002827,Leicester 001,Leicester 001,Beaumont Park,,Leicester
 E02002828,Leicester 002,Leicester 002,Rushey Mead North,,Leicester
 E02002829,Leicester 003,Leicester 003,Stocking Farm & Mowmacre,,Leicester
 E02002830,Leicester 004,Leicester 004,Bradgate Heights & Beaumont Leys,,Leicester
@@ -3806,8 +3806,8 @@ E02005395,Melton 005,Melton 005,Melton Mowbray South,,Melton
 E02005396,Melton 006,Melton 006,"Waltham, Wymondham & Great Dalby",,Melton
 E02006047,Mendip 001,Mendip 001,"Rode, Mells & Woodlands",,Mendip
 E02006048,Mendip 002,Mendip 002,"Stratton, Holcombe & Highbury",,Mendip
-E02006049,Mendip 003,Mendip 003,Frome North,,Mendip
-E02006050,Mendip 004,Mendip 004,Frome North,,Mendip
+E02006049,Mendip 003,Mendip 003,Frome North East,,Mendip
+E02006050,Mendip 004,Mendip 004,Frome North West,,Mendip
 E02006051,Mendip 005,Mendip 005,"Draycott, Westbury & Wookey",,Mendip
 E02006052,Mendip 006,Mendip 006,"Oakhill, Horrington & Chewton Mendip",,Mendip
 E02006053,Mendip 007,Mendip 007,Frome South & East,,Mendip
@@ -3871,7 +3871,7 @@ E02006267,Mid Suffolk 007,Mid Suffolk 007,"Debenham, Stonham & Coddenham",,Mid S
 E02006268,Mid Suffolk 008,Mid Suffolk 008,Stowmarket West,,Mid Suffolk
 E02006269,Mid Suffolk 009,Mid Suffolk 009,"Stowmarket Outer, Finborough & Battisford",,Mid Suffolk
 E02006270,Mid Suffolk 010,Mid Suffolk 010,Stowmarket East & Needham Market North,,Mid Suffolk
-E02006271,Mid Suffolk 011,Mid Suffolk 011,Needham Market South & Graeat Blakenham,,Mid Suffolk
+E02006271,Mid Suffolk 011,Mid Suffolk 011,Needham Market South & Great Blakenham,,Mid Suffolk
 E02006272,Mid Suffolk 012,Mid Suffolk 012,Claydon & Bramford,,Mid Suffolk
 E02006604,Mid Sussex 001,Mid Sussex 001,East Grinstead Central & North,,Mid Sussex
 E02006605,Mid Sussex 002,Mid Sussex 002,Copthorne & Turners Hill,,Mid Sussex
@@ -4011,7 +4011,7 @@ E02005893,Newark and Sherwood 001,Newark and Sherwood 001,Ollerton & Boughton,,N
 E02005894,Newark and Sherwood 002,Newark and Sherwood 002,Edwinstowe & Clipstone,,Newark and Sherwood
 E02005895,Newark and Sherwood 003,Newark and Sherwood 003,"Muskham, Sutton on Trent & Walesby",,Newark and Sherwood
 E02005896,Newark and Sherwood 004,Newark and Sherwood 004,"Winthorpe, Coddington & Collingham",,Newark and Sherwood
-E02005897,Newark and Sherwood 005,Newark and Sherwood 005,Blisthorpe & Farnsfield,,Newark and Sherwood
+E02005897,Newark and Sherwood 005,Newark and Sherwood 005,Bilsthorpe & Farnsfield,,Newark and Sherwood
 E02005898,Newark and Sherwood 006,Newark and Sherwood 006,Rainworth & Blidworth,,Newark and Sherwood
 E02005899,Newark and Sherwood 007,Newark and Sherwood 007,Newark North,,Newark and Sherwood
 E02005900,Newark and Sherwood 008,Newark and Sherwood 008,Southwell,,Newark and Sherwood
@@ -4229,8 +4229,8 @@ E02002766,North Lincolnshire 018,North Lincolnshire 018,Scunthorpe Bottesford,,N
 E02002767,North Lincolnshire 019,North Lincolnshire 019,Scunthorpe Yaddlethorpe,,North Lincolnshire
 E02002768,North Lincolnshire 020,North Lincolnshire 020,Epworth & Bracon,,North Lincolnshire
 E02002769,North Lincolnshire 021,North Lincolnshire 021,Messingham & Scawby,,North Lincolnshire
-E02002770,North Lincolnshire 022,North Lincolnshire 022,Kirkton & Hibaldstow,,North Lincolnshire
-E02002771,North Lincolnshire 023,North Lincolnshire 023,"Westwoodside, Haxley & Owston Ferry",,North Lincolnshire
+E02002770,North Lincolnshire 022,North Lincolnshire 022,Kirton in Lindsey & Hibaldstow,,North Lincolnshire
+E02002771,North Lincolnshire 023,North Lincolnshire 023,"Westwoodside, Haxey & Owston Ferry",,North Lincolnshire
 E02005570,North Norfolk 001,North Norfolk 001,Sheringham,,North Norfolk
 E02005571,North Norfolk 002,North Norfolk 002,Wells & Blakeney,,North Norfolk
 E02005572,North Norfolk 003,North Norfolk 003,Cromer,,North Norfolk
@@ -4857,7 +4857,7 @@ E02001132,Rochdale 001,Rochdale 001,Littleborough North & Calderbook,,Rochdale
 E02001133,Rochdale 002,Rochdale 002,Littleborough West & Wardle,,Rochdale
 E02001134,Rochdale 003,Rochdale 003,Littleborough South & Smithy Bridge,,Rochdale
 E02001135,Rochdale 004,Rochdale 004,Hurstead & Smallbridge,,Rochdale
-E02001136,Rochdale 005,Rochdale 005,"Healey, Skye & Shawclough",,Rochdale
+E02001136,Rochdale 005,Rochdale 005,"Healey, Syke & Shawclough",,Rochdale
 E02001137,Rochdale 006,Rochdale 006,Hooley Bridge & Norden West,,Rochdale
 E02001138,Rochdale 007,Rochdale 007,Norden East & Bagslate Moor,,Rochdale
 E02001139,Rochdale 008,Rochdale 008,Wardleworth & Newbold Brow,,Rochdale
@@ -5528,7 +5528,7 @@ E02006086,South Somerset 012,South Somerset 012,Yeovil Lufton & Hollands,,South 
 E02006087,South Somerset 013,South Somerset 013,Yeovil Larkhill,,South Somerset
 E02006088,South Somerset 014,South Somerset 014,Yeovil Milford Park,,South Somerset
 E02006089,South Somerset 015,South Somerset 015,Yeovil Town,,South Somerset
-E02006090,South Somerset 016,South Somerset 016,Yeovil Preston Plunkett,,South Somerset
+E02006090,South Somerset 016,South Somerset 016,Yeovil Preston Plucknett,,South Somerset
 E02006091,South Somerset 017,South Somerset 017,Ham Hill & Merriott,,South Somerset
 E02006092,South Somerset 018,South Somerset 018,Yeovil South,,South Somerset
 E02006093,South Somerset 019,South Somerset 019,Ilminster & Horton,,South Somerset
@@ -5709,7 +5709,7 @@ E02001408,St. Helens 003,St. Helens 003,Garswood,,St. Helens
 E02001409,St. Helens 004,St. Helens 004,Moss Bank,,St. Helens
 E02001410,St. Helens 005,St. Helens 005,Haydock East,,St. Helens
 E02001411,St. Helens 006,St. Helens 006,Haydock West,,St. Helens
-E02001412,St. Helens 007,St. Helens 007,Windle & Dunton's Green,,St. Helens
+E02001412,St. Helens 007,St. Helens 007,Windle & Denton's Green,,St. Helens
 E02001413,St. Helens 008,St. Helens 008,Blackbrook,,St. Helens
 E02001414,St. Helens 009,St. Helens 009,Eccleston,,St. Helens
 E02001415,St. Helens 010,St. Helens 010,Earlestown North,,St. Helens
@@ -5867,7 +5867,7 @@ E02002981,Stoke-on-Trent 031,Stoke-on-Trent 031,Meir South & Lightwood,,Stoke-on
 E02002982,Stoke-on-Trent 032,Stoke-on-Trent 032,Newstead & Blurton South,,Stoke-on-Trent
 E02002983,Stoke-on-Trent 033,Stoke-on-Trent 033,Meir Park,,Stoke-on-Trent
 E02002984,Stoke-on-Trent 034,Stoke-on-Trent 034,Trentham East,,Stoke-on-Trent
-E02006504,Stratford-on-Avon 001,Stratford-on-Avon 001,"Earlswood, Tamworth-in-Arden & Sambourne",,Stratford-on-Avon
+E02006504,Stratford-on-Avon 001,Stratford-on-Avon 001,"Earlswood, Tanworth-in-Arden & Sambourne",,Stratford-on-Avon
 E02006505,Stratford-on-Avon 002,Stratford-on-Avon 002,Henley-in-Arden & Claverdon,,Stratford-on-Avon
 E02006506,Stratford-on-Avon 003,Stratford-on-Avon 003,Studley,,Stratford-on-Avon
 E02006507,Stratford-on-Avon 004,Stratford-on-Avon 004,"Southam, Stockton & Napton",,Stratford-on-Avon
@@ -7030,7 +7030,7 @@ E02003457,Wokingham 019,Wokingham 019,Finchampstead,,Wokingham
 E02003458,Wokingham 020,Wokingham 020,Crowthorne North,,Wokingham
 E02002149,Wolverhampton 001,Wolverhampton 001,Bushbury,,Wolverhampton
 E02002150,Wolverhampton 002,Wolverhampton 002,Fordhouses,,Wolverhampton
-E02002151,Wolverhampton 003,Wolverhampton 003,Pendleford,,Wolverhampton
+E02002151,Wolverhampton 003,Wolverhampton 003,Pendeford,,Wolverhampton
 E02002152,Wolverhampton 004,Wolverhampton 004,Bushbury Hill,,Wolverhampton
 E02002153,Wolverhampton 005,Wolverhampton 005,Ashmore Park,,Wolverhampton
 E02002154,Wolverhampton 006,Wolverhampton 006,Oxley Park,,Wolverhampton
@@ -7156,7 +7156,7 @@ E02005323,Wyre 005,Wyre 005,Fleetwood South East,,Wyre
 E02005324,Wyre 006,Wyre 006,"Bonds, Bilsborrow & Wyresdale",,Wyre
 E02005325,Wyre 007,Wyre 007,Garstang & Catterall,,Wyre
 E02005326,Wyre 008,Wyre 008,Cleveleys West,,Wyre
-E02005327,Wyre 009,Wyre 009,"Pilling, Great Eccleston & Inksip",,Wyre
+E02005327,Wyre 009,Wyre 009,"Pilling, Great Eccleston & Inskip",,Wyre
 E02005328,Wyre 010,Wyre 010,Cleveleys East,,Wyre
 E02005329,Wyre 011,Wyre 011,Thornton West,,Wyre
 E02005330,Wyre 012,Wyre 012,Thornton East & Carleton West,,Wyre
