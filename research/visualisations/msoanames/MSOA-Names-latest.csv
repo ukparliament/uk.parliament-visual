@@ -782,7 +782,7 @@ W02000221,Bridgend 004,Pen-y-bont ar Ogwr 004,"Blaengarw, Pontycymer & Bettws","
 W02000222,Bridgend 005,Pen-y-bont ar Ogwr 005,"Maesteg West, Garth & Llangynwyd","Gorllewin Maesteg, Garth a Llangynwyd",Bridgend
 W02000223,Bridgend 006,Pen-y-bont ar Ogwr 006,Ynysawdre & Aberkenfig,Ynysawdre ac Abercynffig,Bridgend
 W02000224,Bridgend 007,Pen-y-bont ar Ogwr 007,"Sarn, Bryn-coch & Bryncethin","Sarn, Bryn-coch a Bryncethin",Bridgend
-W02000225,Bridgend 008,Pen-y-bont ar Ogwr 008,"Pyle, Kenfig Hill & Cefncribwr","Y Pîl, Mynydd Cynffig a Chefncribwr",Bridgend
+W02000225,Bridgend 008,Pen-y-bont ar Ogwr 008,"Pyle, Kenfig Hill & Cefncribwr","Y PÓl, Mynydd Cynffig a Chefncribwr",Bridgend
 W02000226,Bridgend 009,Pen-y-bont ar Ogwr 009,"Pen-prysg, Hendre & Felindre","Pen-prysg, Hendre a Felindre",Bridgend
 W02000227,Bridgend 010,Pen-y-bont ar Ogwr 010,Cornelly,Corneli,Bridgend
 W02000228,Bridgend 011,Pen-y-bont ar Ogwr 011,"Pen-dre, Litchard & Coity","Pen-dre, Llidiard a Choety",Bridgend
@@ -1180,11 +1180,11 @@ W02000401,Cardiff 035,Caerdydd 035,Victoria Park,Parc Victoria,Cardiff
 W02000402,Cardiff 036,Caerdydd 036,Adamsdown,Adamsdown,Cardiff
 W02000403,Cardiff 037,Caerdydd 037,Tremorfa & Pengam,Tremorfa a Phengam,Cardiff
 W02000404,Cardiff 038,Caerdydd 038,Splott,Y Sblot,Cardiff
-W02000405,Cardiff 039,Caerdydd 039,Ely East,Dwyrain Trelái,Cardiff
+W02000405,Cardiff 039,Caerdydd 039,Ely East,Dwyrain Trel·i,Cardiff
 W02000406,Cardiff 040,Caerdydd 040,Canton,Treganna,Cardiff
 W02000407,Cardiff 041,Caerdydd 041,Caerau East,Dwyrain Caerau,Cardiff
 W02000408,Cardiff 042,Caerdydd 042,South Riverside,De Glanyrafon,Cardiff
-W02000409,Cardiff 043,Caerdydd 043,Ely West,Gorllewin Trelái,Cardiff
+W02000409,Cardiff 043,Caerdydd 043,Ely West,Gorllewin Trel·i,Cardiff
 W02000410,Cardiff 044,Caerdydd 044,Grangetown North,Gogledd Grangetown,Cardiff
 W02000411,Cardiff 045,Caerdydd 045,Caerau West,Gorllewin Caerau,Cardiff
 W02000412,Cardiff 046,Caerdydd 046,Grangetown South,De Grangetown,Cardiff
@@ -1212,12 +1212,12 @@ W02000147,Carmarthenshire 006,Sir Gaerfyrddin 006,Carmarthen West & Cynwyl Elfed
 W02000148,Carmarthenshire 007,Sir Gaerfyrddin 007,Carmarthen North,Gogledd Caerfyrddin,Carmarthenshire
 W02000149,Carmarthenshire 008,Sir Gaerfyrddin 008,Carmarthen South & Llangynnwr,De Caerfyrddin a Llangynnwr,Carmarthenshire
 W02000151,Carmarthenshire 010,Sir Gaerfyrddin 010,"Brynaman, Y Garnant & Glanaman","Brynaman, Y Garnant a Glanaman",Carmarthenshire
-W02000152,Carmarthenshire 011,Sir Gaerfyrddin 011,Llandybie & Saron,Llandybïe a Saron,Carmarthenshire
+W02000152,Carmarthenshire 011,Sir Gaerfyrddin 011,Llandybie & Saron,LlandybÔe a Saron,Carmarthenshire
 W02000153,Carmarthenshire 012,Sir Gaerfyrddin 012,"Llanddarog, Llangyndeyrn & Ferryside","Llanddarog, Llangyndeyrn a Glanyfferi",Carmarthenshire
 W02000154,Carmarthenshire 013,Sir Gaerfyrddin 013,Ammanford & Betws,Rhydaman a Betws,Carmarthenshire
 W02000156,Carmarthenshire 015,Sir Gaerfyrddin 015,"Llan-non, Cross Hands & Pen-y-groes","Llan-non, Cross Hands a Phen-y-groes",Carmarthenshire
 W02000157,Carmarthenshire 016,Sir Gaerfyrddin 016,Glyn & Pontyberem,Glyn a Phontyberem,Carmarthenshire
-W02000158,Carmarthenshire 017,Sir Gaerfyrddin 017,Yr Hendy & Tŷ-croes,Yr Hendy a Thŷ-croes,Carmarthenshire
+W02000158,Carmarthenshire 017,Sir Gaerfyrddin 017,Yr Hendy & T?-croes,Yr Hendy a Th?-croes,Carmarthenshire
 W02000159,Carmarthenshire 018,Sir Gaerfyrddin 018,Cydweli & Trimsaran,Cydweli a Thrimsaran,Carmarthenshire
 W02000160,Carmarthenshire 019,Sir Gaerfyrddin 019,Swiss Valley & Llangennech,Dyffryn y Swistir a Llangennech,Carmarthenshire
 W02000161,Carmarthenshire 020,Sir Gaerfyrddin 020,Dafen & Felin-foel,Dafen a Felin-foel,Carmarthenshire
@@ -1246,7 +1246,7 @@ E02003601,Central Bedfordshire 003,Central Bedfordshire 003,Potton,,Central Bedf
 E02003602,Central Bedfordshire 004,Central Bedfordshire 004,"Blunham, Caldecote & Broom",,Central Bedfordshire
 E02003603,Central Bedfordshire 005,Central Bedfordshire 005,Biggleswade West,,Central Bedfordshire
 E02003604,Central Bedfordshire 006,Central Bedfordshire 006,Biggleswade East,,Central Bedfordshire
-E02003605,Central Bedfordshire 007,Central Bedfordshire 007,Cranfield & Apsley Guise,,Central Bedfordshire
+E02003605,Central Bedfordshire 007,Central Bedfordshire 007,Cranfield & Aspley Guise,,Central Bedfordshire
 E02003606,Central Bedfordshire 008,Central Bedfordshire 008,Houghton Conquest & Clophill,,Central Bedfordshire
 E02003607,Central Bedfordshire 009,Central Bedfordshire 009,"Marston Moretaine, Lidlington & Woburn",,Central Bedfordshire
 E02003608,Central Bedfordshire 010,Central Bedfordshire 010,Arlesey & Henlow,,Central Bedfordshire
@@ -1358,7 +1358,7 @@ E02005935,Cherwell 015,Cherwell 015,Bicester South,,Cherwell
 E02005936,Cherwell 016,Cherwell 016,"Islip, Arncott & Chesterton",,Cherwell
 E02005937,Cherwell 017,Cherwell 017,Kidlington North,,Cherwell
 E02005938,Cherwell 018,Cherwell 018,Kidlington South,,Cherwell
-E02005939,Cherwell 019,Cherwell 019,"Begbrooke, Yarnton & Water Eaton",,Cherwell
+E02005939,Cherwell 019,Cherwell 019,"Begbroke, Yarnton & Water Eaton",,Cherwell
 E02003853,Cheshire East 001,Cheshire East 001,Disley & Lyme Park,,Cheshire East
 E02003854,Cheshire East 002,Cheshire East 002,Poynton West,,Cheshire East
 E02003855,Cheshire East 003,Cheshire East 003,Poynton East,,Cheshire East
@@ -1650,7 +1650,7 @@ E02004619,Cotswold 005,Cotswold 005,"Northleach, Coln Valley & Ampneys",,Cotswol
 E02004620,Cotswold 006,Cotswold 006,Cirencester East & Stratton,,Cotswold
 E02004621,Cotswold 007,Cotswold 007,Cirencester Central,,Cotswold
 E02004622,Cotswold 008,Cotswold 008,Cirencester South,,Cotswold
-E02004623,Cotswold 009,Cotswold 009,Fairford & Lechdale,,Cotswold
+E02004623,Cotswold 009,Cotswold 009,Fairford & Lechlade,,Cotswold
 E02004624,Cotswold 010,Cotswold 010,Kemble & South Cerney,,Cotswold
 E02004625,Cotswold 011,Cotswold 011,Tetbury,,Cotswold
 E02004297,County Durham 001,County Durham 001,Burnopfield,,County Durham
@@ -1896,7 +1896,7 @@ W02000050,Denbighshire 009,Sir Ddinbych 009,Rhuddlan & Bodelwyddan,Rhuddlan a Bo
 W02000051,Denbighshire 010,Sir Ddinbych 010,St Asaph & Trefnant,Llanelwy a Threfnant,Denbighshire
 W02000052,Denbighshire 011,Sir Ddinbych 011,Denbigh West,Gorllewin Dinbych,Denbighshire
 W02000053,Denbighshire 012,Sir Ddinbych 012,Denbigh East & Pentre Llanrhaeadr,Dwyrain Dinbych a Phentre Llanrhaeadr,Denbighshire
-W02000054,Denbighshire 013,Sir Ddinbych 013,Llandyrnog & Llanarmon-yn-Iâl,Llandyrnog a Llanarmon-yn-Iâl,Denbighshire
+W02000054,Denbighshire 013,Sir Ddinbych 013,Llandyrnog & Llanarmon-yn-I‚l,Llandyrnog a Llanarmon-yn-I‚l,Denbighshire
 W02000055,Denbighshire 014,Sir Ddinbych 014,Ruthin,Rhuthun,Denbighshire
 W02000056,Denbighshire 015,Sir Ddinbych 015,"Corwen, Llanelidan & Efenechdyd","Corwen, Llanelidan ac Efenechdyd",Denbighshire
 W02000057,Denbighshire 016,Sir Ddinbych 016,Llangollen & Llandrillo,Llangollen a Llandrillo,Denbighshire
@@ -2420,14 +2420,14 @@ W02000066,Flintshire 009,Sir y Fflint 009,Shotton & Garden City,Shotton a Garden
 W02000067,Flintshire 010,Sir y Fflint 010,Connah's Quay South & Northop Hall,De Cei Connah a Phentre-moch,Flintshire
 W02000068,Flintshire 011,Sir y Fflint 011,Queensferry & Sandycroft,Queensferry a Sandycroft,Flintshire
 W02000069,Flintshire 012,Sir y Fflint 012,"Buckley North, Northop & Sychdyn","Gogledd Bwcle, Llaneurgain a Sychdyn",Flintshire
-W02000070,Flintshire 013,Sir y Fflint 013,Ewloe & Hawarden,Ewloe a Phenarlâg,Flintshire
+W02000070,Flintshire 013,Sir y Fflint 013,Ewloe & Hawarden,Ewloe a Phenarl‚g,Flintshire
 W02000071,Flintshire 014,Sir y Fflint 014,New Brighton & Mynyddisa,New Brighton a Mynyddisa,Flintshire
 W02000072,Flintshire 015,Sir y Fflint 015,Broughton & Saltney,Brychdyn a Saltney,Flintshire
 W02000073,Flintshire 016,Sir y Fflint 016,Mold,Yr Wyddgrug,Flintshire
 W02000074,Flintshire 017,Sir y Fflint 017,Buckley South,De Bwcle,Flintshire
 W02000075,Flintshire 018,Sir y Fflint 018,Pen-y-ffordd & Higher Kinnerton,Pen-y-ffordd a Higher Kinnerton,Flintshire
 W02000076,Flintshire 019,Sir y Fflint 019,"Leeswood, Treuddyn & Gwernaffield","Coed-llai, Treuddyn a'r Waun",Flintshire
-W02000077,Flintshire 020,Sir y Fflint 020,Hope,Yr Hôb,Flintshire
+W02000077,Flintshire 020,Sir y Fflint 020,Hope,Yr HÙb,Flintshire
 E02006238,Forest Heath 001,Forest Heath 001,Brandon,,Forest Heath
 E02006239,Forest Heath 002,Forest Heath 002,Lakenheath,,Forest Heath
 E02006240,Forest Heath 003,Forest Heath 003,"Beck Row, Eriswell & Barton Mills",,Forest Heath
@@ -3068,15 +3068,15 @@ E02006257,Ipswich 013,Ipswich 013,Belstead Hills,,Ipswich
 E02006258,Ipswich 014,Ipswich 014,Priory Heath,,Ipswich
 E02006259,Ipswich 015,Ipswich 015,Stoke Park,,Ipswich
 E02006260,Ipswich 016,Ipswich 016,"Gainsborough, Greenwich & Orwell",,Ipswich
-W02000001,Isle of Anglesey 001,Ynys Môn 001,Amlwch & Llannerch-y-medd,Amlwch a Llannerch-y-medd,Isle of Anglesey
-W02000002,Isle of Anglesey 002,Ynys Môn 002,"Rhos-y-bol, Marian-glas & Moelfre","Rhos-y-bol, Marian-glas a Moelfre",Isle of Anglesey
-W02000003,Isle of Anglesey 003,Ynys Môn 003,Holyhead,Caergybi,Isle of Anglesey
-W02000004,Isle of Anglesey 004,Ynys Môn 004,Llain-goch & Valley,Llain-goch a'r Fali,Isle of Anglesey
-W02000005,Isle of Anglesey 005,Ynys Môn 005,Beaumaris & Benllech,Biwmares a Benllech,Isle of Anglesey
-W02000006,Isle of Anglesey 006,Ynys Môn 006,Llangefni,Llangefni,Isle of Anglesey
-W02000007,Isle of Anglesey 007,Ynys Môn 007,Bodedern & Rhosneigr,Bodedern a Rhosneigr,Isle of Anglesey
-W02000008,Isle of Anglesey 008,Ynys Môn 008,Llanfair Pwllgwyngyll & Menai Bridge,Llanfair Pwllgwyngyll a Phorthaethwy,Isle of Anglesey
-W02000009,Isle of Anglesey 009,Ynys Môn 009,Newborough,Niwbwrch,Isle of Anglesey
+W02000001,Isle of Anglesey 001,Ynys MÙn 001,Amlwch & Llannerch-y-medd,Amlwch a Llannerch-y-medd,Isle of Anglesey
+W02000002,Isle of Anglesey 002,Ynys MÙn 002,"Rhos-y-bol, Marian-glas & Moelfre","Rhos-y-bol, Marian-glas a Moelfre",Isle of Anglesey
+W02000003,Isle of Anglesey 003,Ynys MÙn 003,Holyhead,Caergybi,Isle of Anglesey
+W02000004,Isle of Anglesey 004,Ynys MÙn 004,Llain-goch & Valley,Llain-goch a'r Fali,Isle of Anglesey
+W02000005,Isle of Anglesey 005,Ynys MÙn 005,Beaumaris & Benllech,Biwmares a Benllech,Isle of Anglesey
+W02000006,Isle of Anglesey 006,Ynys MÙn 006,Llangefni,Llangefni,Isle of Anglesey
+W02000007,Isle of Anglesey 007,Ynys MÙn 007,Bodedern & Rhosneigr,Bodedern a Rhosneigr,Isle of Anglesey
+W02000008,Isle of Anglesey 008,Ynys MÙn 008,Llanfair Pwllgwyngyll & Menai Bridge,Llanfair Pwllgwyngyll a Phorthaethwy,Isle of Anglesey
+W02000009,Isle of Anglesey 009,Ynys MÙn 009,Newborough,Niwbwrch,Isle of Anglesey
 E02003581,Isle of Wight 001,Isle of Wight 001,Cowes Central,,Isle of Wight
 E02003582,Isle of Wight 002,Isle of Wight 002,"Cowes West, Gurnard & Northwood",,Isle of Wight
 E02003583,Isle of Wight 003,Isle of Wight 003,East Cowes & Osborne,,Isle of Wight
@@ -3320,7 +3320,7 @@ E02000634,Lambeth 017,Lambeth 017,Clapham Common North,,Lambeth
 E02000635,Lambeth 018,Lambeth 018,Poets' Corner & Brockwell Park,,Lambeth
 E02000636,Lambeth 019,Lambeth 019,Clapham South,,Lambeth
 E02000637,Lambeth 020,Lambeth 020,Brixton Hill East,,Lambeth
-E02000638,Lambeth 021,Lambeth 021,Brixton Hilll West,,Lambeth
+E02000638,Lambeth 021,Lambeth 021,Brixton Hill West,,Lambeth
 E02000639,Lambeth 022,Lambeth 022,Clapham Park East & Streatham Hill North,,Lambeth
 E02000640,Lambeth 023,Lambeth 023,Clapham Park West,,Lambeth
 E02000641,Lambeth 024,Lambeth 024,Tulse Hill,,Lambeth
@@ -4110,7 +4110,7 @@ W02000351,Newport 005,Casnewydd 005,Beechwood,Beechwood,Newport
 W02000352,Newport 006,Casnewydd 006,Shaftesbury & Crindai,Shaftesbury a Chrindai,Newport
 W02000353,Newport 007,Casnewydd 007,St Julians & Barnardtown,Sain Silian a Barnardtown,Newport
 W02000354,Newport 008,Casnewydd 008,Lawrence Hill,Lawrence Hill,Newport
-W02000355,Newport 009,Casnewydd 009,Rogerstone,Tŷ-du,Newport
+W02000355,Newport 009,Casnewydd 009,Rogerstone,T?-du,Newport
 W02000356,Newport 010,Casnewydd 010,Ringland,Ringland,Newport
 W02000357,Newport 011,Casnewydd 011,Maendy,Maendy,Newport
 W02000358,Newport 012,Casnewydd 012,Ridgeway & Glasllwch,Ridgeway a Glasllwch,Newport
@@ -4531,9 +4531,9 @@ W02000135,Pembrokeshire 010,Sir Benfro 010,Milford Haven East,Dwyrain Aberdaugle
 W02000136,Pembrokeshire 011,Sir Benfro 011,Saundersfoot,Saundersfoot,Pembrokeshire
 W02000137,Pembrokeshire 012,Sir Benfro 012,Milford Haven West,Gorllewin Aberdaugleddau,Pembrokeshire
 W02000138,Pembrokeshire 013,Sir Benfro 013,Pembroke Dock,Doc Penfro,Pembrokeshire
-W02000139,Pembrokeshire 014,Sir Benfro 014,Pembroke East & Manorbier,Dwyrain Penfro a Maenorbŷr,Pembrokeshire
+W02000139,Pembrokeshire 014,Sir Benfro 014,Pembroke East & Manorbier,Dwyrain Penfro a Maenorb?r,Pembrokeshire
 W02000140,Pembrokeshire 015,Sir Benfro 015,Pembroke West & Castlemartin,Gorllewin Penfro a Chastellmartin,Pembrokeshire
-W02000141,Pembrokeshire 016,Sir Benfro 016,Tenby & Caldey,Dinbych-y-pysgod ac Ynys Bŷr,Pembrokeshire
+W02000141,Pembrokeshire 016,Sir Benfro 016,Tenby & Caldey,Dinbych-y-pysgod ac Ynys B?r,Pembrokeshire
 E02005240,Pendle 001,Pendle 001,Barnoldswick North,,Pendle
 E02005241,Pendle 002,Pendle 002,Barnoldswick South,,Pendle
 E02005242,Pendle 003,Pendle 003,Earby & Salterforth,,Pendle
@@ -4649,7 +4649,7 @@ W02000098,Powys 002,Powys 002,Four Crosses & Guilsfield,Llandysilio a Cegidfa,Po
 W02000099,Powys 003,Powys 003,Welshpool,Y Trallwng,Powys
 W02000100,Powys 004,Powys 004,Machynlleth & Banwy,Machynlleth a Banwy,Powys
 W02000101,Powys 005,Powys 005,"Montgomery, Trewern & Berriew","Trefaldwyn, Tre-wern ac Aberriw",Powys
-W02000102,Powys 006,Powys 006,Llanfair Caereinion & Caersws,Llanfair Caereinion a Chaersŵs,Powys
+W02000102,Powys 006,Powys 006,Llanfair Caereinion & Caersws,Llanfair Caereinion a Chaers?s,Powys
 W02000103,Powys 007,Powys 007,"Abermule, Churchstoke & Kerry","Aber-miwl, Ystog a Ceri",Powys
 W02000104,Powys 008,Powys 008,Newtown North,Gogledd-ddwyrain y Drenewydd,Powys
 W02000105,Powys 009,Powys 009,Newtown South,De-orllewin y Drenewydd,Powys
@@ -4786,9 +4786,9 @@ E02006390,Reigate and Banstead 016,Reigate and Banstead 016,Horley West,,Reigate
 E02006391,Reigate and Banstead 017,Reigate and Banstead 017,Horley East,,Reigate and Banstead
 E02006392,Reigate and Banstead 018,Reigate and Banstead 018,Horley Central,,Reigate and Banstead
 W02000252,Rhondda Cynon Taf 001,Rhondda Cynon Taf 001,Hirwaun & Rhigos,Hirwaun a'r Rhigos,Rhondda Cynon Taf
-W02000253,Rhondda Cynon Taf 002,Rhondda Cynon Taf 002,Aberdare North & Llwydcoed,Gogledd Aberdâr a Llwydcoed,Rhondda Cynon Taf
-W02000254,Rhondda Cynon Taf 003,Rhondda Cynon Taf 003,Aberdare West,Gorllewin Aberdâr,Rhondda Cynon Taf
-W02000255,Rhondda Cynon Taf 004,Rhondda Cynon Taf 004,Aberdare East & Cwm-bach,Dwyrain Aberdâr a Chwm-bach,Rhondda Cynon Taf
+W02000253,Rhondda Cynon Taf 002,Rhondda Cynon Taf 002,Aberdare North & Llwydcoed,Gogledd Aberd‚r a Llwydcoed,Rhondda Cynon Taf
+W02000254,Rhondda Cynon Taf 003,Rhondda Cynon Taf 003,Aberdare West,Gorllewin Aberd‚r,Rhondda Cynon Taf
+W02000255,Rhondda Cynon Taf 004,Rhondda Cynon Taf 004,Aberdare East & Cwm-bach,Dwyrain Aberd‚r a Chwm-bach,Rhondda Cynon Taf
 W02000256,Rhondda Cynon Taf 005,Rhondda Cynon Taf 005,Aberaman,Aberaman,Rhondda Cynon Taf
 W02000257,Rhondda Cynon Taf 006,Rhondda Cynon Taf 006,Mountain Ash,Aberpennar,Rhondda Cynon Taf
 W02000258,Rhondda Cynon Taf 007,Rhondda Cynon Taf 007,Treherbert,Treherbert,Rhondda Cynon Taf
@@ -6012,25 +6012,25 @@ W02000175,Swansea 008,Abertawe 008,Morriston South,De Treforys,Swansea
 W02000176,Swansea 009,Abertawe 009,Mynydd-bach,Mynydd-bach,Swansea
 W02000177,Swansea 010,Abertawe 010,Llansamlet,Llansamlet,Swansea
 W02000178,Swansea 011,Abertawe 011,Penderry,Penderi,Swansea
-W02000179,Swansea 012,Abertawe 012,Gowerton,Tregŵyr,Swansea
+W02000179,Swansea 012,Abertawe 012,Gowerton,Treg?yr,Swansea
 W02000180,Swansea 013,Abertawe 013,Ravenhill,Ravenhill,Swansea
-W02000181,Swansea 014,Abertawe 014,Bon-y-maen,Bôn-y-maen,Swansea
+W02000181,Swansea 014,Abertawe 014,Bon-y-maen,BÙn-y-maen,Swansea
 W02000182,Swansea 015,Abertawe 015,Cwmbwrla,Cwmbwrla,Swansea
-W02000183,Swansea 016,Abertawe 016,Landore,Glandŵr,Swansea
+W02000183,Swansea 016,Abertawe 016,Landore,Gland?r,Swansea
 W02000184,Swansea 017,Abertawe 017,Cockett,Y Cocyd,Swansea
 W02000185,Swansea 018,Abertawe 018,Llanmorlais & Three Crosses,Llanmorlais a'r Crwys,Swansea
 W02000186,Swansea 019,Abertawe 019,Townhill,Townhill,Swansea
-W02000187,Swansea 020,Abertawe 020,Dunvant & Upper Killay,Dynfant a Chilâ Uchaf,Swansea
+W02000187,Swansea 020,Abertawe 020,Dunvant & Upper Killay,Dynfant a Chil‚ Uchaf,Swansea
 W02000188,Swansea 021,Abertawe 021,St Thomas,St Thomas,Swansea
-W02000189,Swansea 022,Abertawe 022,Ty-coch,Tŷ-coch,Swansea
-W02000190,Swansea 023,Abertawe 023,Killay,Cilâ,Swansea
+W02000189,Swansea 022,Abertawe 022,Ty-coch,T?-coch,Swansea
+W02000190,Swansea 023,Abertawe 023,Killay,Cil‚,Swansea
 W02000191,Swansea 024,Abertawe 024,Uplands,Uplands,Swansea
 W02000192,Swansea 025,Abertawe 025,Central Swansea,Canol Abertawe,Swansea
 W02000193,Swansea 026,Abertawe 026,Brynmill,Brynmill,Swansea
 W02000194,Swansea 027,Abertawe 027,Sketty,Sgeti,Swansea
 W02000195,Swansea 028,Abertawe 028,Mayals & Bishopston,Mayals a Llandeilo Ferwallt,Swansea
 W02000196,Swansea 029,Abertawe 029,West Cross,West Cross,Swansea
-W02000197,Swansea 030,Abertawe 030,West Gower,Gorllewin Gŵyr,Swansea
+W02000197,Swansea 030,Abertawe 030,West Gower,Gorllewin G?yr,Swansea
 W02000198,Swansea 031,Abertawe 031,Mumbles & Newton,Mwmbwls a Newton,Swansea
 E02003212,Swindon 001,Swindon 001,Highworth,,Swindon
 E02003214,Swindon 003,Swindon 003,Penhill,,Swindon
@@ -6225,9 +6225,9 @@ E02005145,Thanet 014,Thanet 014,Minster & St-Nicholas-at-Wade,,Thanet
 E02005146,Thanet 015,Thanet 015,Ramsgate Ellington,,Thanet
 E02005147,Thanet 016,Thanet 016,Ramsgate Harbour,,Thanet
 E02005148,Thanet 017,Thanet 017,"Nethercourt, Pegwell & Cliffsend",,Thanet
-W02000237,The Vale of Glamorgan 001,Bro Morgannwg 001,Ogmore-by-Sea & Llandow,Ogwr a Llandŵ,The Vale of Glamorgan
+W02000237,The Vale of Glamorgan 001,Bro Morgannwg 001,Ogmore-by-Sea & Llandow,Ogwr a Lland?,The Vale of Glamorgan
 W02000238,The Vale of Glamorgan 002,Bro Morgannwg 002,Cowbridge,Y Bont-faen,The Vale of Glamorgan
-W02000239,The Vale of Glamorgan 003,Bro Morgannwg 003,Peterston-super-Ely & Wenvoe,Llanbedr-y-fro a Gwenfô,The Vale of Glamorgan
+W02000239,The Vale of Glamorgan 003,Bro Morgannwg 003,Peterston-super-Ely & Wenvoe,Llanbedr-y-fro a GwenfÙ,The Vale of Glamorgan
 W02000240,The Vale of Glamorgan 004,Bro Morgannwg 004,Llandough & Cogan,Llandochau a Cogan,The Vale of Glamorgan
 W02000241,The Vale of Glamorgan 005,Bro Morgannwg 005,Penarth,Penarth,The Vale of Glamorgan
 W02000242,The Vale of Glamorgan 006,Bro Morgannwg 006,Dinas Powys,Dinas Powys,The Vale of Glamorgan
@@ -6304,13 +6304,13 @@ E02006840,Torbay 019,Torbay 019,"Chelston, Cockington & Livermead",,Torbay
 W02000323,Torfaen 001,Tor-faen 001,Blaenavon,Blaenafon,Torfaen
 W02000324,Torfaen 002,Tor-faen 002,Abersychan,Abersychan,Torfaen
 W02000325,Torfaen 003,Tor-faen 003,Trefethin & Pen-y-garn,Trefddyn a Phen-y-garn,Torfaen
-W02000326,Torfaen 004,Tor-faen 004,Pontypool,Pont-y-pŵl,Torfaen
+W02000326,Torfaen 004,Tor-faen 004,Pontypool,Pont-y-p?l,Torfaen
 W02000327,Torfaen 005,Tor-faen 005,New Inn,Y Dafarn Newydd,Torfaen
 W02000328,Torfaen 006,Tor-faen 006,Griffithstown & Sebastopol,Griffithstown a Sebastopol,Torfaen
-W02000329,Torfaen 007,Tor-faen 007,Pontnewydd & Upper Cwmbran,Pontnewydd a Chwmbrân Uchaf,Torfaen
+W02000329,Torfaen 007,Tor-faen 007,Pontnewydd & Upper Cwmbran,Pontnewydd a Chwmbr‚n Uchaf,Torfaen
 W02000330,Torfaen 008,Tor-faen 008,Croesyceiliog,Croesyceiliog,Torfaen
 W02000331,Torfaen 009,Tor-faen 009,West Pontnewydd & Thornhill,Gorllewin Pontnewydd a Thornhill,Torfaen
-W02000332,Torfaen 010,Tor-faen 010,Cwmbran,Cwmbrân,Torfaen
+W02000332,Torfaen 010,Tor-faen 010,Cwmbran,Cwmbr‚n,Torfaen
 W02000333,Torfaen 011,Tor-faen 011,Fairwater & Greenmeadow,Fairwater a Greenmeadow,Torfaen
 W02000334,Torfaen 012,Tor-faen 012,Hollybush & Henllys,Hollybush a Henllys,Torfaen
 W02000335,Torfaen 013,Tor-faen 013,Llantarnam & Oakfield,Llantarnam ac Oakfield,Torfaen
