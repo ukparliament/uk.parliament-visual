@@ -1,0 +1,226 @@
+Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
+,Public Services,Health,Day-to-day Spending,NHS Providers,86000,b,,,,86000
+,Public Services,Health,Day-to-day Spending,NHS Commissioning Board,32592.834,b,,,,32592.834
+,Public Services,Health,Day-to-day Spending,Central Administration,23278.677,b,,,,23278.677
+,Public Services,Health,Day-to-day Spending,Local Authorities Health,3526.5,b,,,,3526.5
+,Public Services,Health,Day-to-day Spending,Arm's Length and other Bodies,3386.2,b,,,,3386.2
+,Public Services,Health,Day-to-day Spending,Special Health Authorities,2808.574,b,,,,2808.574
+,Public Services,Health,Day-to-day Spending,Health Education England,1568.119,b,,,,1568.119
+,Public Services,Health,Day-to-day Spending,Public Health England,872.506,b,,,,872.506
+,Public Services,Health,Day-to-day Spending,Non Departmental Public Bodies,337.96,b,,,,337.96
+,Public Services,Health,Investment,NHS Providers,5921,b,,,,5921
+,Public Services,Health,Investment,Central Administration,1822.154,b,,,,1822.154
+,Public Services,Health,Investment,NHS Commissioning Board,300.654,b,,,,300.654
+,Public Services,Health,Investment,Arm's Length and other Bodies,225.005,b,,,,225.005
+,Public Services,Health,Investment,Public Health England,179,b,,,,179
+,Public Services,Health,Investment,Special Health Authorities,59.312,b,,,,59.312
+,Public Services,Health,Investment,Non Departmental Public Bodies,20.465,b,,,,20.465
+,Public Services,Health,Investment,Health Education England,2,b,,,,2
+,Public Services,Education,Day-to-day Spending,Grants to local authority schools,31191.939,b,,,,31191.939
+,Public Services,Education,Day-to-day Spending,Grants to academies,26580.487,b,,,,26580.487
+,Public Services,Education,Day-to-day Spending,Higher education,19881.732,b,,,,19881.732
+,Public Services,Education,Day-to-day Spending,Further education,5823.672,b,,,,5823.672
+,Public Services,Education,Day-to-day Spending,Education & Skills Funding Agency,2663.702,b,,,,2663.702
+,Public Services,Education,Day-to-day Spending,Early years and schools,2125.074,b,,,,2125.074
+,Public Services,Education,Day-to-day Spending,Administration & central functions,465.525,b,,,,465.525
+,Public Services,Education,Day-to-day Spending,"Social care, mobility and disadvantage",424.374,b,,,,424.374
+,Public Services,Education,Day-to-day Spending,Standards and testing ,35.314,b,,,,35.314
+,Public Services,Education,Day-to-day Spending,Teaching regulation,9.33,b,,,,9.33
+,Public Services,Education,Investment,Grants to local authority schools,1991.969,b,,,,1991.969
+,Public Services,Education,Investment,Early years and schools,1665.057,b,,,,1665.057
+,Public Services,Education,Investment,Grants to academies,1097.3,b,,,,1097.3
+,Public Services,Education,Investment,Further education,319.769,b,,,,319.769
+,Public Services,Education,Investment,Higher education,246.648,b,,,,246.648
+,Public Services,Education,Investment,Education & Skills Funding Agency,191.134,b,,,,191.134
+,Public Services,Education,Investment,Administration & central functions,69.503,b,,,,69.503
+,Public Services,Education,Investment,"Social care, mobility and disadvantage",32.67,b,,,,32.67
+,Public Services,Education,Investment,Standards and testing ,0.85,b,,,,0.85
+,Public Services,Local Government grants,Day-to-day Spending,Business Rate Retention (net),13233.938,b,,,,13233.938
+,Public Services,Local Government grants,Day-to-day Spending,Revenue Support Grant,1621.562,b,,,,1621.562
+,Public Services,Local Government grants,Day-to-day Spending,Other Grants & Payments,15810.687,b,,,,15810.687
+,Public Services,Housing & Communities,Day-to-day Spending,Housing and Planning,1880.486,b,,,,1880.486
+,Public Services,Housing & Communities,Day-to-day Spending,Decentralisation and local Growth,500.276,b,,,,500.276
+,Public Services,Housing & Communities,Day-to-day Spending,"Staff, Building, Infrastructure & Other costs",239.889,b,,,,239.889
+,Public Services,Housing & Communities,Day-to-day Spending,Local Government & Public Services,191.392,b,,,,191.392
+,Public Services,Housing & Communities,Day-to-day Spending,Troubled Families,165,b,,,,165
+,Public Services,Housing & Communities,Day-to-day Spending,"Research, Data and Trading Funds",12.171,b,,,,12.171
+,Public Services,Housing & Communities,Investment,Housing and Planning,7188.016,b,,,,7188.016
+,Public Services,Housing & Communities,Investment,Decentralisation and local growth,1484.555,b,,,,1484.555
+,Public Services,Housing & Communities,Investment,Local Government & Public Services,124.524,b,,,,124.524
+,Public Services,Housing & Communities,Investment,"Staff, Building, Infrastructure & Other costs",16.8,b,,,,16.8
+,Public Services,Housing & Communities,Investment,"Research, Data and Trading Funds",8.3,b,,,,8.3
+,Public Services,Digital Culture Media & Sport,Day-to-day Spending,Arts and Heritage,631.4,b,,,,631.4
+,Public Services,Digital Culture Media & Sport,Day-to-day Spending,Museums Galleries and Libraries,553,b,,,,553
+,Public Services,Digital Culture Media & Sport,Day-to-day Spending,Sports,323.4,b,,,,323.4
+,Public Services,Digital Culture Media & Sport,Day-to-day Spending,Broadcasting and Media,162.2,b,,,,162.2
+,Public Services,Digital Culture Media & Sport,Day-to-day Spending,Civil Society,102.1,b,,,,102.1
+,Public Services,Digital Culture Media & Sport,Day-to-day Spending,Other (inc Tourism),239.4,b,,,,239.4
+,Public Services,Digital Culture Media & Sport,Investment,Broadcasting and Media,390.3,b,,,,390.3
+,Public Services,Digital Culture Media & Sport,Investment,Sports,215.2,b,,,,215.2
+,Public Services,Digital Culture Media & Sport,Investment,Arts and Heritage,183.7,b,,,,183.7
+,Public Services,Digital Culture Media & Sport,Investment,Museums Galleries and Libraries,117.5,b,,,,117.5
+,Public Services,Digital Culture Media & Sport,Investment,Civil Society,30,b,,,,30
+,Public Services,Digital Culture Media & Sport,Investment,Other (inc Tourism),81.8,b,,,,81.8
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Pensions and pension credit,"110,603",b,,,,"110,603"
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Working age and other benefits,"64,625",b,,,,"64,625"
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Disability & incapacity benefits,"43,087",b,,,,"43,087"
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Delivery and operations,"7,808",b,,,,"7,808"
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Other,"1,058",b,,,,"1,058"
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Employment programmes,290,b,,,,290
+,Benefits & Pensions,Work & Pensions,Day-to-day Spending,Support for local authorities,256,b,,,,256
+,Benefits & Pensions,Work & Pensions,Investment,Delivery and operations,271,b,,,,271
+,Benefits & Pensions,Work & Pensions,Investment,Other,190,b,,,,190
+,Benefits & Pensions,HMRC,Day-to-day Spending,Covid-19,19922,b,,,,19922
+,Benefits & Pensions,HMRC,Day-to-day Spending,Personal tax credits,13214.009,b,,,,13214.009
+,Benefits & Pensions,HMRC,Day-to-day Spending,Child Benefit,11932.223,b,,,,11932.223
+,Benefits & Pensions,HMRC,Day-to-day Spending,Other reliefs and allowances,11727.465,b,,,,11727.465
+,Benefits & Pensions,HMRC,Day-to-day Spending,HMRC Administration,4877.631,b,,,,4877.631
+,Benefits & Pensions,HMRC,Day-to-day Spending,Lifetime ISA,512.5,b,,,,512.5
+,Benefits & Pensions,HMRC,Day-to-day Spending,Tax free childcare,399.98,b,,,,399.98
+,Benefits & Pensions,HMRC,Day-to-day Spending,National Insurance Fund,252,b,,,,252
+,Benefits & Pensions,HMRC,Day-to-day Spending,Valuation Office Agency Administration,180.29,b,,,,180.29
+,Benefits & Pensions,HMRC,Day-to-day Spending,Providing payments in lieu of tax relief,120.061,b,,,,120.061
+,Benefits & Pensions,HMRC,Day-to-day Spending,Payment of rates to Local Authorities,88,b,,,,88
+,Benefits & Pensions,HMRC,Day-to-day Spending,Help to Save,29.725,b,,,,29.725
+,Benefits & Pensions,HMRC,Investment,HMRC Administration,634.712,b,,,,634.712
+,Benefits & Pensions,HMRC,Investment,Valuation Office Agency Administration,24.42,b,,,,24.42
+,Intl relations & Defence,Defence,Day-to-day Spending,Equipment and Infrastructure,14577.296,b,,,,14577.296
+,Intl relations & Defence,Defence,Day-to-day Spending,Service Personnel,11555.008,b,,,,11555.008
+,Intl relations & Defence,Defence,Day-to-day Spending,Civilian Personnel,2566.41,b,,,,2566.41
+,Intl relations & Defence,Defence,Day-to-day Spending,Administration Costs,702.919,b,,,,702.919
+,Intl relations & Defence,Defence,Day-to-day Spending,Operations Costs,282,b,,,,282
+,Intl relations & Defence,Defence,Day-to-day Spending,Research and Development,195,b,,,,195
+,Intl relations & Defence,Defence,Day-to-day Spending,Other,12064.75,b,,,,12064.75
+,Intl relations & Defence,Defence,Investment,Single Use Military Equipment,9681.026,b,,,,9681.026
+,Intl relations & Defence,Defence,Investment,Other Capital & Estate (net),3625.325,b,,,,3625.325
+,Intl relations & Defence,Defence,Investment,Research and Development,961,b,,,,961
+,Intl relations & Defence,Defence,Investment,Operations Costs,18,b,,,,18
+,Intl relations & Defence,Defence,Investment,Other,47.313,b,,,,47.313
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,Strategic priorities/other programme,3963.947,b,,,,3963.947
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,"Operating costs, diplomacy and networks",1651.742,b,,,,1651.742
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,"Conflict, Stability and Security Fund",720.585,b,,,,720.585
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,EU attributed aid,608,b,,,,608
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,"Subscriptions, scholarships and BBC",258.73,b,,,,258.73
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,British Council,189,b,,,,189
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,Funding for NDPBs ,40.177,b,,,,40.177
+,Intl relations & Defence,Foreign Affairs and International Developent,Day-to-day Spending,Other central programmes,181.043,b,,,,181.043
+,Intl relations & Defence,Foreign Affairs and International Developent,Investment,Strategic priorities/other programme,1759.514,b,,,,1759.514
+,Intl relations & Defence,Foreign Affairs and International Developent,Investment,Investment in the CDC,646,b,,,,646
+,Intl relations & Defence,Foreign Affairs and International Developent,Investment,"Operating costs, diplomacy and networks",108.526,b,,,,108.526
+,Intl relations & Defence,Foreign Affairs and International Developent,Investment,British Council,70,b,,,,70
+,Intl relations & Defence,International Trade,Day-to-day Spending,Operating and Programme costs,506.675,b,,,,506.675
+,Intl relations & Defence,International Trade,Day-to-day Spending,Trade Remedies Authority,14.579,b,,,,14.579
+,Intl relations & Defence,International Trade,Investment,Operating and Programme costs,154.626,b,,,,154.626
+,Infrastructure & Investment,Transport,Day-to-day Spending,Railways (net),15067.886,b,,,,15067.886
+,Infrastructure & Investment,Transport,Day-to-day Spending,Roads (net),2600.965,b,,,,2600.965
+,Infrastructure & Investment,Transport,Day-to-day Spending,Buses,574.209,b,,,,574.209
+,Infrastructure & Investment,Transport,Day-to-day Spending,Central administration & ALBs,521.92,b,,,,521.92
+,Infrastructure & Investment,Transport,Day-to-day Spending,"Aviation, maritime and security (net)",520.268,b,,,,520.268
+,Infrastructure & Investment,Transport,Day-to-day Spending,Greater London Authority transport grant,500,b,,,,500
+,Infrastructure & Investment,Transport,Day-to-day Spending,Local Authority Transport,380.921,b,,,,380.921
+,Infrastructure & Investment,Transport,Day-to-day Spending,High Speed Two,224.536,b,,,,224.536
+,Infrastructure & Investment,Transport,Day-to-day Spending,Sustainable Travel,143.937,b,,,,143.937
+,Infrastructure & Investment,Transport,Day-to-day Spending,Transport Development Fund,50,b,,,,50
+,Infrastructure & Investment,Transport,Day-to-day Spending,Research and support,26.797,b,,,,26.797
+,Infrastructure & Investment,Transport,Investment,Railways (net),6537.344,b,,,,6537.344
+,Infrastructure & Investment,Transport,Investment,High Speed Two,5161.506,b,,,,5161.506
+,Infrastructure & Investment,Transport,Investment,Roads (net),4024.527,b,,,,4024.527
+,Infrastructure & Investment,Transport,Investment,Local Authority Transport,1685.555,b,,,,1685.555
+,Infrastructure & Investment,Transport,Investment,Sustainable Travel,821.725,b,,,,821.725
+,Infrastructure & Investment,Transport,Investment,Transport Development Fund,850,b,,,,850
+,Infrastructure & Investment,Transport,Investment,"Aviation, maritime and security (net)",203.366,b,,,,203.366
+,Infrastructure & Investment,Transport,Investment,Buses,139.86,b,,,,139.86
+,Infrastructure & Investment,Transport,Investment,Central administration & ALBs,43.437,b,,,,43.437
+,Infrastructure & Investment,Transport,Investment,Research and support,22.093,b,,,,22.093
+,Infrastructure & Investment,Transport,Investment,Unallocated provision,84.066,b,,,,84.066
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Industrial strategy and investment,5912.013,b,,,,5912.013
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Science and research,952.637,b,,,,952.637
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Administration & central functions,642.011,b,,,,642.011
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Nuclear decommissioning,510.272,b,,,,510.272
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Competition and markets,275.931,b,,,,275.931
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Other energy legacy,225.726,b,,,,225.726
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Energy affordability,118.119,b,,,,118.119
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Tackling climate change,96.11,b,,,,96.11
+,Infrastructure & Investment,Business & Energy,Day-to-day Spending,Security of energy supply,21.253,b,,,,21.253
+,Infrastructure & Investment,Business & Energy,Investment,Science and research,11075.867,b,,,,11075.867
+,Infrastructure & Investment,Business & Energy,Investment,Nuclear decommissioning,2023.095,b,,,,2023.095
+,Infrastructure & Investment,Business & Energy,Investment,Industrial strategy and investment,1244.75,b,,,,1244.75
+,Infrastructure & Investment,Business & Energy,Investment,Tackling climate change,1111.765,b,,,,1111.765
+,Infrastructure & Investment,Business & Energy,Investment,Energy affordability,905,b,,,,905
+,Infrastructure & Investment,Business & Energy,Investment,Security of energy supply,129.3,b,,,,129.3
+,Infrastructure & Investment,Business & Energy,Investment,Other energy legacy,95.092,b,,,,95.092
+,Infrastructure & Investment,Business & Energy,Investment,Administration & central functions,45.801,b,,,,45.801
+,Infrastructure & Investment,Business & Energy,Investment,Competition and markets,34.481,b,,,,34.481
+,Infrastructure & Investment,"Environment, Food & Rural",Day-to-day Spending,Support and develop farming,2173.182,b,,,,2173.182
+,Infrastructure & Investment,"Environment, Food & Rural",Day-to-day Spending,Environment and biodiversity,892.273,b,,,,892.273
+,Infrastructure & Investment,"Environment, Food & Rural",Day-to-day Spending,Departmental operating costs,574.862,b,,,,574.862
+,Infrastructure & Investment,"Environment, Food & Rural",Day-to-day Spending,Animal and plant diseases,401.769,b,,,,401.769
+,Infrastructure & Investment,"Environment, Food & Rural",Day-to-day Spending,Flood protection,348.081,b,,,,348.081
+,Infrastructure & Investment,"Environment, Food & Rural",Investment,Flood protection,883.487,b,,,,883.487
+,Infrastructure & Investment,"Environment, Food & Rural",Investment,Departmental operating costs,313.036,b,,,,313.036
+,Infrastructure & Investment,"Environment, Food & Rural",Investment,Environment and biodiversity,230.659,b,,,,230.659
+,Infrastructure & Investment,"Environment, Food & Rural",Investment,Support and develop farming,85.4,b,,,,85.4
+,Infrastructure & Investment,"Environment, Food & Rural",Investment,Animal and plant diseases,23.025,b,,,,23.025
+,"Criminal Justice, Borders & Fire ",Home Office,Day-to-day Spending,Public safety inc. Police,10232.711,b,,,,10232.711
+,"Criminal Justice, Borders & Fire ",Home Office,Day-to-day Spending,Homeland security,1133.213,b,,,,1133.213
+,"Criminal Justice, Borders & Fire ",Home Office,Day-to-day Spending,Central Home Office,870.799,b,,,,870.799
+,"Criminal Justice, Borders & Fire ",Home Office,Day-to-day Spending,"Borders, migration & passport/visa income",471.662,b,,,,471.662
+,"Criminal Justice, Borders & Fire ",Home Office,Day-to-day Spending,"Strategy, analysis & technology",97.55,b,,,,97.55
+,"Criminal Justice, Borders & Fire ",Home Office,Day-to-day Spending,Other,451.637,b,,,,451.637
+,"Criminal Justice, Borders & Fire ",Home Office,Investment,"Borders, migration & passport/visa income",411.881,b,,,,411.881
+,"Criminal Justice, Borders & Fire ",Home Office,Investment,Homeland security,153.568,b,,,,153.568
+,"Criminal Justice, Borders & Fire ",Home Office,Investment,Public safety inc. Police,131.137,b,,,,131.137
+,"Criminal Justice, Borders & Fire ",Home Office,Investment,"Strategy, analysis & technology",43.404,b,,,,43.404
+,"Criminal Justice, Borders & Fire ",Home Office,Investment,Central Home Office,24.4,b,,,,24.4
+,"Criminal Justice, Borders & Fire ",Home Office,Investment,Other,126.137,b,,,,126.137
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Prisons and Probation,4702.68,b,,,,4702.68
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Courts and Tribunals,2025.502,b,,,,2025.502
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Legal Aid Agency,1908.498,b,,,,1908.498
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Central MOJ - policy & corporate strategy,200.904,b,,,,200.904
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Judicial salaries,165.763,b,,,,165.763
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Criminal Injuries Compensation Commission,137.879,b,,,,137.879
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Children & Family court services,135.821,b,,,,135.821
+,"Criminal Justice, Borders & Fire ",Justice,Day-to-day Spending,Other,132.66,b,,,,132.66
+,"Criminal Justice, Borders & Fire ",Justice,Investment,Prisons and Probation,1151.686,b,,,,1151.686
+,"Criminal Justice, Borders & Fire ",Justice,Investment,Courts and Tribunals,459.317,b,,,,459.317
+,"Criminal Justice, Borders & Fire ",Justice,Investment,Central MOJ - policy & corporate strategy,90.751,b,,,,90.751
+,"Criminal Justice, Borders & Fire ",Justice,Investment,Children & Family court services,5.622,b,,,,5.622
+,"Criminal Justice, Borders & Fire ",Justice,Investment,Legal Aid Agency,3.543,b,,,,3.543
+,"Criminal Justice, Borders & Fire ",Justice,Investment,Other,7,b,,,,7.346
+,Central Government,Cabinet Office,Day-to-day Spending,Delivery of HMG Programme & PM's priorities,566.856,b,,,,566.856
+,Central Government,Cabinet Office,Day-to-day Spending,Government efficiency and workforce,345.23,b,,,,345.23
+,Central Government,Cabinet Office,Day-to-day Spending,Central administration,196.032,b,,,,196.032
+,Central Government,Cabinet Office,Day-to-day Spending,Elections,84.4,b,,,,84.4
+,Central Government,Cabinet Office,Day-to-day Spending,"The Union, security & democracy",80.682,b,,,,80.682
+,Central Government,Cabinet Office,Day-to-day Spending,Arms length bodies,18.352,b,,,,18.352
+,Central Government,Cabinet Office,Day-to-day Spending,Government Property Agency,8.458,b,,,,8.458
+,Central Government,Cabinet Office,Investment,Government Property Agency,196.96,b,,,,196.96
+,Central Government,Cabinet Office,Investment,Delivery of HMG Programme & PM's responsibilities,177.27,b,,,,177.27
+,Central Government,Cabinet Office,Investment,Government efficiency and workforce,38.7,b,,,,38.7
+,Central Government,Cabinet Office,Investment,Central administration,12.64,b,,,,12.64
+,Central Government,Cabinet Office,Investment,"The Union, security & democracy",3.195,b,,,,3.195
+,Central Government,Treasury,Day-to-day Spending,Treasury administration,199.016,b,,,,199.016
+,Central Government,Treasury,Day-to-day Spending,Debt Management Office,23,b,,,,23
+,Central Government,Treasury,Day-to-day Spending,UK Government Investments,20.6,b,,,,20.6
+,Central Government,Treasury,Day-to-day Spending,Infrastructure Finance Unit Limited,17.984,b,,,,17.984
+,Central Government,Treasury,Day-to-day Spending,National Infrastructure Commission,5,b,,,,5
+,Central Government,Treasury,Day-to-day Spending,Office for Budget Responsibility,4.48,b,,,,4.48
+,Central Government,Treasury,Day-to-day Spending,Unallocated provision,3.5,b,,,,3.5
+,Central Government,Treasury,Day-to-day Spending,Government Internal Audit Agency ,2.725,b,,,,2.725
+,Central Government,Treasury,Day-to-day Spending,Banking & gifts registration service,2.13,b,,,,2.13
+,Central Government,Treasury,Day-to-day Spending,Other,1.063,b,,,,1.063
+,Central Government,Treasury,Investment,Treasury administration,6.663,b,,,,6.663
+,Central Government,Treasury,Investment,Debt Management Office,0.8,b,,,,0.8
+,Central Government,Treasury,Investment,Government Internal Audit Agency ,0.135,b,,,,0.135
+,Central Government,Treasury,Investment,National Infrastructure Commission,0.7,b,,,,0.7
+,Devolved Administrations,Scotland,Spending,Cash grant,20014.375,b,,,,20014.375
+,Devolved Administrations,Scotland,Spending,Payover of income tax to Scotland,11641.545,b,,,,11641.545
+,Devolved Administrations,Scotland,Spending,Scotland Office,10.85,b,,,,10.85
+,Devolved Administrations,Scotland,Spending,Boundary Comission,0.408,b,,,,0.408
+,Devolved Administrations,Wales,Spending,Cash grant,18249.783,b,,,,18249.783
+,Devolved Administrations,Wales,Spending,Wales Office,5.156,b,,,,5.156
+,Devolved Administrations,Wales,Spending,Payover of Welsh Rates of Income Tax to Welsh Consolidated Fund,2064.061,b,,,,2064.061
+,Devolved Administrations,Northern Ireland,Spending,Cash grant,21465.938,b,,,,21465.938
+,Devolved Administrations,Northern Ireland,Spending,N. Ireland Office,31.861,b,,,,31.861
+,Devolved Administrations,Northern Ireland,Spending,Commissions,3.165,b,,,,3.165
+Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
